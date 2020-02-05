@@ -233,7 +233,8 @@ def lookup_move_details(db, move_cache, move_name):
         m.power, m.pp, m.accuracy, m.priority,
         m.effect_chance, e.short_effect
     from moves m
-    inner join types t on t.id = m.type_id
+    left outer join move_types_hx mthx on mthx.move_id = m.id
+    inner join types t on t.id = coalesce(mthx.type_id, m.type_id)
     inner join move_damage_classes d on d.id = m.damage_class_id
     left outer join move_effect_prose e on e.move_effect_id = m.effect_id
                                        and e.local_language_id = 9
