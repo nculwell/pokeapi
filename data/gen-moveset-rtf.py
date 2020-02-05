@@ -292,10 +292,13 @@ def trunc(n):
     return int(float(n))
 
 def pairs(pair_list):
-    return ', '.join(( "%s %s" % (fmt_pct(pair[1]), pair[0]) for pair in pair_list ))
+    return ", ".join(( "%s %s" % (fmt_pct(pair[1]), pair[0]) for pair in pair_list ))
 
 def fmt_pct(n):
-    return str(int(float(n.strip('+%')))) + "%"
+    x = str(int(float(n.strip("+%")))) + "%"
+    if n[0] == "+":
+        x = "+" + x
+    return x
 
 if __name__ == "__main__":
     main()
