@@ -9,7 +9,7 @@ SQL4=import4.sql
 
 rm -f $DB $SQL1 $SQL2 $SQL3 $SQL4 $CSVLIST
 
-CSV_FILES=$(find *.csv ! -name '*flavor_text*' ! -name '*prose*')
+CSV_FILES=$(find *.csv ! -name '*flavor_text*' ! -name '*prose*' ! -name 'NOHEADER_*')
 for csv in $CSV_FILES; do
   # remove empty files (header line only)
   [ "$(wc -l "$csv" | cut -d' ' -f1)" -gt 1 ] || continue
@@ -17,5 +17,5 @@ for csv in $CSV_FILES; do
 done
 CSV_FILES=$(cat $CSVLIST)
 #rm -f $CSVLIST
-echo INCLUDING FILES: $CSV_FILES >&2
+#echo INCLUDING FILES: $CSV_FILES >&2
 

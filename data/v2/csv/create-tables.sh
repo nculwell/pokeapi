@@ -1,6 +1,6 @@
 #!/bin/sh
 
-. common.sh
+. ./common.sh
 
 echo ".mode csv" > $SQL1
 
