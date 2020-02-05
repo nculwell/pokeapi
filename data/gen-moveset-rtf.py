@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
 import sys, os, os.path, json
+import sqlite3
 
 def fail(msg, detail = None):
     if detail:
