@@ -77,7 +77,7 @@ def write_moveset(dst, db, moveset):
 
 def write_types(dst, types):
     #dst.write(r"\par {\s0 {\b %s:} \b " % "Type")
-    dst.write(r"\par {\s0 {\b")
+    dst.write(r"\par {\s0\b")
     for t in types:
         dst.write(" " + t.upper())
     dst.write(r"}")
@@ -117,7 +117,7 @@ def write_moves(dst, db, moves):
     move_text = []
     for m in moves:
         if m[0] in [ "Other", "Nothing" ]:
-            move_text.append(r"\line %s %s" % tuple(m))
+            move_text.append(r"\line %s %s" % (m[1], m[0]))
             continue
         md = lookup_move_details(db, m[0])
         #print(md, file=sys.stderr)
