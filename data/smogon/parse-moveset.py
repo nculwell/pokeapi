@@ -21,8 +21,8 @@ def main():
         fail("file exists, will not overwrite", dst_filename)
     with open(src_filename, encoding='utf8') as src:
         stats = parse_stats(src)
-        with open_dst(dst_filename) as dst:
-            write_stats(dst, stats)
+    with open_dst(dst_filename) as dst:
+        write_stats(dst, stats)
 
 def write_stats(dst, stats):
     json.dump(stats, dst, indent=2)
