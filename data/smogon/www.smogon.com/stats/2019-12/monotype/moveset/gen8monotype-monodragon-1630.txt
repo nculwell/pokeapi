@@ -1,0 +1,1032 @@
+ +----------------------------------------+ 
+ | Dragapult                              | 
+ +----------------------------------------+ 
+ | Raw count: 39288                       | 
+ | Avg. weight: 0.163584699893            | 
+ | Viability Ceiling: 90                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Infiltrator 51.956%                    | 
+ | Clear Body 45.222%                     | 
+ | Cursed Body  2.822%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Choice Specs 21.450%                   | 
+ | Life Orb 15.485%                       | 
+ | Choice Scarf 14.533%                   | 
+ | Choice Band 11.589%                    | 
+ | Focus Sash 10.969%                     | 
+ | Leftovers 10.541%                      | 
+ | Expert Belt  4.005%                    | 
+ | Light Clay  3.551%                     | 
+ | Lum Berry  1.724%                      | 
+ | Draco Plate  1.466%                    | 
+ | Other  4.688%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Timid:0/0/0/252/4/252 25.351%          | 
+ | Jolly:0/252/0/0/4/252 24.752%          | 
+ | Adamant:0/252/0/0/4/252 16.891%        | 
+ | Lonely:0/252/0/4/0/252  4.061%         | 
+ | Modest:0/0/0/252/4/252  2.495%         | 
+ | Adamant:4/252/0/0/0/252  2.213%        | 
+ | Other 24.237%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Dragon Darts 61.899%                   | 
+ | Phantom Force 45.098%                  | 
+ | U-turn 38.189%                         | 
+ | Shadow Ball 36.866%                    | 
+ | Dragon Dance 36.133%                   | 
+ | Draco Meteor 29.126%                   | 
+ | Fire Blast 25.611%                     | 
+ | Sucker Punch 24.910%                   | 
+ | Thunderbolt 23.683%                    | 
+ | Psychic Fangs 15.663%                  | 
+ | Flamethrower 12.422%                   | 
+ | Substitute 10.003%                     | 
+ | Steel Wing  8.288%                     | 
+ | Outrage  4.241%                        | 
+ | Light Screen  3.795%                   | 
+ | Reflect  3.760%                        | 
+ | Dragon Pulse  3.509%                   | 
+ | Other 16.803%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Duraludon                              | 
+ +----------------------------------------+ 
+ | Raw count: 32850                       | 
+ | Avg. weight: 0.177950507498            | 
+ | Viability Ceiling: 90                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Stalwart 45.261%                       | 
+ | Light Metal 42.764%                    | 
+ | Heavy Metal 11.975%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 36.328%                      | 
+ | Assault Vest 16.752%                   | 
+ | Focus Sash 15.605%                     | 
+ | Choice Scarf 10.806%                   | 
+ | Light Clay  5.032%                     | 
+ | Choice Specs  2.988%                   | 
+ | Shuca Berry  1.994%                    | 
+ | Life Orb  1.984%                       | 
+ | Rocky Helmet  1.839%                   | 
+ | Sitrus Berry  1.091%                   | 
+ | Air Balloon  0.960%                    | 
+ | Other  4.622%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Timid:0/0/0/252/4/252 30.288%          | 
+ | Bold:252/0/252/4/0/0  9.406%           | 
+ | Modest:252/0/0/252/4/0  3.497%         | 
+ | Modest:252/0/0/252/0/4  2.563%         | 
+ | Timid:248/0/0/8/0/252  2.540%          | 
+ | Careful:252/0/4/0/252/0  2.468%        | 
+ | Other 49.239%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Flash Cannon 78.573%                   | 
+ | Stealth Rock 66.329%                   | 
+ | Thunderbolt 51.823%                    | 
+ | Draco Meteor 51.034%                   | 
+ | Thunder Wave 35.822%                   | 
+ | Dragon Pulse 19.920%                   | 
+ | Steel Beam 16.820%                     | 
+ | Dark Pulse 15.290%                     | 
+ | Foul Play 10.852%                      | 
+ | Body Press  8.202%                     | 
+ | Dragon Tail  7.162%                    | 
+ | Iron Head  6.158%                      | 
+ | Reflect  5.522%                        | 
+ | Light Screen  5.500%                   | 
+ | Metal Burst  4.563%                    | 
+ | Other 16.430%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Hydreigon                              | 
+ +----------------------------------------+ 
+ | Raw count: 30877                       | 
+ | Avg. weight: 0.182184936168            | 
+ | Viability Ceiling: 90                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Levitate 100.000%                      | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Choice Scarf 31.309%                   | 
+ | Leftovers 26.723%                      | 
+ | Choice Specs 22.407%                   | 
+ | Life Orb  8.979%                       | 
+ | Focus Sash  2.991%                     | 
+ | Expert Belt  1.614%                    | 
+ | White Herb  0.901%                     | 
+ | Assault Vest  0.664%                   | 
+ | Other  4.411%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Timid:0/0/0/252/4/252 73.720%          | 
+ | Timid:0/0/4/252/0/252 11.477%          | 
+ | Timid:4/0/0/252/0/252  4.857%          | 
+ | Modest:0/0/0/252/4/252  1.976%         | 
+ | Timid:0/0/0/252/0/252  1.802%          | 
+ | Modest:0/0/0/252/0/252  1.416%         | 
+ | Other  4.752%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Dark Pulse 97.449%                     | 
+ | Flash Cannon 74.086%                   | 
+ | Draco Meteor 56.236%                   | 
+ | Nasty Plot 38.246%                     | 
+ | Fire Blast 37.408%                     | 
+ | Flamethrower 24.029%                   | 
+ | Substitute 23.849%                     | 
+ | Earth Power 14.594%                    | 
+ | U-turn 11.387%                         | 
+ | Dragon Pulse 11.298%                   | 
+ | Other 11.418%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Dracovish                              | 
+ +----------------------------------------+ 
+ | Raw count: 30300                       | 
+ | Avg. weight: 0.171694600601            | 
+ | Viability Ceiling: 90                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Strong Jaw 96.239%                     | 
+ | Water Absorb  3.761%                   | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Choice Scarf 70.253%                   | 
+ | Choice Band 26.003%                    | 
+ | Other  3.743%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Jolly:0/252/0/0/4/252 47.134%          | 
+ | Adamant:0/252/0/0/4/252 12.356%        | 
+ | Jolly:4/252/0/0/0/252 10.294%          | 
+ | Jolly:0/252/4/0/0/252  5.802%          | 
+ | Adamant:4/252/0/0/0/252  5.424%        | 
+ | Jolly:0/252/0/0/0/252  4.639%          | 
+ | Other 14.351%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Fishious Rend 99.536%                  | 
+ | Psychic Fangs 80.169%                  | 
+ | Crunch 69.259%                         | 
+ | Outrage 52.773%                        | 
+ | Ice Fang 33.741%                       | 
+ | Earthquake 18.881%                     | 
+ | Iron Head 17.764%                      | 
+ | Low Kick 11.127%                       | 
+ | Other 16.750%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Kommo-o                                | 
+ +----------------------------------------+ 
+ | Raw count: 21510                       | 
+ | Avg. weight: 0.188414913093            | 
+ | Viability Ceiling: 89                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Bulletproof 64.757%                    | 
+ | Soundproof 31.041%                     | 
+ | Overcoat  4.203%                       | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Throat Spray 27.573%                   | 
+ | Leftovers 23.641%                      | 
+ | Iapapa Berry 11.811%                   | 
+ | Focus Sash 10.944%                     | 
+ | Sitrus Berry  6.829%                   | 
+ | Salac Berry  5.227%                    | 
+ | Life Orb  3.529%                       | 
+ | Choice Specs  1.508%                   | 
+ | Aguav Berry  1.444%                    | 
+ | Figy Berry  0.959%                     | 
+ | Lum Berry  0.834%                      | 
+ | Rocky Helmet  0.814%                   | 
+ | Other  4.888%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Naive:0/4/0/252/0/252 24.052%          | 
+ | Timid:0/0/0/252/4/252 17.750%          | 
+ | Jolly:0/252/0/0/4/252 14.522%          | 
+ | Jolly:4/252/0/0/0/252  5.646%          | 
+ | Naive:0/252/0/4/0/252  4.202%          | 
+ | Adamant:0/252/0/0/4/252  2.951%        | 
+ | Other 30.878%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Clangorous Soul 67.518%                | 
+ | Clanging Scales 54.210%                | 
+ | Drain Punch 49.104%                    | 
+ | Flamethrower 40.246%                   | 
+ | Close Combat 21.874%                   | 
+ | Stealth Rock 20.505%                   | 
+ | Poison Jab 17.283%                     | 
+ | Aura Sphere 14.107%                    | 
+ | Flash Cannon 13.330%                   | 
+ | Iron Head 10.769%                      | 
+ | Dragon Claw 10.216%                    | 
+ | Taunt  9.792%                          | 
+ | Substitute  9.322%                     | 
+ | Dragon Dance  8.960%                   | 
+ | Outrage  6.758%                        | 
+ | Earthquake  6.110%                     | 
+ | Thunder Punch  5.384%                  | 
+ | Belly Drum  5.043%                     | 
+ | Focus Blast  4.500%                    | 
+ | Shadow Claw  4.146%                    | 
+ | Boomburst  3.873%                      | 
+ | Other 16.950%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Haxorus                                | 
+ +----------------------------------------+ 
+ | Raw count: 15374                       | 
+ | Avg. weight: 0.168488662657            | 
+ | Viability Ceiling: 90                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Mold Breaker 97.207%                   | 
+ | Rivalry  2.049%                        | 
+ | Unnerve  0.744%                        | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Choice Band 27.954%                    | 
+ | Life Orb 19.235%                       | 
+ | Lum Berry 17.404%                      | 
+ | Choice Scarf 11.239%                   | 
+ | Focus Sash  9.113%                     | 
+ | Leftovers  5.885%                      | 
+ | Roseli Berry  2.817%                   | 
+ | Haban Berry  2.709%                    | 
+ | Other  3.644%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Jolly:0/252/0/0/4/252 44.620%          | 
+ | Adamant:0/252/0/0/4/252 25.779%        | 
+ | Jolly:4/252/0/0/0/252  9.572%          | 
+ | Jolly:0/252/4/0/0/252  9.067%          | 
+ | Jolly:0/252/0/0/0/252  3.143%          | 
+ | Adamant:4/252/0/0/0/252  2.543%        | 
+ | Other  5.277%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Earthquake 82.726%                     | 
+ | Outrage 80.724%                        | 
+ | Poison Jab 52.419%                     | 
+ | Dragon Dance 50.418%                   | 
+ | Close Combat 49.054%                   | 
+ | First Impression 34.660%               | 
+ | Iron Tail 16.865%                      | 
+ | Dragon Claw 16.555%                    | 
+ | Other 16.577%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Noivern                                | 
+ +----------------------------------------+ 
+ | Raw count: 12356                       | 
+ | Avg. weight: 0.188431078888            | 
+ | Viability Ceiling: 86                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Infiltrator 69.078%                    | 
+ | Frisk 30.922%                          | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Heavy-Duty Boots 24.560%               | 
+ | Choice Scarf 21.355%                   | 
+ | Choice Specs 16.764%                   | 
+ | Life Orb 14.079%                       | 
+ | Leftovers  7.393%                      | 
+ | Focus Sash  6.692%                     | 
+ | Throat Spray  1.795%                   | 
+ | Mental Herb  1.646%                    | 
+ | Rocky Helmet  1.210%                   | 
+ | Other  4.507%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Timid:0/0/0/252/4/252 66.244%          | 
+ | Timid:252/0/0/4/0/252 12.081%          | 
+ | Timid:0/0/4/252/0/252  4.122%          | 
+ | Timid:4/0/0/252/0/252  2.873%          | 
+ | Timid:252/0/0/24/0/232  2.827%         | 
+ | Timid:184/0/0/92/0/232  1.995%         | 
+ | Other  9.857%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Defog 67.760%                          | 
+ | Hurricane 63.863%                      | 
+ | Draco Meteor 63.249%                   | 
+ | Flamethrower 53.565%                   | 
+ | U-turn 31.518%                         | 
+ | Roost 23.574%                          | 
+ | Taunt 18.218%                          | 
+ | Air Slash 17.526%                      | 
+ | Tailwind 16.372%                       | 
+ | Boomburst 14.604%                      | 
+ | Dragon Pulse  7.499%                   | 
+ | Dark Pulse  5.861%                     | 
+ | Other 16.391%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Duraludon +0.645%                      | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Goodra                                 | 
+ +----------------------------------------+ 
+ | Raw count: 15254                       | 
+ | Avg. weight: 0.149377609087            | 
+ | Viability Ceiling: 85                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Sap Sipper 52.134%                     | 
+ | Gooey 45.284%                          | 
+ | Hydration  2.582%                      | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Assault Vest 81.932%                   | 
+ | Leftovers  8.875%                      | 
+ | Choice Specs  6.450%                   | 
+ | Other  2.743%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Modest:248/0/0/252/8/0 32.470%         | 
+ | Mild:248/8/0/252/0/0 11.655%           | 
+ | Modest:248/0/8/252/0/0  9.012%         | 
+ | Timid:0/0/0/252/4/252  5.511%          | 
+ | Calm:252/0/0/4/252/0  3.267%           | 
+ | Modest:252/0/0/252/4/0  2.813%         | 
+ | Other 35.271%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Sludge Wave 58.999%                    | 
+ | Thunderbolt 57.984%                    | 
+ | Dragon Pulse 52.953%                   | 
+ | Flamethrower 50.071%                   | 
+ | Fire Blast 37.542%                     | 
+ | Draco Meteor 31.588%                   | 
+ | Ice Beam 24.745%                       | 
+ | Sludge Bomb 22.137%                    | 
+ | Earthquake 21.491%                     | 
+ | Power Whip  7.193%                     | 
+ | Acid Spray  5.431%                     | 
+ | Focus Blast  4.832%                    | 
+ | Surf  3.742%                           | 
+ | Hydro Pump  3.142%                     | 
+ | Other 18.148%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Dracozolt                              | 
+ +----------------------------------------+ 
+ | Raw count: 15800                       | 
+ | Avg. weight: 0.141769313522            | 
+ | Viability Ceiling: 90                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Hustle 84.106%                         | 
+ | Volt Absorb 15.894%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Choice Scarf 50.338%                   | 
+ | Blunder Policy 13.488%                 | 
+ | Choice Band 13.402%                    | 
+ | Leftovers  6.305%                      | 
+ | Wide Lens  6.150%                      | 
+ | Quick Claw  3.364%                     | 
+ | Life Orb  2.924%                       | 
+ | Other  4.029%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Jolly:0/252/0/0/4/252 45.962%          | 
+ | Jolly:4/252/0/0/0/252 13.585%          | 
+ | Adamant:0/252/0/0/4/252 10.934%        | 
+ | Adamant:4/252/0/0/0/252  7.929%        | 
+ | Adamant:248/252/0/0/8/0  5.152%        | 
+ | Jolly:0/252/0/0/0/252  4.752%          | 
+ | Other 11.687%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Bolt Beak 97.635%                      | 
+ | Earthquake 68.076%                     | 
+ | Outrage 56.812%                        | 
+ | Fire Fang 51.719%                      | 
+ | Dragon Claw 37.807%                    | 
+ | Low Kick 20.430%                       | 
+ | Substitute 13.564%                     | 
+ | Iron Tail 12.561%                      | 
+ | Aerial Ace 10.460%                     | 
+ | Rock Slide  8.991%                     | 
+ | Stone Edge  7.462%                     | 
+ | Other 14.484%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Appletun +1.411%                       | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Turtonator                             | 
+ +----------------------------------------+ 
+ | Raw count: 7711                        | 
+ | Avg. weight: 0.115042402469            | 
+ | Viability Ceiling: 86                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Shell Armor 100.000%                   | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | White Herb 28.817%                     | 
+ | Heavy-Duty Boots 27.161%               | 
+ | Leftovers 19.357%                      | 
+ | Assault Vest 13.059%                   | 
+ | Focus Sash  3.897%                     | 
+ | Iapapa Berry  2.700%                   | 
+ | Rocky Helmet  1.747%                   | 
+ | Other  3.263%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Modest:0/0/0/252/4/252 14.853%         | 
+ | Modest:128/0/0/252/0/128 10.307%       | 
+ | Timid:0/0/0/252/4/252  9.567%          | 
+ | Bold:252/0/216/40/0/0  6.426%          | 
+ | Calm:252/0/4/0/252/0  4.300%           | 
+ | Calm:248/0/0/8/252/0  3.849%           | 
+ | Other 50.698%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Rapid Spin 65.773%                     | 
+ | Flamethrower 63.570%                   | 
+ | Dragon Pulse 47.246%                   | 
+ | Shell Smash 46.213%                    | 
+ | Will-O-Wisp 34.197%                    | 
+ | Draco Meteor 32.565%                   | 
+ | Flash Cannon 28.044%                   | 
+ | Fire Blast 24.488%                     | 
+ | Body Press  8.407%                     | 
+ | Protect  7.716%                        | 
+ | Shell Trap  7.182%                     | 
+ | Focus Blast  5.999%                    | 
+ | Earthquake  4.807%                     | 
+ | Iron Defense  2.478%                   | 
+ | Explosion  2.063%                      | 
+ | Other 19.250%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Silvally-Dragon +1.643%                | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Appletun                               | 
+ +----------------------------------------+ 
+ | Raw count: 9689                        | 
+ | Avg. weight: 0.0717460360744           | 
+ | Viability Ceiling: 76                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Thick Fat 77.289%                      | 
+ | Ripen 20.741%                          | 
+ | Gluttony  1.971%                       | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 65.820%                      | 
+ | Sitrus Berry 12.472%                   | 
+ | Light Clay  4.260%                     | 
+ | Assault Vest  3.554%                   | 
+ | Aguav Berry  2.427%                    | 
+ | Lum Berry  1.957%                      | 
+ | Iapapa Berry  1.539%                   | 
+ | Maranga Berry  1.404%                  | 
+ | Petaya Berry  1.343%                   | 
+ | Rocky Helmet  0.712%                   | 
+ | Other  4.512%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Calm:248/0/0/8/252/0 23.079%           | 
+ | Calm:252/0/0/4/252/0 18.278%           | 
+ | Bold:252/0/252/4/0/0 11.227%           | 
+ | Bold:252/0/252/0/4/0  4.617%           | 
+ | Relaxed:252/4/252/0/0/0  3.626%        | 
+ | Bold:216/0/252/0/40/0  3.589%          | 
+ | Other 35.584%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Leech Seed 86.420%                     | 
+ | Apple Acid 71.690%                     | 
+ | Recover 54.636%                        | 
+ | Dragon Pulse 42.847%                   | 
+ | Protect 26.085%                        | 
+ | Giga Drain 23.259%                     | 
+ | Substitute 19.481%                     | 
+ | Draco Meteor 12.858%                   | 
+ | Recycle 12.570%                        | 
+ | Body Press  7.512%                     | 
+ | Light Screen  6.545%                   | 
+ | Reflect  5.327%                        | 
+ | Iron Defense  4.751%                   | 
+ | Energy Ball  4.228%                    | 
+ | Gyro Ball  4.164%                      | 
+ | Other 17.626%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Dracozolt +4.503%                      | 
+ | Drampa +2.528%                         | 
+ | Flygon +2.030%                         | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Flygon                                 | 
+ +----------------------------------------+ 
+ | Raw count: 7464                        | 
+ | Avg. weight: 0.0874858132018           | 
+ | Viability Ceiling: 80                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Levitate 100.000%                      | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Choice Scarf 21.399%                   | 
+ | Life Orb 20.338%                       | 
+ | Choice Band 12.856%                    | 
+ | Lum Berry 10.383%                      | 
+ | Leftovers  9.032%                      | 
+ | Focus Sash  8.221%                     | 
+ | Assault Vest  4.540%                   | 
+ | Soft Sand  4.368%                      | 
+ | Iapapa Berry  2.621%                   | 
+ | Rocky Helmet  1.854%                   | 
+ | Other  4.388%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Jolly:0/252/0/0/4/252 58.407%          | 
+ | Adamant:0/252/0/0/4/252 22.334%        | 
+ | Adamant:4/252/0/0/0/252  5.135%        | 
+ | Jolly:0/252/4/0/0/252  4.396%          | 
+ | Jolly:0/252/0/4/0/252  2.107%          | 
+ | Jolly:4/252/0/0/0/252  1.765%          | 
+ | Other  5.856%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Earthquake 97.485%                     | 
+ | Outrage 63.408%                        | 
+ | Dragon Dance 50.043%                   | 
+ | U-turn 47.166%                         | 
+ | Fire Punch 30.263%                     | 
+ | Dragon Claw 25.228%                    | 
+ | First Impression 19.606%               | 
+ | Stone Edge 18.666%                     | 
+ | Iron Tail  6.341%                      | 
+ | Rock Slide  5.635%                     | 
+ | Substitute  5.424%                     | 
+ | Superpower  5.405%                     | 
+ | Thunder Punch  4.359%                  | 
+ | Crunch  3.153%                         | 
+ | Other 17.818%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Silvally-Dragon +2.804%                | 
+ | Appletun +2.078%                       | 
+ | Drampa +1.595%                         | 
+ | Drakloak +0.563%                       | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Flapple                                | 
+ +----------------------------------------+ 
+ | Raw count: 6187                        | 
+ | Avg. weight: 0.0882296044203           | 
+ | Viability Ceiling: 79                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Hustle 75.997%                         | 
+ | Ripen 23.191%                          | 
+ | Gluttony  0.812%                       | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Life Orb 36.155%                       | 
+ | Leftovers 13.728%                      | 
+ | Choice Band  7.809%                    | 
+ | Aguav Berry  7.700%                    | 
+ | Focus Sash  6.316%                     | 
+ | Sitrus Berry  5.641%                   | 
+ | Choice Scarf  4.471%                   | 
+ | Wide Lens  4.462%                      | 
+ | Salac Berry  4.269%                    | 
+ | Iapapa Berry  2.008%                   | 
+ | Figy Berry  1.447%                     | 
+ | Liechi Berry  1.203%                   | 
+ | Other  4.790%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Jolly:0/252/0/0/4/252 43.781%          | 
+ | Adamant:0/252/0/0/4/252 25.595%        | 
+ | Adamant:0/252/4/0/0/252  7.649%        | 
+ | Jolly:0/252/4/0/0/252  4.338%          | 
+ | Adamant:252/252/0/0/0/4  4.311%        | 
+ | Adamant:4/252/0/0/0/252  2.750%        | 
+ | Other 11.576%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Grav Apple 91.896%                     | 
+ | Outrage 91.256%                        | 
+ | Sucker Punch 79.502%                   | 
+ | Dragon Dance 72.403%                   | 
+ | U-turn 25.604%                         | 
+ | Acrobatics 16.124%                     | 
+ | Seed Bomb  7.372%                      | 
+ | Other 15.843%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Silvally-Dragon                        | 
+ +----------------------------------------+ 
+ | Raw count: 1518                        | 
+ | Avg. weight: 0.0819524609747           | 
+ | Viability Ceiling: 74                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | RKS System 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Dragon Memory 100.000%                 | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Jolly:0/252/0/0/4/252 31.642%          | 
+ | Calm:252/0/100/0/156/0 28.270%         | 
+ | Timid:0/0/0/252/4/252 12.615%          | 
+ | Timid:252/0/0/4/0/252  5.656%          | 
+ | Impish:0/228/180/0/100/0  3.140%       | 
+ | Relaxed:40/0/232/0/236/0  2.320%       | 
+ | Other 16.357%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Parting Shot 77.941%                   | 
+ | Multi-Attack 61.547%                   | 
+ | Thunder Wave 54.477%                   | 
+ | Flash Cannon 35.473%                   | 
+ | Draco Meteor 28.283%                   | 
+ | Iron Head 23.110%                      | 
+ | Flamethrower 15.526%                   | 
+ | Swords Dance 14.030%                   | 
+ | Fire Fang 13.198%                      | 
+ | Psychic Fangs 10.761%                  | 
+ | Ice Beam  8.852%                       | 
+ | Surf  7.253%                           | 
+ | Sunny Day  5.656%                      | 
+ | Explosion  5.646%                      | 
+ | Shadow Claw  4.928%                    | 
+ | U-turn  4.389%                         | 
+ | Ice Fang  3.671%                       | 
+ | Steel Beam  3.016%                     | 
+ | Rock Slide  2.343%                     | 
+ | Other 19.902%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Flygon +13.270%                        | 
+ | Turtonator +10.398%                    | 
+ | Noivern +3.100%                        | 
+ | Drakloak +2.613%                       | 
+ | Drampa +1.384%                         | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Drampa                                 | 
+ +----------------------------------------+ 
+ | Raw count: 1429                        | 
+ | Avg. weight: 0.0768265445094           | 
+ | Viability Ceiling: 80                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Berserk 67.206%                        | 
+ | Cloud Nine 19.709%                     | 
+ | Sap Sipper 13.085%                     | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Choice Specs 24.633%                   | 
+ | Haban Berry 17.590%                    | 
+ | Assault Vest 17.561%                   | 
+ | Leftovers 10.869%                      | 
+ | Life Orb  8.525%                       | 
+ | Focus Sash  7.240%                     | 
+ | Aguav Berry  4.595%                    | 
+ | White Herb  2.480%                     | 
+ | Iapapa Berry  2.060%                   | 
+ | Other  4.448%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Modest:248/0/0/252/8/0 51.860%         | 
+ | Modest:252/0/0/252/4/0 14.342%         | 
+ | Serious:252/0/0/56/200/0 12.128%       | 
+ | Modest:140/0/0/252/0/116  5.054%       | 
+ | Modest:136/0/0/252/0/120  3.765%       | 
+ | Modest:88/0/84/252/84/0  3.362%        | 
+ | Other  9.488%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Hyper Voice 68.048%                    | 
+ | Draco Meteor 63.644%                   | 
+ | Dragon Pulse 38.241%                   | 
+ | Flamethrower 37.861%                   | 
+ | Fire Blast 34.775%                     | 
+ | Ice Beam 23.385%                       | 
+ | Thunderbolt 23.206%                    | 
+ | Energy Ball 19.862%                    | 
+ | Glare 19.249%                          | 
+ | Calm Mind 15.055%                      | 
+ | Hurricane 14.756%                      | 
+ | Extrasensory 10.743%                   | 
+ | Substitute  6.513%                     | 
+ | Focus Blast  4.643%                    | 
+ | Thunder Wave  4.486%                   | 
+ | Other 15.535%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Appletun +15.170%                      | 
+ | Flygon +9.445%                         | 
+ | Dracozolt +3.987%                      | 
+ | Drakloak +3.318%                       | 
+ | Silvally-Dragon +1.729%                | 
+ | Turtonator +1.383%                     | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Noibat                                 | 
+ +----------------------------------------+ 
+ | Raw count: 19                          | 
+ | Avg. weight: 0.272379439817            | 
+ | Viability Ceiling: 70                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Frisk 98.600%                          | 
+ | Infiltrator  1.400%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Focus Sash 98.600%                     | 
+ | Other  1.400%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Naive:0/252/0/4/0/252 98.600%          | 
+ | Other  1.400%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Taunt 98.600%                          | 
+ | U-turn 98.600%                         | 
+ | Tailwind 98.600%                       | 
+ | Super Fang 98.600%                     | 
+ | Other  5.599%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Dracozolt +65.150%                     | 
+ | Noivern +63.517%                       | 
+ | Dracovish +20.308%                     | 
+ | Hydreigon +12.895%                     | 
+ | Dragapult +1.595%                      | 
+ | Vibrava +1.398%                        | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Drakloak                               | 
+ +----------------------------------------+ 
+ | Raw count: 62                          | 
+ | Avg. weight: 0.0714415770544           | 
+ | Viability Ceiling: 62                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Infiltrator 88.510%                    | 
+ | Clear Body 11.490%                     | 
+ | Cursed Body  0.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 79.214%                      | 
+ | Eviolite 11.490%                       | 
+ | Focus Sash  9.296%                     | 
+ | Other  0.000%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Adamant:0/252/0/4/0/252 79.209%        | 
+ | Adamant:252/252/0/0/4/0 11.490%        | 
+ | Adamant:0/252/0/0/4/252  9.296%        | 
+ | Other  0.005%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Dragon Dance 100.000%                  | 
+ | Outrage 100.000%                       | 
+ | Phantom Force 85.525%                  | 
+ | Substitute 79.214%                     | 
+ | Psychic Fangs 25.960%                  | 
+ | Other  9.301%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Flygon +73.501%                        | 
+ | Drampa +72.624%                        | 
+ | Silvally-Dragon +72.166%               | 
+ | Turtonator +60.336%                    | 
+ | Haxorus +35.106%                       | 
+ | Appletun +1.338%                       | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Zweilous                               | 
+ +----------------------------------------+ 
+ | Raw count: 93                          | 
+ | Avg. weight: 0.0214479197824           | 
+ | Viability Ceiling: 59                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Hustle 100.000%                        | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Eviolite 77.746%                       | 
+ | Assault Vest 17.253%                   | 
+ | Choice Band  5.001%                    | 
+ | Other -0.000%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Adamant:252/252/0/0/4/0 39.087%        | 
+ | Impish:4/0/252/0/252/0 27.584%         | 
+ | Hardy:128/252/0/0/0/128 17.253%        | 
+ | Adamant:248/252/8/0/0/0 15.669%        | 
+ | Other  0.406%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Crunch 99.748%                         | 
+ | Outrage 99.338%                        | 
+ | Zen Headbutt 50.936%                   | 
+ | Superpower 37.927%                     | 
+ | Ice Fang 34.237%                       | 
+ | Substitute 27.836%                     | 
+ | Body Slam 27.735%                      | 
+ | Fire Fang 16.076%                      | 
+ | Other  6.168%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Dracozolt +26.539%                     | 
+ | Flygon +20.199%                        | 
+ | Turtonator +11.587%                    | 
+ | Flapple +9.577%                        | 
+ | Dracovish +6.908%                      | 
+ | Silvally-Dragon +2.934%                | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Sliggoo                                | 
+ +----------------------------------------+ 
+ | Raw count: 104                         | 
+ | Avg. weight: 0.0241807445951           | 
+ | Viability Ceiling: 61                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Hydration 81.309%                      | 
+ | Sap Sipper 10.004%                     | 
+ | Gooey  8.687%                          | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Eviolite 100.000%                      | 
+ | Other  0.000%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Calm:252/0/4/0/252/0 68.944%           | 
+ | Modest:252/0/0/252/4/0 14.057%         | 
+ | Bold:252/0/204/0/52/0  9.900%          | 
+ | Modest:24/0/232/252/0/0  7.099%        | 
+ | Other  0.000%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Rest 88.755%                           | 
+ | Rain Dance 81.309%                     | 
+ | Curse 68.944%                          | 
+ | Body Slam 68.944%                      | 
+ | Dragon Pulse 20.809%                   | 
+ | Sludge Bomb 18.344%                    | 
+ | Acid Spray 12.712%                     | 
+ | Ice Beam 11.245%                       | 
+ | Life Dew 11.140%                       | 
+ | Other 17.798%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Turtonator +65.225%                    | 
+ | Noivern +48.307%                       | 
+ | Dracovish +17.333%                     | 
+ | Appletun +8.947%                       | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Fraxure                                | 
+ +----------------------------------------+ 
+ | Raw count: 22                          | 
+ | Avg. weight: 0.0498062733027           | 
+ | Viability Ceiling: 62                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Mold Breaker 81.820%                   | 
+ | Rivalry 18.180%                        | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Eviolite 100.000%                      | 
+ | Other  0.000%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Adamant:0/252/0/0/4/252 49.138%        | 
+ | Adamant:252/252/0/0/4/0 32.682%        | 
+ | Adamant:248/252/0/0/8/0 18.180%        | 
+ | Other  0.000%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Poison Jab 100.000%                    | 
+ | Dragon Dance 81.820%                   | 
+ | Dragon Claw 61.828%                    | 
+ | First Impression 50.862%               | 
+ | Crunch 49.138%                         | 
+ | Shadow Claw 38.172%                    | 
+ | Other 18.180%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Appletun +82.441%                      | 
+ | Dracozolt +40.693%                     | 
+ | Drampa +16.501%                        | 
+ | Flygon +8.076%                         | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Hakamo-o                               | 
+ +----------------------------------------+ 
+ | Raw count: 40                          | 
+ | Avg. weight: 0.0402321528298           | 
+ | Viability Ceiling: 60                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Bulletproof 100.000%                   | 
+ | Overcoat  0.000%                       | 
+ | Soundproof  0.000%                     | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Eviolite 100.000%                      | 
+ | Other  0.000%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Careful:100/0/156/0/252/0 94.614%      | 
+ | Adamant:252/252/0/0/4/0  4.895%        | 
+ | Other  0.491%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Dragon Dance 100.000%                  | 
+ | Drain Punch 94.614%                    | 
+ | Shadow Claw 94.614%                    | 
+ | Dragon Claw 94.614%                    | 
+ | Other 16.159%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Haxorus +38.540%                       | 
+ | Goomy +3.968%                          | 
+ | Dracovish +3.759%                      | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 

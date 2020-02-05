@@ -1,0 +1,3175 @@
+ +----------------------------------------+ 
+ | Heracross                              | 
+ +----------------------------------------+ 
+ | Raw count: 101                         | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 81                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 78.218%                      | 
+ | Miracle Berry  8.911%                  | 
+ | Focus Band  2.970%                     | 
+ | Black Belt  2.970%                     | 
+ | PRZ Cure Berry  1.980%                 | 
+ | Other  4.950%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 92.079%| 
+ | Serious:252/252/252/0/252/252  6.931%  | 
+ | Other  0.990%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Megahorn 95.050%                       | 
+ | Rest 61.386%                           | 
+ | Sleep Talk 54.455%                     | 
+ | Hidden Power Fighting 44.554%          | 
+ | Earthquake 33.663%                     | 
+ | Curse 24.752%                          | 
+ | Seismic Toss 21.782%                   | 
+ | Reversal 11.881%                       | 
+ | Endure 11.881%                         | 
+ | Counter  8.911%                        | 
+ | Frustration  5.941%                    | 
+ | Toxic  5.941%                          | 
+ | Other 19.802%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Porygon2 +7.555%                       | 
+ | Starmie +7.279%                        | 
+ | Suicune +3.140%                        | 
+ | Vaporeon +0.896%                       | 
+ | Quagsire +0.629%                       | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Raikou                                 | 
+ +----------------------------------------+ 
+ | Raw count: 53                          | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 72                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 83.019%                      | 
+ | Magnet  5.660%                         | 
+ | Mint Berry  3.774%                     | 
+ | Scope Lens  1.887%                     | 
+ | Focus Band  1.887%                     | 
+ | Other  3.774%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 98.113%| 
+ | Other  1.887%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Thunderbolt 83.019%                    | 
+ | Rest 56.604%                           | 
+ | Crunch 50.943%                         | 
+ | Toxic 32.075%                          | 
+ | Hidden Power Ice 28.302%               | 
+ | Sleep Talk 28.302%                     | 
+ | Thunder 15.094%                        | 
+ | Reflect 15.094%                        | 
+ | Hyper Beam 15.094%                     | 
+ | Curse 15.094%                          | 
+ | Zap Cannon 11.321%                     | 
+ | Protect  9.434%                        | 
+ | Hidden Power Water  7.547%             | 
+ | Frustration  5.660%                    | 
+ | Return  3.774%                         | 
+ | Detect  3.774%                         | 
+ | Other 18.868%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Vaporeon +7.267%                       | 
+ | Machamp +4.819%                        | 
+ | Venusaur +3.128%                       | 
+ | Articuno +2.873%                       | 
+ | Quagsire +2.422%                       | 
+ | Entei +2.422%                          | 
+ | Heracross +1.725%                      | 
+ | Vulpix +1.436%                         | 
+ | Rattata +1.436%                        | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Starmie                                | 
+ +----------------------------------------+ 
+ | Raw count: 58                          | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 73                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 93.103%                      | 
+ | Miracle Berry  3.448%                  | 
+ | Other  3.448%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 94.828%| 
+ | Serious:252/0/252/252/252/252  3.448%  | 
+ | Other  1.724%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Psychic 98.276%                        | 
+ | Recover 67.241%                        | 
+ | Thunderbolt 65.517%                    | 
+ | Surf 63.793%                           | 
+ | Ice Beam 37.931%                       | 
+ | Hydro Pump 29.310%                     | 
+ | Thunder Wave 12.069%                   | 
+ | Light Screen  6.897%                   | 
+ | Other 18.966%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Porygon2 +17.832%                      | 
+ | Heracross +9.630%                      | 
+ | Misdreavus +2.470%                     | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Umbreon                                | 
+ +----------------------------------------+ 
+ | Raw count: 50                          | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 81                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 94.000%                      | 
+ | Black Glasses  4.000%                  | 
+ | Other  2.000%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 56.000%| 
+ | Serious:252/0/252/252/252/252 32.000%  | 
+ | Serious:252/252/252/0/252/252  8.000%  | 
+ | Other  4.000%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Toxic 90.000%                          | 
+ | Charm 50.000%                          | 
+ | Rest 44.000%                           | 
+ | Moonlight 38.000%                      | 
+ | Attract 34.000%                        | 
+ | Confuse Ray 28.000%                    | 
+ | Protect 28.000%                        | 
+ | Baton Pass 14.000%                     | 
+ | Bite 14.000%                           | 
+ | Psychic 12.000%                        | 
+ | Curse 10.000%                          | 
+ | Shadow Ball 10.000%                    | 
+ | Detect  6.000%                         | 
+ | Feint Attack  4.000%                   | 
+ | Other 18.000%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Suicune +18.288%                       | 
+ | Muk +4.198%                            | 
+ | Marowak +2.342%                        | 
+ | Skarmory +1.748%                       | 
+ | Dodrio +1.550%                         | 
+ | Misdreavus +1.297%                     | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Machamp                                | 
+ +----------------------------------------+ 
+ | Raw count: 55                          | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 63                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 63.636%                      | 
+ | Berserk Gene 14.545%                   | 
+ | Black Belt 12.727%                     | 
+ | Scope Lens  5.455%                     | 
+ | Other  3.636%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 69.091%| 
+ | Serious:252/252/252/0/252/252 30.909%  | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Cross Chop 87.273%                     | 
+ | Rock Slide 54.545%                     | 
+ | Earthquake 38.182%                     | 
+ | Curse 36.364%                          | 
+ | Hidden Power Ghost 29.091%             | 
+ | Double-Edge 20.000%                    | 
+ | Return 12.727%                         | 
+ | Body Slam 12.727%                      | 
+ | Rest 10.909%                           | 
+ | Detect 10.909%                         | 
+ | Fire Blast 10.909%                     | 
+ | Hidden Power Fighting  9.091%          | 
+ | Sleep Talk  9.091%                     | 
+ | Toxic  9.091%                          | 
+ | Focus Energy  5.455%                   | 
+ | Low Kick  5.455%                       | 
+ | Dynamic Punch  5.455%                  | 
+ | Protect  5.455%                        | 
+ | Hidden Power Bug  3.636%               | 
+ | Thunder Punch  3.636%                  | 
+ | Hidden Power Rock  3.636%              | 
+ | Other 16.364%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Jynx +4.120%                           | 
+ | Shuckle +3.669%                        | 
+ | Venusaur +2.785%                       | 
+ | Espeon +2.735%                         | 
+ | Snorlax +1.835%                        | 
+ | Raikou +1.499%                         | 
+ | Scizor +1.400%                         | 
+ | Pinsir +1.368%                         | 
+ | Rattata +1.368%                        | 
+ | Vulpix +1.368%                         | 
+ | Wobbuffet +0.917%                      | 
+ | Mr. Mime +0.917%                       | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Suicune                                | 
+ +----------------------------------------+ 
+ | Raw count: 46                          | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 81                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 89.130%                      | 
+ | Focus Band  4.348%                     | 
+ | King's Rock  4.348%                    | 
+ | Other  2.174%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 82.609%| 
+ | Serious:252/0/252/252/252/252 17.391%  | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Rest 84.783%                           | 
+ | Surf 78.261%                           | 
+ | Toxic 56.522%                          | 
+ | Mirror Coat 50.000%                    | 
+ | Ice Beam 47.826%                       | 
+ | Sleep Talk 30.435%                     | 
+ | Hydro Pump 13.043%                     | 
+ | Hidden Power Electric  8.696%          | 
+ | Bite  6.522%                           | 
+ | Protect  4.348%                        | 
+ | Other 19.565%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Umbreon +19.996%                       | 
+ | Heracross +6.032%                      | 
+ | Meganium +2.546%                       | 
+ | Articuno +1.273%                       | 
+ | Entei +0.823%                          | 
+ | Rhydon +0.823%                         | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Blissey                                | 
+ +----------------------------------------+ 
+ | Raw count: 33                          | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 59                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 90.909%                      | 
+ | Black Glasses  3.030%                  | 
+ | Polkadot Bow  3.030%                   | 
+ | Other  3.030%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 90.909%| 
+ | Serious:252/0/252/252/252/252  9.091%  | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Soft-Boiled 66.667%                    | 
+ | Toxic 54.545%                          | 
+ | Seismic Toss 36.364%                   | 
+ | Protect 27.273%                        | 
+ | Body Slam 24.242%                      | 
+ | Tri Attack 18.182%                     | 
+ | Flamethrower 18.182%                   | 
+ | Thunderbolt 18.182%                    | 
+ | Reflect 18.182%                        | 
+ | Counter 18.182%                        | 
+ | Fire Blast 15.152%                     | 
+ | Double-Edge 15.152%                    | 
+ | Nothing  9.091%                        | 
+ | Shadow Ball  9.091%                    | 
+ | Defense Curl  9.091%                   | 
+ | Rest  6.061%                           | 
+ | Ice Beam  6.061%                       | 
+ | Substitute  6.061%                     | 
+ | Icy Wind  6.061%                       | 
+ | Other 18.182%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Misdreavus +9.419%                     | 
+ | Dragonite +2.907%                      | 
+ | Raticate +2.580%                       | 
+ | Nidoking +2.457%                       | 
+ | Miltank +2.334%                        | 
+ | Arcanine +2.129%                       | 
+ | Golem +1.679%                          | 
+ | Marowak +1.433%                        | 
+ | Skarmory +0.778%                       | 
+ | Gengar +0.532%                         | 
+ | Tyranitar +0.532%                      | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Tyranitar                              | 
+ +----------------------------------------+ 
+ | Raw count: 49                          | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 62                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 59.184%                      | 
+ | Black Glasses 10.204%                  | 
+ | Berserk Gene  8.163%                   | 
+ | Soft Sand  6.122%                      | 
+ | Miracle Berry  6.122%                  | 
+ | Quick Claw  4.082%                     | 
+ | Mint Berry  2.041%                     | 
+ | Other  4.082%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 91.837%| 
+ | Serious:252/252/252/0/252/252  8.163%  | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Earthquake 93.878%                     | 
+ | Crunch 67.347%                         | 
+ | Rock Slide 59.184%                     | 
+ | Flamethrower 26.531%                   | 
+ | Ice Beam 20.408%                       | 
+ | Outrage 18.367%                        | 
+ | Fire Blast 16.327%                     | 
+ | Thunderbolt 14.286%                    | 
+ | Rest 10.204%                           | 
+ | Fire Punch 10.204%                     | 
+ | Surf 10.204%                           | 
+ | Toxic  8.163%                          | 
+ | Hidden Power Fighting  6.122%          | 
+ | Curse  6.122%                          | 
+ | Dynamic Punch  6.122%                  | 
+ | Protect  6.122%                        | 
+ | Roar  6.122%                           | 
+ | Other 14.286%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Typhlosion +2.280%                     | 
+ | Gengar +1.646%                         | 
+ | Sudowoodo +1.590%                      | 
+ | Lapras +1.590%                         | 
+ | Forretress +0.928%                     | 
+ | Ampharos +0.689%                       | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Gengar                                 | 
+ +----------------------------------------+ 
+ | Raw count: 46                          | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 59                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 43.478%                      | 
+ | Spell Tag 19.565%                      | 
+ | Bright Powder  8.696%                  | 
+ | King's Rock  4.348%                    | 
+ | Black Belt  4.348%                     | 
+ | Nothing  4.348%                        | 
+ | Mint Berry  2.174%                     | 
+ | Black Glasses  2.174%                  | 
+ | Focus Band  2.174%                     | 
+ | Gold Berry  2.174%                     | 
+ | Twisted Spoon  2.174%                  | 
+ | Other  4.348%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 80.435%| 
+ | Serious:252/0/252/252/252/252 19.565%  | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Shadow Ball 56.522%                    | 
+ | Psychic 39.130%                        | 
+ | Thunderbolt 34.783%                    | 
+ | Giga Drain 28.261%                     | 
+ | Ice Punch 23.913%                      | 
+ | Toxic 21.739%                          | 
+ | Destiny Bond 21.739%                   | 
+ | Fire Punch 19.565%                     | 
+ | Night Shade 19.565%                    | 
+ | Explosion 15.217%                      | 
+ | Body Slam 15.217%                      | 
+ | Double-Edge 15.217%                    | 
+ | Confuse Ray 13.043%                    | 
+ | Dream Eater 13.043%                    | 
+ | Protect 10.870%                        | 
+ | Hidden Power Poison  8.696%            | 
+ | Hypnosis  8.696%                       | 
+ | Substitute  4.348%                     | 
+ | Curse  4.348%                          | 
+ | Hidden Power Ice  4.348%               | 
+ | Lick  2.174%                           | 
+ | Other 19.565%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Jynx +5.543%                           | 
+ | Tyranitar +2.311%                      | 
+ | Arbok +1.723%                          | 
+ | Haunter +1.723%                        | 
+ | Gastly +1.723%                         | 
+ | Dragonite +1.195%                      | 
+ | Aerodactyl +0.823%                     | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Marowak                                | 
+ +----------------------------------------+ 
+ | Raw count: 46                          | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 72                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Thick Club 93.478%                     | 
+ | Leftovers  6.522%                      | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 67.391%| 
+ | Serious:252/252/252/0/252/252 17.391%  | 
+ | Serious:252/240/252/252/252/252 10.870%| 
+ | Other  4.348%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Earthquake 97.826%                     | 
+ | Rock Slide 76.087%                     | 
+ | Swords Dance 69.565%                   | 
+ | Hidden Power Bug 52.174%               | 
+ | Counter 17.391%                        | 
+ | Thunder Punch 17.391%                  | 
+ | Rest  8.696%                           | 
+ | Substitute  8.696%                     | 
+ | Sleep Talk  8.696%                     | 
+ | Double-Edge  8.696%                    | 
+ | Hidden Power Flying  6.522%            | 
+ | Body Slam  4.348%                      | 
+ | Seismic Toss  2.174%                   | 
+ | Mega Kick  2.174%                      | 
+ | Other 19.565%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Zapdos +6.287%                         | 
+ | Misdreavus +1.645%                     | 
+ | Exeggutor +0.744%                      | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Miltank                                | 
+ +----------------------------------------+ 
+ | Raw count: 25                          | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 55                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 72.000%                      | 
+ | Soft Sand 12.000%                      | 
+ | Mint Berry  8.000%                     | 
+ | Focus Band  4.000%                     | 
+ | Other  4.000%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 76.000%| 
+ | Serious:252/252/252/0/252/252 24.000%  | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Milk Drink 76.000%                     | 
+ | Body Slam 60.000%                      | 
+ | Earthquake 56.000%                     | 
+ | Heal Bell 24.000%                      | 
+ | Rollout 24.000%                        | 
+ | Protect 20.000%                        | 
+ | Shadow Ball 20.000%                    | 
+ | Rest 16.000%                           | 
+ | Toxic 16.000%                          | 
+ | Attract 16.000%                        | 
+ | Curse 12.000%                          | 
+ | Defense Curl 12.000%                   | 
+ | Stomp  8.000%                          | 
+ | Growl  8.000%                          | 
+ | Seismic Toss  8.000%                   | 
+ | Snore  4.000%                          | 
+ | Other 20.000%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Espeon +7.099%                         | 
+ | Marowak +4.342%                        | 
+ | Tyranitar +3.441%                      | 
+ | Ampharos +2.649%                       | 
+ | Alakazam +2.144%                       | 
+ | Blissey +1.640%                        | 
+ | Steelix +1.297%                        | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Zapdos                                 | 
+ +----------------------------------------+ 
+ | Raw count: 37                          | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 61                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 81.081%                      | 
+ | Magnet 10.811%                         | 
+ | Focus Band  2.703%                     | 
+ | King's Rock  2.703%                    | 
+ | Other  2.703%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 89.189%| 
+ | Serious:252/0/252/252/252/252 10.811%  | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Thunder 64.865%                        | 
+ | Rest 51.351%                           | 
+ | Hidden Power Ice 48.649%               | 
+ | Drill Peck 43.243%                     | 
+ | Sleep Talk 43.243%                     | 
+ | Thunderbolt 37.838%                    | 
+ | Toxic 24.324%                          | 
+ | Protect 13.514%                        | 
+ | Thunder Wave 10.811%                   | 
+ | Reflect 10.811%                        | 
+ | Hyper Beam  8.108%                     | 
+ | Hidden Power Water  5.405%             | 
+ | Hidden Power Fire  5.405%              | 
+ | Substitute  5.405%                     | 
+ | Detect  5.405%                         | 
+ | Hidden Power Grass  5.405%             | 
+ | Other 16.216%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Marowak +8.559%                        | 
+ | Meganium +3.604%                       | 
+ | Xatu +2.252%                           | 
+ | Qwilfish +2.252%                       | 
+ | Exeggutor +1.802%                      | 
+ | Wobbuffet +1.802%                      | 
+ | Tauros +0.901%                         | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Porygon2                               | 
+ +----------------------------------------+ 
+ | Raw count: 29                          | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 73                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 100.000%                     | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 100.000%| 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Recover 100.000%                       | 
+ | Curse 72.414%                          | 
+ | Conversion 2 51.724%                   | 
+ | Tri Attack 48.276%                     | 
+ | Return 24.138%                         | 
+ | Double-Edge 24.138%                    | 
+ | Ice Beam 24.138%                       | 
+ | Toxic 24.138%                          | 
+ | Defense Curl 24.138%                   | 
+ | Other  6.897%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Starmie +34.762%                       | 
+ | Heracross +21.699%                     | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Venusaur                               | 
+ +----------------------------------------+ 
+ | Raw count: 20                          | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 63                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 85.000%                      | 
+ | Nothing 15.000%                        | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 75.000%| 
+ | Serious:252/0/252/252/252/252 20.000%  | 
+ | Serious:252/252/252/252/0/252  5.000%  | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Leech Seed 90.000%                     | 
+ | Toxic 55.000%                          | 
+ | Razor Leaf 45.000%                     | 
+ | Body Slam 45.000%                      | 
+ | Hidden Power Ground 35.000%            | 
+ | Synthesis 30.000%                      | 
+ | Hidden Power Ice 25.000%               | 
+ | Giga Drain 25.000%                     | 
+ | Growth 20.000%                         | 
+ | Solar Beam 10.000%                     | 
+ | Other 20.000%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Electrode +20.946%                     | 
+ | Tauros +20.495%                        | 
+ | Machamp +12.838%                       | 
+ | Raikou +10.135%                        | 
+ | Charizard +6.847%                      | 
+ | Electabuzz +4.550%                     | 
+ | Blastoise +4.099%                      | 
+ | Rhydon +3.649%                         | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Alakazam                               | 
+ +----------------------------------------+ 
+ | Raw count: 19                          | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 56                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 36.842%                      | 
+ | Twisted Spoon 31.579%                  | 
+ | Bright Powder 10.526%                  | 
+ | Mint Berry  5.263%                     | 
+ | Master Ball  5.263%                    | 
+ | Nothing  5.263%                        | 
+ | Miracle Berry  5.263%                  | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 89.474%| 
+ | Serious:252/0/252/252/252/252 10.526%  | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Psychic 94.737%                        | 
+ | Recover 47.368%                        | 
+ | Fire Punch 36.842%                     | 
+ | Thunder Wave 26.316%                   | 
+ | Ice Punch 21.053%                      | 
+ | Reflect 21.053%                        | 
+ | Disable 21.053%                        | 
+ | Thunder Punch 21.053%                  | 
+ | Encore 15.789%                         | 
+ | Shadow Ball 10.526%                    | 
+ | Protect 10.526%                        | 
+ | Counter 10.526%                        | 
+ | Rest  5.263%                           | 
+ | Hidden Power Ice  5.263%               | 
+ | Hidden Power Dark  5.263%              | 
+ | Tri Attack  5.263%                     | 
+ | Dream Eater  5.263%                    | 
+ | Confusion  5.263%                      | 
+ | Toxic  5.263%                          | 
+ | Psybeam  5.263%                        | 
+ | Hyper Beam  5.263%                     | 
+ | Other 15.789%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Rhydon +9.175%                         | 
+ | Tyranitar +7.231%                      | 
+ | Nidoking +6.923%                       | 
+ | Tauros +6.022%                         | 
+ | Vileplume +4.813%                      | 
+ | Scyther +4.362%                        | 
+ | Mr. Mime +4.362%                       | 
+ | Aerodactyl +3.912%                     | 
+ | Miltank +3.770%                        | 
+ | Charizard +2.110%                      | 
+ | Scizor +1.209%                         | 
+ | Electrode +1.209%                      | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Tauros                                 | 
+ +----------------------------------------+ 
+ | Raw count: 11                          | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 63                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 54.545%                      | 
+ | Berserk Gene 45.455%                   | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 100.000%| 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Double-Edge 81.818%                    | 
+ | Fire Blast 72.727%                     | 
+ | Earthquake 72.727%                     | 
+ | Hyper Beam 63.636%                     | 
+ | Body Slam 36.364%                      | 
+ | Hidden Power Ghost 27.273%             | 
+ | Substitute 18.182%                     | 
+ | Sleep Talk  9.091%                     | 
+ | Other 18.182%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Electrode +41.400%                     | 
+ | Venusaur +39.148%                      | 
+ | Meganium +16.380%                      | 
+ | Alakazam +12.326%                      | 
+ | Zapdos +11.425%                        | 
+ | Tyranitar +0.532%                      | 
+ | Gengar +0.532%                         | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Vaporeon                               | 
+ +----------------------------------------+ 
+ | Raw count: 17                          | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 55                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 94.118%                      | 
+ | Nothing  5.882%                        | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 58.824%| 
+ | Serious:252/0/252/252/252/252 41.176%  | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Surf 82.353%                           | 
+ | Growth 64.706%                         | 
+ | Ice Beam 64.706%                       | 
+ | Acid Armor 41.176%                     | 
+ | Rest 35.294%                           | 
+ | Toxic 35.294%                          | 
+ | Hydro Pump 23.529%                     | 
+ | Quick Attack 11.765%                   | 
+ | Body Slam  5.882%                      | 
+ | Protect  5.882%                        | 
+ | Shadow Ball  5.882%                    | 
+ | Reflect  5.882%                        | 
+ | Other 17.647%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Raikou +20.429%                        | 
+ | Wartortle +5.432%                      | 
+ | Wooper +5.432%                         | 
+ | Heracross +2.835%                      | 
+ | Dragonite +2.729%                      | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Scizor                                 | 
+ +----------------------------------------+ 
+ | Raw count: 15                          | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 59                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 60.000%                      | 
+ | Metal Coat 13.333%                     | 
+ | Scope Lens 13.333%                     | 
+ | Berserk Gene  6.667%                   | 
+ | Bright Powder  6.667%                  | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 93.333%| 
+ | Serious:252/252/252/0/252/252  6.667%  | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Steel Wing 86.667%                     | 
+ | Swords Dance 86.667%                   | 
+ | Hidden Power Ground 40.000%            | 
+ | Counter 33.333%                        | 
+ | Hyper Beam 20.000%                     | 
+ | Baton Pass 13.333%                     | 
+ | Sleep Talk 13.333%                     | 
+ | Rest 13.333%                           | 
+ | Hidden Power Rock 13.333%              | 
+ | Light Screen 13.333%                   | 
+ | Hidden Power Bug  6.667%               | 
+ | Protect  6.667%                        | 
+ | Detect  6.667%                         | 
+ | False Swipe  6.667%                    | 
+ | Curse  6.667%                          | 
+ | Quick Attack  6.667%                   | 
+ | Frustration  6.667%                    | 
+ | Other 20.000%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Shuckle +23.063%                       | 
+ | Machamp +7.838%                        | 
+ | Kangaskhan +6.216%                     | 
+ | Feraligatr +5.315%                     | 
+ | Charizard +3.514%                      | 
+ | Alakazam +0.811%                       | 
+ | Umbreon +0.721%                        | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Electrode                              | 
+ +----------------------------------------+ 
+ | Raw count: 11                          | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 63                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 90.909%                      | 
+ | Focus Band  9.091%                     | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 100.000%| 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Thunderbolt 54.545%                    | 
+ | Hidden Power Water 45.455%             | 
+ | Thunder 45.455%                        | 
+ | Rain Dance 45.455%                     | 
+ | Reflect 45.455%                        | 
+ | Toxic 45.455%                          | 
+ | Hidden Power Ice 36.364%               | 
+ | Substitute 36.364%                     | 
+ | Explosion 18.182%                      | 
+ | Thunder Wave  9.091%                   | 
+ | Other 18.182%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Tauros +40.950%                        | 
+ | Venusaur +39.148%                      | 
+ | Dragonite +15.029%                     | 
+ | Aerodactyl +7.740%                     | 
+ | Starmie +4.668%                        | 
+ | Alakazam +3.235%                       | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Shuckle                                | 
+ +----------------------------------------+ 
+ | Raw count: 12                          | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 55                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 83.333%                      | 
+ | Gold Berry  8.333%                     | 
+ | Master Ball  8.333%                    | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 75.000%| 
+ | Serious:252/252/252/0/252/252  8.333%  | 
+ | Serious:252/0/252/0/252/252  8.333%    | 
+ | Serious:252/0/252/252/252/252  8.333%  | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Toxic 100.000%                         | 
+ | Rest 91.667%                           | 
+ | Encore 66.667%                         | 
+ | Sleep Talk 58.333%                     | 
+ | Protect 33.333%                        | 
+ | Wrap 16.667%                           | 
+ | Nothing  8.333%                        | 
+ | Withdraw  8.333%                       | 
+ | Other 16.667%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Scizor +29.279%                        | 
+ | Machamp +21.171%                       | 
+ | Muk +6.532%                            | 
+ | Ditto +6.081%                          | 
+ | Skarmory +6.081%                       | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Exeggutor                              | 
+ +----------------------------------------+ 
+ | Raw count: 17                          | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 59                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 64.706%                      | 
+ | Berserk Gene 11.765%                   | 
+ | Gold Berry 11.765%                     | 
+ | Nothing  5.882%                        | 
+ | Bright Powder  5.882%                  | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 100.000%| 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Psychic 88.235%                        | 
+ | Leech Seed 70.588%                     | 
+ | Giga Drain 52.941%                     | 
+ | Explosion 47.059%                      | 
+ | Substitute 29.412%                     | 
+ | Sludge Bomb 17.647%                    | 
+ | Poison Powder 11.765%                  | 
+ | Reflect 11.765%                        | 
+ | Solar Beam 11.765%                     | 
+ | Hidden Power Fire 11.765%              | 
+ | Toxic 11.765%                          | 
+ | Mega Drain 11.765%                     | 
+ | Moonlight  5.882%                      | 
+ | Other 17.647%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Gyarados +10.413%                      | 
+ | Houndoom +10.413%                      | 
+ | Cloyster +9.512%                       | 
+ | Zapdos +5.008%                         | 
+ | Arcanine +4.981%                       | 
+ | Quagsire +4.531%                       | 
+ | Marowak +4.107%                        | 
+ | Forretress +2.729%                     | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Persian                                | 
+ +----------------------------------------+ 
+ | Raw count: 9                           | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 62                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 100.000%                     | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 100.000%| 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Rest 100.000%                          | 
+ | Amnesia 100.000%                       | 
+ | Slash 100.000%                         | 
+ | Charm 88.889%                          | 
+ | Other 11.111%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Crobat +85.285%                        | 
+ | Jumpluff +74.625%                      | 
+ | Tyranitar +2.553%                      | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Nidoking                               | 
+ +----------------------------------------+ 
+ | Raw count: 14                          | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 55                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 71.429%                      | 
+ | Gold Berry  7.143%                     | 
+ | Focus Band  7.143%                     | 
+ | Poison Barb  7.143%                    | 
+ | Black Belt  7.143%                     | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 100.000%| 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Earthquake 50.000%                     | 
+ | Ice Beam 42.857%                       | 
+ | Surf 42.857%                           | 
+ | Thunderbolt 42.857%                    | 
+ | Toxic 28.571%                          | 
+ | Thrash 28.571%                         | 
+ | Body Slam 21.429%                      | 
+ | Flamethrower 14.286%                   | 
+ | Rock Slide 14.286%                     | 
+ | Shadow Ball 14.286%                    | 
+ | Ice Punch 14.286%                      | 
+ | Double-Edge 14.286%                    | 
+ | Hidden Power Poison  7.143%            | 
+ | Fire Punch  7.143%                     | 
+ | Detect  7.143%                         | 
+ | Mega Punch  7.143%                     | 
+ | Reflect  7.143%                        | 
+ | Disable  7.143%                        | 
+ | Seismic Toss  7.143%                   | 
+ | Hidden Power Ground  7.143%            | 
+ | Other 14.286%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Charizard +11.133%                     | 
+ | Alakazam +8.430%                       | 
+ | Poliwrath +6.692%                      | 
+ | Skarmory +4.891%                       | 
+ | Dragonite +3.990%                      | 
+ | Blissey +3.925%                        | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Crobat                                 | 
+ +----------------------------------------+ 
+ | Raw count: 10                          | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 62                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 90.000%                      | 
+ | Sharp Beak 10.000%                     | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 100.000%| 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Fly 90.000%                            | 
+ | Screech 90.000%                        | 
+ | Confuse Ray 90.000%                    | 
+ | Substitute 90.000%                     | 
+ | Detect 10.000%                         | 
+ | Steel Wing 10.000%                     | 
+ | Other 20.000%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Persian +76.396%                       | 
+ | Jumpluff +66.847%                      | 
+ | Tyranitar +1.441%                      | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Dragonite                              | 
+ +----------------------------------------+ 
+ | Raw count: 17                          | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 59                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 76.471%                      | 
+ | Scope Lens 11.765%                     | 
+ | Never-Melt Ice  5.882%                 | 
+ | Focus Band  5.882%                     | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 100.000%| 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Ice Beam 52.941%                       | 
+ | Outrage 52.941%                        | 
+ | Fire Blast 47.059%                     | 
+ | Thunderbolt 41.176%                    | 
+ | Extreme Speed 35.294%                  | 
+ | Wing Attack 23.529%                    | 
+ | Thunder Punch 23.529%                  | 
+ | Hydro Pump 17.647%                     | 
+ | Agility 11.765%                        | 
+ | Ice Punch 11.765%                      | 
+ | Dynamic Punch 11.765%                  | 
+ | Skull Bash 11.765%                     | 
+ | Hidden Power Dragon  5.882%            | 
+ | Blizzard  5.882%                       | 
+ | Frustration  5.882%                    | 
+ | Toxic  5.882%                          | 
+ | Flamethrower  5.882%                   | 
+ | Body Slam  5.882%                      | 
+ | Hyper Beam  5.882%                     | 
+ | Other 17.647%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Electrode +7.711%                      | 
+ | Lapras +5.432%                         | 
+ | Gengar +3.206%                         | 
+ | Nidoking +2.279%                       | 
+ | Vaporeon +1.828%                       | 
+ | Blissey +1.404%                        | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Charizard                              | 
+ +----------------------------------------+ 
+ | Raw count: 18                          | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 55                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 33.333%                      | 
+ | Charcoal 27.778%                       | 
+ | Miracle Berry 16.667%                  | 
+ | Nothing 11.111%                        | 
+ | Gold Berry  5.556%                     | 
+ | Poison Barb  5.556%                    | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 94.444%| 
+ | Serious:252/0/252/252/252/252  5.556%  | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Flamethrower 61.111%                   | 
+ | Fire Blast 55.556%                     | 
+ | Earthquake 50.000%                     | 
+ | Rock Slide 22.222%                     | 
+ | Belly Drum 22.222%                     | 
+ | Fire Punch 16.667%                     | 
+ | Double-Edge 16.667%                    | 
+ | Dragon Breath 11.111%                  | 
+ | Toxic 11.111%                          | 
+ | Swords Dance 11.111%                   | 
+ | Outrage 11.111%                        | 
+ | Body Slam 11.111%                      | 
+ | Seismic Toss 11.111%                   | 
+ | Protect 11.111%                        | 
+ | Ember 11.111%                          | 
+ | Wing Attack 11.111%                    | 
+ | Fire Spin  5.556%                      | 
+ | Hidden Power Electric  5.556%          | 
+ | Mega Punch  5.556%                     | 
+ | Hidden Power Grass  5.556%             | 
+ | Mega Kick  5.556%                      | 
+ | Crunch  5.556%                         | 
+ | Reflect  5.556%                        | 
+ | Other 16.667%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Nidoking +7.508%                       | 
+ | Electabuzz +5.105%                     | 
+ | Arbok +5.105%                          | 
+ | Poliwrath +5.105%                      | 
+ | Venusaur +4.805%                       | 
+ | Blastoise +4.655%                      | 
+ | Jynx +2.402%                           | 
+ | Scizor +1.502%                         | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Jynx                                   | 
+ +----------------------------------------+ 
+ | Raw count: 12                          | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 46                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 83.333%                      | 
+ | Nothing  8.333%                        | 
+ | Hard Stone  8.333%                     | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/0/252/252/252/252 66.667%  | 
+ | Serious:252/252/252/252/252/252 33.333%| 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Ice Beam 83.333%                       | 
+ | Lovely Kiss 66.667%                    | 
+ | Dream Eater 66.667%                    | 
+ | Substitute 66.667%                     | 
+ | Psychic 25.000%                        | 
+ | Protect 16.667%                        | 
+ | Body Slam 16.667%                      | 
+ | Seismic Toss 16.667%                   | 
+ | Perish Song 16.667%                    | 
+ | Double-Edge  8.333%                    | 
+ | Other 16.667%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Gengar +24.775%                        | 
+ | Machamp +21.171%                       | 
+ | Snorlax +14.865%                       | 
+ | Charizard +5.180%                      | 
+ | Forretress +5.180%                     | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Jumpluff                               | 
+ +----------------------------------------+ 
+ | Raw count: 8                           | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 62                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 100.000%                     | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 100.000%| 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Leech Seed 100.000%                    | 
+ | Encore 100.000%                        | 
+ | Stun Spore 100.000%                    | 
+ | Synthesis 100.000%                     | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Crobat +83.896%                        | 
+ | Persian +83.896%                       | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Forretress                             | 
+ +----------------------------------------+ 
+ | Raw count: 8                           | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 55                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 37.500%                      | 
+ | Black Belt 37.500%                     | 
+ | Nothing 12.500%                        | 
+ | Never-Melt Ice 12.500%                 | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 87.500%| 
+ | Serious:252/0/252/252/252/252 12.500%  | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Giga Drain 50.000%                     | 
+ | Double-Edge 37.500%                    | 
+ | Hidden Power Electric 37.500%          | 
+ | Frustration 37.500%                    | 
+ | Rapid Spin 37.500%                     | 
+ | Protect 25.000%                        | 
+ | Spikes 25.000%                         | 
+ | Toxic 25.000%                          | 
+ | Explosion 25.000%                      | 
+ | Substitute 25.000%                     | 
+ | Pin Missile 12.500%                    | 
+ | Curse 12.500%                          | 
+ | Snore 12.500%                          | 
+ | Hidden Power Ice 12.500%               | 
+ | Hidden Power Steel 12.500%             | 
+ | Other 12.500%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Tyranitar +16.441%                     | 
+ | Wigglytuff +12.050%                    | 
+ | Lanturn +12.050%                       | 
+ | Cloyster +10.248%                      | 
+ | Jynx +9.347%                           | 
+ | Exeggutor +8.896%                      | 
+ | Gengar +3.941%                         | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Steelix                                | 
+ +----------------------------------------+ 
+ | Raw count: 10                          | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 45                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 70.000%                      | 
+ | Hard Stone 20.000%                     | 
+ | Scope Lens 10.000%                     | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 80.000%| 
+ | Serious:0/252/0/0/0/252 10.000%        | 
+ | Serious:252/252/252/0/252/252 10.000%  | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Earthquake 90.000%                     | 
+ | Rock Slide 50.000%                     | 
+ | Crunch 30.000%                         | 
+ | Protect 30.000%                        | 
+ | Curse 20.000%                          | 
+ | Rest 20.000%                           | 
+ | Sleep Talk 20.000%                     | 
+ | Body Slam 20.000%                      | 
+ | Toxic 20.000%                          | 
+ | Return 10.000%                         | 
+ | Hidden Power Ice 10.000%               | 
+ | Hidden Power Dark 10.000%              | 
+ | Headbutt 10.000%                       | 
+ | Iron Tail 10.000%                      | 
+ | Hidden Power Electric 10.000%          | 
+ | Endure 10.000%                         | 
+ | Hidden Power Grass 10.000%             | 
+ | Other 20.000%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Ditto +17.748%                         | 
+ | Arcanine +9.099%                       | 
+ | Blastoise +9.099%                      | 
+ | Feraligatr +8.649%                     | 
+ | Cloyster +7.748%                       | 
+ | Miltank +3.243%                        | 
+ | Gengar +1.441%                         | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Misdreavus                             | 
+ +----------------------------------------+ 
+ | Raw count: 7                           | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 59                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 57.143%                      | 
+ | Mint Berry 28.571%                     | 
+ | Bright Powder 14.286%                  | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 85.714%| 
+ | Serious:252/252/252/252/252/0 14.286%  | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Protect 85.714%                        | 
+ | Perish Song 57.143%                    | 
+ | Curse 42.857%                          | 
+ | Thunder 42.857%                        | 
+ | Rest 42.857%                           | 
+ | Endure 28.571%                         | 
+ | Pain Split 28.571%                     | 
+ | Confuse Ray 28.571%                    | 
+ | Thunderbolt 14.286%                    | 
+ | Spite 14.286%                          | 
+ | Other 14.286%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Blissey +46.782%                       | 
+ | Starmie +29.344%                       | 
+ | Marowak +20.914%                       | 
+ | Umbreon +15.959%                       | 
+ | Zapdos +7.529%                         | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Cloyster                               | 
+ +----------------------------------------+ 
+ | Raw count: 12                          | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 55                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 50.000%                      | 
+ | Nothing 25.000%                        | 
+ | Mystic Water  8.333%                   | 
+ | Gold Berry  8.333%                     | 
+ | Never-Melt Ice  8.333%                 | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 91.667%| 
+ | Serious:0/252/252/252/252/252  8.333%  | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Ice Beam 83.333%                       | 
+ | Explosion 50.000%                      | 
+ | Surf 41.667%                           | 
+ | Spikes 25.000%                         | 
+ | Double-Edge 25.000%                    | 
+ | Hidden Power Grass 25.000%             | 
+ | Frustration 25.000%                    | 
+ | Toxic 25.000%                          | 
+ | Protect 16.667%                        | 
+ | Bubble Beam  8.333%                    | 
+ | Blizzard  8.333%                       | 
+ | Hidden Power Ice  8.333%               | 
+ | Withdraw  8.333%                       | 
+ | Reflect  8.333%                        | 
+ | Water Gun  8.333%                      | 
+ | Hidden Power Fire  8.333%              | 
+ | Aurora Beam  8.333%                    | 
+ | Other 16.667%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Exeggutor +13.063%                     | 
+ | Quagsire +6.982%                       | 
+ | Ditto +6.081%                          | 
+ | Steelix +5.631%                        | 
+ | Forretress +5.180%                     | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Skarmory                               | 
+ +----------------------------------------+ 
+ | Raw count: 6                           | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 45                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 83.333%                      | 
+ | Bright Powder 16.667%                  | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 66.667%| 
+ | Serious:252/252/252/0/252/252 33.333%  | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Drill Peck 100.000%                    | 
+ | Curse 83.333%                          | 
+ | Toxic 83.333%                          | 
+ | Detect 50.000%                         | 
+ | Protect 33.333%                        | 
+ | Rest 16.667%                           | 
+ | Sleep Talk 16.667%                     | 
+ | Other 16.667%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Muk +48.198%                           | 
+ | Umbreon +20.721%                       | 
+ | Shuckle +13.063%                       | 
+ | Nidoking +13.063%                      | 
+ | Blissey +6.306%                        | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Ditto                                  | 
+ +----------------------------------------+ 
+ | Raw count: 5                           | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 45                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 40.000%                      | 
+ | Metal Powder 40.000%                   | 
+ | Nothing 20.000%                        | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 80.000%| 
+ | Serious:252/0/0/0/0/0 20.000%          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Nothing 300.000%                       | 
+ | Transform 100.000%                     | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Steelix +37.297%                       | 
+ | Feraligatr +18.649%                    | 
+ | Cloyster +17.748%                      | 
+ | Shuckle +16.396%                       | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Snorlax                                | 
+ +----------------------------------------+ 
+ | Raw count: 12                          | 
+ | Avg. weight: ---                       | 
+ | Viability Ceiling: 0                   | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 91.667%                      | 
+ | Polkadot Bow  8.333%                   | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 58.333%| 
+ | Serious:252/252/252/0/252/252 41.667%  | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Curse 91.667%                          | 
+ | Rest 83.333%                           | 
+ | Body Slam 50.000%                      | 
+ | Amnesia 50.000%                        | 
+ | Double-Edge 50.000%                    | 
+ | Self-Destruct 16.667%                  | 
+ | Earthquake 16.667%                     | 
+ | Sleep Talk  8.333%                     | 
+ | Ice Beam  8.333%                       | 
+ | Toxic  8.333%                          | 
+ | Other 16.667%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Jynx +13.514%                          | 
+ | Machamp +4.505%                        | 
+ | Marowak +0.676%                        | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Muk                                    | 
+ +----------------------------------------+ 
+ | Raw count: 5                           | 
+ | Avg. weight: ---                       | 
+ | Viability Ceiling: 0                   | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 100.000%                     | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 100.000%| 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Sludge Bomb 100.000%                   | 
+ | Curse 80.000%                          | 
+ | Giga Drain 40.000%                     | 
+ | Disable 40.000%                        | 
+ | Fire Blast 40.000%                     | 
+ | Dynamic Punch 20.000%                  | 
+ | Return 20.000%                         | 
+ | Screech 20.000%                        | 
+ | Acid Armor 20.000%                     | 
+ | Other 20.000%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Skarmory +57.748%                      | 
+ | Umbreon +47.387%                       | 
+ | Dodrio +19.550%                        | 
+ | Shuckle +16.396%                       | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Meganium                               | 
+ +----------------------------------------+ 
+ | Raw count: 5                           | 
+ | Avg. weight: ---                       | 
+ | Viability Ceiling: 0                   | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 100.000%                     | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/0/252/0/252/252 40.000%    | 
+ | Serious:252/0/252/252/252/252 40.000%  | 
+ | Serious:252/252/252/252/252/252 20.000%| 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Leech Seed 100.000%                    | 
+ | Protect 80.000%                        | 
+ | Giga Drain 60.000%                     | 
+ | Reflect 40.000%                        | 
+ | Toxic 40.000%                          | 
+ | Light Screen 40.000%                   | 
+ | Return 20.000%                         | 
+ | Body Slam 20.000%                      | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Tauros +35.495%                        | 
+ | Zapdos +33.243%                        | 
+ | Suicune +28.288%                       | 
+ | Marowak +12.342%                       | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Typhlosion                             | 
+ +----------------------------------------+ 
+ | Raw count: 4                           | 
+ | Avg. weight: ---                       | 
+ | Viability Ceiling: 0                   | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 75.000%                      | 
+ | Charcoal 25.000%                       | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 75.000%| 
+ | Serious:136/0/136/0/0/120 25.000%      | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Fire Blast 75.000%                     | 
+ | Flamethrower 75.000%                   | 
+ | Fire Punch 50.000%                     | 
+ | Earthquake 50.000%                     | 
+ | Quick Attack 25.000%                   | 
+ | Cut 25.000%                            | 
+ | Roar 25.000%                           | 
+ | Strength 25.000%                       | 
+ | Thunder Punch 25.000%                  | 
+ | Flame Wheel 25.000%                    | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Tyranitar +41.441%                     | 
+ | Sudowoodo +24.550%                     | 
+ | Togetic +24.550%                       | 
+ | Piloswine +24.550%                     | 
+ | Suicune +13.288%                       | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Golem                                  | 
+ +----------------------------------------+ 
+ | Raw count: 8                           | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 55                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 62.500%                      | 
+ | Hard Stone 12.500%                     | 
+ | Focus Band 12.500%                     | 
+ | Mint Berry 12.500%                     | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/0/252/252 62.500%  | 
+ | Serious:252/252/252/252/252/252 37.500%| 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Earthquake 75.000%                     | 
+ | Body Slam 50.000%                      | 
+ | Self-Destruct 37.500%                  | 
+ | Rock Slide 37.500%                     | 
+ | Fire Blast 25.000%                     | 
+ | Rest 25.000%                           | 
+ | Double-Edge 25.000%                    | 
+ | Explosion 25.000%                      | 
+ | Dynamic Punch 12.500%                  | 
+ | Protect 12.500%                        | 
+ | Hidden Power Fighting 12.500%          | 
+ | Counter 12.500%                        | 
+ | Sandstorm 12.500%                      | 
+ | Hidden Power Electric 12.500%          | 
+ | Fire Punch 12.500%                     | 
+ | Other 12.500%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Tentacruel +12.050%                    | 
+ | Raticate +12.050%                      | 
+ | Scyther +11.599%                       | 
+ | Blissey +2.140%                        | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Quagsire                               | 
+ +----------------------------------------+ 
+ | Raw count: 5                           | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 61                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 80.000%                      | 
+ | Quick Claw 20.000%                     | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 100.000%| 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Earthquake 100.000%                    | 
+ | Surf 80.000%                           | 
+ | Curse 80.000%                          | 
+ | Rest 80.000%                           | 
+ | Haze 20.000%                           | 
+ | Body Slam 20.000%                      | 
+ | Other 20.000%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Raikou +25.135%                        | 
+ | Cloyster +17.748%                      | 
+ | Exeggutor +16.396%                     | 
+ | Heracross +13.423%                     | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Ampharos                               | 
+ +----------------------------------------+ 
+ | Raw count: 5                           | 
+ | Avg. weight: ---                       | 
+ | Viability Ceiling: 0                   | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Magnet 60.000%                         | 
+ | Leftovers 40.000%                      | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 100.000%| 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Thunderbolt 100.000%                   | 
+ | Thunder Wave 40.000%                   | 
+ | Toxic 40.000%                          | 
+ | Thunder Punch 40.000%                  | 
+ | Dynamic Punch 20.000%                  | 
+ | Protect 20.000%                        | 
+ | Zap Cannon 20.000%                     | 
+ | Thunder 20.000%                        | 
+ | Iron Tail 20.000%                      | 
+ | Rain Dance 20.000%                     | 
+ | Hyper Beam 20.000%                     | 
+ | Hidden Power Grass 20.000%             | 
+ | Other 20.000%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Furret +19.099%                        | 
+ | Feraligatr +18.649%                    | 
+ | Miltank +13.243%                       | 
+ | Tyranitar +11.441%                     | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Rhydon                                 | 
+ +----------------------------------------+ 
+ | Raw count: 4                           | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 45                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 75.000%                      | 
+ | Nothing 25.000%                        | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 100.000%| 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Earthquake 100.000%                    | 
+ | Rock Slide 50.000%                     | 
+ | Counter 50.000%                        | 
+ | Curse 25.000%                          | 
+ | Blizzard 25.000%                       | 
+ | Zap Cannon 25.000%                     | 
+ | Hyper Beam 25.000%                     | 
+ | Ice Beam 25.000%                       | 
+ | Seismic Toss 25.000%                   | 
+ | Fire Blast 25.000%                     | 
+ | Flamethrower 25.000%                   | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Alakazam +44.144%                      | 
+ | Vileplume +24.550%                     | 
+ | Venusaur +18.694%                      | 
+ | Suicune +13.288%                       | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Aerodactyl                             | 
+ +----------------------------------------+ 
+ | Raw count: 3                           | 
+ | Avg. weight: ---                       | 
+ | Viability Ceiling: 0                   | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 100.000%                     | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 100.000%| 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Earthquake 100.000%                    | 
+ | Ancient Power 66.667%                  | 
+ | Fire Blast 66.667%                     | 
+ | Fly 33.333%                            | 
+ | Iron Tail 33.333%                      | 
+ | Double-Edge 33.333%                    | 
+ | Wing Attack 33.333%                    | 
+ | Flamethrower 33.333%                   | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Electrode +29.279%                     | 
+ | Alakazam +27.477%                      | 
+ | Gengar +24.775%                        | 
+ | Heracross +6.757%                      | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Gyarados                               | 
+ +----------------------------------------+ 
+ | Raw count: 4                           | 
+ | Avg. weight: ---                       | 
+ | Viability Ceiling: 0                   | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 50.000%                      | 
+ | Hard Stone 50.000%                     | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 50.000%| 
+ | Serious:252/252/248/252/252/252 50.000%| 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Whirlpool 100.000%                     | 
+ | Surf 50.000%                           | 
+ | Strength 50.000%                       | 
+ | Waterfall 50.000%                      | 
+ | Splash 50.000%                         | 
+ | Thrash 50.000%                         | 
+ | Fire Blast 50.000%                     | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Houndoom +48.649%                      | 
+ | Exeggutor +46.396%                     | 
+ | Meowth +24.550%                        | 
+ | Cyndaquil +24.099%                     | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Entei                                  | 
+ +----------------------------------------+ 
+ | Raw count: 8                           | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 50                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 50.000%                      | 
+ | Nothing 25.000%                        | 
+ | Charcoal 25.000%                       | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 100.000%| 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Fire Blast 87.500%                     | 
+ | Solar Beam 62.500%                     | 
+ | Flamethrower 62.500%                   | 
+ | Bite 37.500%                           | 
+ | Hidden Power Fighting 37.500%          | 
+ | Return 25.000%                         | 
+ | Sunny Day 25.000%                      | 
+ | Roar 12.500%                           | 
+ | Rest 12.500%                           | 
+ | Sleep Talk 12.500%                     | 
+ | Hidden Power Fire 12.500%              | 
+ | Other 12.500%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Articuno +11.599%                      | 
+ | Raikou +10.135%                        | 
+ | Suicune +0.788%                        | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Houndoom                               | 
+ +----------------------------------------+ 
+ | Raw count: 4                           | 
+ | Avg. weight: ---                       | 
+ | Viability Ceiling: 0                   | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Black Belt 50.000%                     | 
+ | Nothing 25.000%                        | 
+ | Leftovers 25.000%                      | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 100.000%| 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Rest 75.000%                           | 
+ | Solar Beam 75.000%                     | 
+ | Sunny Day 50.000%                      | 
+ | Toxic 50.000%                          | 
+ | Crunch 25.000%                         | 
+ | Shadow Ball 25.000%                    | 
+ | Hyper Beam 25.000%                     | 
+ | Dream Eater 25.000%                    | 
+ | Fire Blast 25.000%                     | 
+ | Flamethrower 25.000%                   | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Gyarados +48.649%                      | 
+ | Exeggutor +46.396%                     | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Feraligatr                             | 
+ +----------------------------------------+ 
+ | Raw count: 7                           | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 59                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 57.143%                      | 
+ | Mystic Water 42.857%                   | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 57.143%| 
+ | Serious:252/252/252/0/252/252 28.571%  | 
+ | Serious:0/252/0/0/0/252 14.286%        | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Earthquake 85.714%                     | 
+ | Crunch 57.143%                         | 
+ | Ice Beam 42.857%                       | 
+ | Screech 28.571%                        | 
+ | Hidden Power Flying 28.571%            | 
+ | Hydro Pump 28.571%                     | 
+ | Ancient Power 28.571%                  | 
+ | Surf 14.286%                           | 
+ | Protect 14.286%                        | 
+ | Rock Slide 14.286%                     | 
+ | Ice Punch 14.286%                      | 
+ | Hidden Power Dark 14.286%              | 
+ | Iron Tail 14.286%                      | 
+ | Other 14.286%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Kangaskhan +13.835%                    | 
+ | Furret +13.385%                        | 
+ | Ampharos +12.934%                      | 
+ | Ditto +12.033%                         | 
+ | Steelix +11.583%                       | 
+ | Scizor +10.232%                        | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Furret                                 | 
+ +----------------------------------------+ 
+ | Raw count: 3                           | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 45                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Nothing 33.333%                        | 
+ | Leftovers 33.333%                      | 
+ | Scope Lens 33.333%                     | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 100.000%| 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Dynamic Punch 66.667%                  | 
+ | Double-Edge 66.667%                    | 
+ | Quick Attack 66.667%                   | 
+ | Surf 33.333%                           | 
+ | Protect 33.333%                        | 
+ | Frustration 33.333%                    | 
+ | Shadow Ball 33.333%                    | 
+ | Hyper Beam 33.333%                     | 
+ | Fire Punch 33.333%                     | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Ampharos +31.982%                      | 
+ | Feraligatr +31.982%                    | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Cyndaquil                              | 
+ +----------------------------------------+ 
+ | Raw count: 3                           | 
+ | Avg. weight: ---                       | 
+ | Viability Ceiling: 0                   | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Charcoal 66.667%                       | 
+ | Nothing 33.333%                        | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/248/252/252/252 66.667%| 
+ | Serious:252/252/252/252/252/252 33.333%| 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Snore 66.667%                          | 
+ | Flame Wheel 66.667%                    | 
+ | Attract 66.667%                        | 
+ | Cut 33.333%                            | 
+ | Hidden Power Electric 33.333%          | 
+ | Flamethrower 33.333%                   | 
+ | Frustration 33.333%                    | 
+ | Fire Blast 33.333%                     | 
+ | Quick Attack 33.333%                   | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Totodile +32.883%                      | 
+ | Meowth +32.883%                        | 
+ | Spinarak +32.883%                      | 
+ | Gyarados +31.982%                      | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Espeon                                 | 
+ +----------------------------------------+ 
+ | Raw count: 4                           | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 55                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 50.000%                      | 
+ | Twisted Spoon 50.000%                  | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 50.000%| 
+ | Serious:252/0/252/252/252/252 50.000%  | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Morning Sun 100.000%                   | 
+ | Psychic 100.000%                       | 
+ | Growth 100.000%                        | 
+ | Hidden Power Fire 50.000%              | 
+ | Attract 50.000%                        | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Miltank +43.243%                       | 
+ | Machamp +37.838%                       | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Wobbuffet                              | 
+ +----------------------------------------+ 
+ | Raw count: 3                           | 
+ | Avg. weight: ---                       | 
+ | Viability Ceiling: 0                   | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Miracle Berry 66.667%                  | 
+ | Leftovers 33.333%                      | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/0/252/0/252/252 66.667%    | 
+ | Serious:252/252/252/252/252/252 33.333%| 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Mirror Coat 100.000%                   | 
+ | Counter 100.000%                       | 
+ | Mimic 66.667%                          | 
+ | Safeguard 66.667%                      | 
+ | Nothing 33.333%                        | 
+ | Destiny Bond 33.333%                   | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Zapdos +26.577%                        | 
+ | Machamp +21.171%                       | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Scyther                                | 
+ +----------------------------------------+ 
+ | Raw count: 2                           | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 46                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Berserk Gene 50.000%                   | 
+ | Black Belt 50.000%                     | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 50.000%| 
+ | Serious:252/252/252/0/252/252 50.000%  | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Detect 100.000%                        | 
+ | Steel Wing 50.000%                     | 
+ | Fury Cutter 50.000%                    | 
+ | Swords Dance 50.000%                   | 
+ | Endure 50.000%                         | 
+ | Reversal 50.000%                       | 
+ | Quick Attack 50.000%                   | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Tentacruel +49.550%                    | 
+ | Mr. Mime +49.099%                      | 
+ | Golem +48.649%                         | 
+ | Alakazam +44.144%                      | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Arcanine                               | 
+ +----------------------------------------+ 
+ | Raw count: 6                           | 
+ | Avg. weight: ---                       | 
+ | Viability Ceiling: 0                   | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 50.000%                      | 
+ | Mystery Berry 33.333%                  | 
+ | Charcoal 16.667%                       | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 100.000%| 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Flamethrower 66.667%                   | 
+ | Roar 50.000%                           | 
+ | Extreme Speed 50.000%                  | 
+ | Fire Blast 50.000%                     | 
+ | Protect 33.333%                        | 
+ | Dig 33.333%                            | 
+ | Crunch 16.667%                         | 
+ | Hidden Power Ice 16.667%               | 
+ | Reflect 16.667%                        | 
+ | Dragon Rage 16.667%                    | 
+ | Double-Edge 16.667%                    | 
+ | Hidden Power Grass 16.667%             | 
+ | Other 16.667%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Blastoise +15.766%                     | 
+ | Steelix +13.964%                       | 
+ | Exeggutor +13.063%                     | 
+ | Blissey +6.306%                        | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Mr. Mime                               | 
+ +----------------------------------------+ 
+ | Raw count: 2                           | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 45                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Nothing 50.000%                        | 
+ | Leftovers 50.000%                      | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 50.000%| 
+ | Serious:252/0/252/0/252/252 50.000%    | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Light Screen 100.000%                  | 
+ | Protect 50.000%                        | 
+ | Baton Pass 50.000%                     | 
+ | Reflect 50.000%                        | 
+ | Thunder Wave 50.000%                   | 
+ | Substitute 50.000%                     | 
+ | Encore 50.000%                         | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Pinsir +49.550%                        | 
+ | Scyther +49.099%                       | 
+ | Alakazam +44.144%                      | 
+ | Machamp +37.838%                       | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Articuno                               | 
+ +----------------------------------------+ 
+ | Raw count: 2                           | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 50                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Never-Melt Ice 50.000%                 | 
+ | Leftovers 50.000%                      | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 100.000%| 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Blizzard 100.000%                      | 
+ | Fly 50.000%                            | 
+ | Agility 50.000%                        | 
+ | Roar 50.000%                           | 
+ | Sky Attack 50.000%                     | 
+ | Hidden Power Fighting 50.000%          | 
+ | Ice Beam 50.000%                       | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Raikou +85.135%                        | 
+ | Entei +48.649%                         | 
+ | Suicune +38.288%                       | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Blastoise                              | 
+ +----------------------------------------+ 
+ | Raw count: 4                           | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 45                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Nothing 25.000%                        | 
+ | Leftovers 25.000%                      | 
+ | Berry 25.000%                          | 
+ | Mint Berry 25.000%                     | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 100.000%| 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Ice Beam 75.000%                       | 
+ | Hydro Pump 75.000%                     | 
+ | Seismic Toss 50.000%                   | 
+ | Earthquake 50.000%                     | 
+ | Surf 25.000%                           | 
+ | Ice Punch 25.000%                      | 
+ | Dig 25.000%                            | 
+ | Body Slam 25.000%                      | 
+ | Hidden Power Fire 25.000%              | 
+ | Rapid Spin 25.000%                     | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Arcanine +24.099%                      | 
+ | Steelix +22.297%                       | 
+ | Charizard +21.847%                     | 
+ | Venusaur +18.694%                      | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Pinsir                                 | 
+ +----------------------------------------+ 
+ | Raw count: 1                           | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 45                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Nothing 100.000%                       | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 100.000%| 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Swords Dance 100.000%                  | 
+ | Seismic Toss 100.000%                  | 
+ | Return 100.000%                        | 
+ | Hidden Power Fighting 100.000%         | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Mr. Mime +99.099%                      | 
+ | Machamp +87.838%                       | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Piloswine                              | 
+ +----------------------------------------+ 
+ | Raw count: 1                           | 
+ | Avg. weight: ---                       | 
+ | Viability Ceiling: 0                   | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Never-Melt Ice 100.000%                | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 100.000%| 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Hidden Power Ice 100.000%              | 
+ | Earthquake 100.000%                    | 
+ | Blizzard 100.000%                      | 
+ | Ice Beam 100.000%                      | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Togetic +99.550%                       | 
+ | Typhlosion +98.198%                    | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Sudowoodo                              | 
+ +----------------------------------------+ 
+ | Raw count: 1                           | 
+ | Avg. weight: ---                       | 
+ | Viability Ceiling: 0                   | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Nothing 100.000%                       | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 100.000%| 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Dynamic Punch 100.000%                 | 
+ | Low Kick 100.000%                      | 
+ | Earthquake 100.000%                    | 
+ | Thunder Punch 100.000%                 | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Typhlosion +98.198%                    | 
+ | Tyranitar +91.441%                     | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Vulpix                                 | 
+ +----------------------------------------+ 
+ | Raw count: 1                           | 
+ | Avg. weight: ---                       | 
+ | Viability Ceiling: 0                   | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Fire Stone 100.000%                    | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 100.000%| 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Fire Blast 100.000%                    | 
+ | Hidden Power Fire 100.000%             | 
+ | Headbutt 100.000%                      | 
+ | Flamethrower 100.000%                  | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Machamp +87.838%                       | 
+ | Raikou +85.135%                        | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Vileplume                              | 
+ +----------------------------------------+ 
+ | Raw count: 1                           | 
+ | Avg. weight: ---                       | 
+ | Viability Ceiling: 0                   | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 100.000%                     | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 100.000%| 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Moonlight 100.000%                     | 
+ | Leech Seed 100.000%                    | 
+ | Protect 100.000%                       | 
+ | Toxic 100.000%                         | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Rhydon +98.649%                        | 
+ | Alakazam +94.144%                      | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Spinarak                               | 
+ +----------------------------------------+ 
+ | Raw count: 1                           | 
+ | Avg. weight: ---                       | 
+ | Viability Ceiling: 0                   | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Nothing 100.000%                       | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 100.000%| 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Sludge Bomb 100.000%                   | 
+ | Toxic 100.000%                         | 
+ | Night Shade 100.000%                   | 
+ | Giga Drain 100.000%                    | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Totodile +99.550%                      | 
+ | Cyndaquil +99.099%                     | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Kangaskhan                             | 
+ +----------------------------------------+ 
+ | Raw count: 2                           | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 59                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 100.000%                     | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/0/252/252 100.000% | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Shadow Ball 100.000%                   | 
+ | Snore 100.000%                         | 
+ | Earthquake 100.000%                    | 
+ | Rest 100.000%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Feraligatr +48.649%                    | 
+ | Scizor +45.946%                        | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Arbok                                  | 
+ +----------------------------------------+ 
+ | Raw count: 1                           | 
+ | Avg. weight: ---                       | 
+ | Viability Ceiling: 0                   | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Charcoal 100.000%                      | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 100.000%| 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Glare 100.000%                         | 
+ | Earthquake 100.000%                    | 
+ | Frustration 100.000%                   | 
+ | Giga Drain 100.000%                    | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Charizard +96.847%                     | 
+ | Gengar +91.441%                        | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Ursaring                               | 
+ +----------------------------------------+ 
+ | Raw count: 2                           | 
+ | Avg. weight: ---                       | 
+ | Viability Ceiling: 0                   | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 50.000%                      | 
+ | Berserk Gene 50.000%                   | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 50.000%| 
+ | Serious:252/252/252/0/252/252 50.000%  | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Crunch 100.000%                        | 
+ | Earthquake 100.000%                    | 
+ | Fire Punch 100.000%                    | 
+ | Ice Punch 50.000%                      | 
+ | Frustration 50.000%                    | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Xatu                                   | 
+ +----------------------------------------+ 
+ | Raw count: 1                           | 
+ | Avg. weight: ---                       | 
+ | Viability Ceiling: 0                   | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Twisted Spoon 100.000%                 | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 100.000%| 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Dream Eater 100.000%                   | 
+ | Attract 100.000%                       | 
+ | Frustration 100.000%                   | 
+ | Quick Attack 100.000%                  | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Qwilfish +99.550%                      | 
+ | Zapdos +93.243%                        | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Poliwrath                              | 
+ +----------------------------------------+ 
+ | Raw count: 2                           | 
+ | Avg. weight: ---                       | 
+ | Viability Ceiling: 0                   | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Nothing 50.000%                        | 
+ | Mystic Water 50.000%                   | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 100.000%| 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Seismic Toss 100.000%                  | 
+ | Surf 50.000%                           | 
+ | Detect 50.000%                         | 
+ | Blizzard 50.000%                       | 
+ | Ice Beam 50.000%                       | 
+ | Hydro Pump 50.000%                     | 
+ | Earthquake 50.000%                     | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Charizard +46.847%                     | 
+ | Nidoking +46.396%                      | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Haunter                                | 
+ +----------------------------------------+ 
+ | Raw count: 3                           | 
+ | Avg. weight: ---                       | 
+ | Viability Ceiling: 0                   | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 100.000%                     | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 100.000%| 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Shadow Ball 100.000%                   | 
+ | Destiny Bond 100.000%                  | 
+ | Explosion 66.667%                      | 
+ | Hidden Power Fighting 66.667%          | 
+ | Giga Drain 33.333%                     | 
+ | Confuse Ray 33.333%                    | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Gastly +32.883%                        | 
+ | Gengar +24.775%                        | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Electabuzz                             | 
+ +----------------------------------------+ 
+ | Raw count: 1                           | 
+ | Avg. weight: ---                       | 
+ | Viability Ceiling: 0                   | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Nothing 100.000%                       | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 100.000%| 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Thunder 100.000%                       | 
+ | Thunder Wave 100.000%                  | 
+ | Thunderbolt 100.000%                   | 
+ | Thunder Punch 100.000%                 | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Charizard +96.847%                     | 
+ | Venusaur +93.694%                      | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Wigglytuff                             | 
+ +----------------------------------------+ 
+ | Raw count: 1                           | 
+ | Avg. weight: ---                       | 
+ | Viability Ceiling: 0                   | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Hard Stone 100.000%                    | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 100.000%| 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Thunder 100.000%                       | 
+ | Ice Punch 100.000%                     | 
+ | Attract 100.000%                       | 
+ | Ice Beam 100.000%                      | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Lanturn +99.550%                       | 
+ | Forretress +96.847%                    | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Croconaw                               | 
+ +----------------------------------------+ 
+ | Raw count: 2                           | 
+ | Avg. weight: ---                       | 
+ | Viability Ceiling: 0                   | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Ice Berry 100.000%                     | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 100.000%| 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Water Gun 100.000%                     | 
+ | Bite 100.000%                          | 
+ | Slash 100.000%                         | 
+ | Scratch 100.000%                       | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Tentacruel                             | 
+ +----------------------------------------+ 
+ | Raw count: 1                           | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 46                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 100.000%                     | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/0/252/252/252/252 100.000% | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Toxic 100.000%                         | 
+ | Hydro Pump 100.000%                    | 
+ | Mirror Coat 100.000%                   | 
+ | Protect 100.000%                       | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Scyther +99.099%                       | 
+ | Golem +98.649%                         | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Togetic                                | 
+ +----------------------------------------+ 
+ | Raw count: 1                           | 
+ | Avg. weight: ---                       | 
+ | Viability Ceiling: 0                   | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Focus Band 100.000%                    | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 100.000%| 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Attract 100.000%                       | 
+ | Hyper Beam 100.000%                    | 
+ | Hidden Power Fighting 100.000%         | 
+ | Metronome 100.000%                     | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Piloswine +99.550%                     | 
+ | Typhlosion +98.198%                    | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Raticate                               | 
+ +----------------------------------------+ 
+ | Raw count: 1                           | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 55                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Gold Berry 100.000%                    | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 100.000%| 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Thunder 100.000%                       | 
+ | Ice Beam 100.000%                      | 
+ | Quick Attack 100.000%                  | 
+ | Shadow Ball 100.000%                   | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Golem +98.649%                         | 
+ | Blissey +89.640%                       | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Qwilfish                               | 
+ +----------------------------------------+ 
+ | Raw count: 1                           | 
+ | Avg. weight: ---                       | 
+ | Viability Ceiling: 0                   | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Quick Claw 100.000%                    | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/0/252/252 100.000% | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Harden 100.000%                        | 
+ | Curse 100.000%                         | 
+ | Endure 100.000%                        | 
+ | Frustration 100.000%                   | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Xatu +99.550%                          | 
+ | Zapdos +93.243%                        | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Rattata                                | 
+ +----------------------------------------+ 
+ | Raw count: 1                           | 
+ | Avg. weight: ---                       | 
+ | Viability Ceiling: 0                   | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 100.000%                     | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 100.000%| 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Body Slam 100.000%                     | 
+ | Return 100.000%                        | 
+ | Quick Attack 100.000%                  | 
+ | Double-Edge 100.000%                   | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Machamp +87.838%                       | 
+ | Raikou +85.135%                        | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Gastly                                 | 
+ +----------------------------------------+ 
+ | Raw count: 2                           | 
+ | Avg. weight: ---                       | 
+ | Viability Ceiling: 0                   | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 100.000%                     | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 100.000%| 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Shadow Ball 100.000%                   | 
+ | Destiny Bond 100.000%                  | 
+ | Hidden Power Fighting 100.000%         | 
+ | Giga Drain 100.000%                    | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Haunter +49.550%                       | 
+ | Gengar +41.441%                        | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Lapras                                 | 
+ +----------------------------------------+ 
+ | Raw count: 2                           | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 46                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 50.000%                      | 
+ | Berry Juice 50.000%                    | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 100.000%| 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Ice Beam 100.000%                      | 
+ | Hydro Pump 100.000%                    | 
+ | Hidden Power Ground 50.000%            | 
+ | Thunderbolt 50.000%                    | 
+ | Thunder 50.000%                        | 
+ | Hidden Power Fire 50.000%              | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Dragonite +46.847%                     | 
+ | Tyranitar +41.441%                     | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Wartortle                              | 
+ +----------------------------------------+ 
+ | Raw count: 1                           | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 45                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Mystic Water 100.000%                  | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 100.000%| 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Hydro Pump 100.000%                    | 
+ | Body Slam 100.000%                     | 
+ | Frustration 100.000%                   | 
+ | Rapid Spin 100.000%                    | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Wooper +99.550%                        | 
+ | Vaporeon +95.946%                      | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Lanturn                                | 
+ +----------------------------------------+ 
+ | Raw count: 1                           | 
+ | Avg. weight: ---                       | 
+ | Viability Ceiling: 0                   | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Scope Lens 100.000%                    | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/0/252/252/252/252 100.000% | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Light Screen 100.000%                  | 
+ | Attract 100.000%                       | 
+ | Rest 100.000%                          | 
+ | Zap Cannon 100.000%                    | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Wigglytuff +99.550%                    | 
+ | Forretress +96.847%                    | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Totodile                               | 
+ +----------------------------------------+ 
+ | Raw count: 1                           | 
+ | Avg. weight: ---                       | 
+ | Viability Ceiling: 0                   | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Nothing 100.000%                       | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 100.000%| 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Surf 100.000%                          | 
+ | Hydro Pump 100.000%                    | 
+ | Ice Punch 100.000%                     | 
+ | Ice Beam 100.000%                      | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Spinarak +99.550%                      | 
+ | Cyndaquil +99.099%                     | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Meowth                                 | 
+ +----------------------------------------+ 
+ | Raw count: 2                           | 
+ | Avg. weight: ---                       | 
+ | Viability Ceiling: 0                   | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Nothing 100.000%                       | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/0/252/252 100.000% | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Scratch 100.000%                       | 
+ | Pay Day 100.000%                       | 
+ | Bite 100.000%                          | 
+ | Feint Attack 100.000%                  | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Cyndaquil +49.099%                     | 
+ | Gyarados +48.649%                      | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Dodrio                                 | 
+ +----------------------------------------+ 
+ | Raw count: 1                           | 
+ | Avg. weight: ---                       | 
+ | Viability Ceiling: 0                   | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Sharp Beak 100.000%                    | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 100.000%| 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Drill Peck 100.000%                    | 
+ | Tri Attack 100.000%                    | 
+ | Attract 100.000%                       | 
+ | Agility 100.000%                       | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Muk +98.198%                           | 
+ | Umbreon +87.387%                       | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Wooper                                 | 
+ +----------------------------------------+ 
+ | Raw count: 1                           | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 45                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | No Ability 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Nothing 100.000%                       | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Serious:252/252/252/252/252/252 100.000%| 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Haze 100.000%                          | 
+ | Ice Punch 100.000%                     | 
+ | Earthquake 100.000%                    | 
+ | Ice Beam 100.000%                      | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Wartortle +99.550%                     | 
+ | Vaporeon +95.946%                      | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
