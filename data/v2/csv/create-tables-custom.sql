@@ -726,3 +726,10 @@ CREATE TABLE versions(
   "identifier" TEXT
   , primary key (id)
 );
+CREATE TABLE move_effect_prose(
+  "move_effect_id" TEXT,
+  "local_language_id" TEXT,
+  "short_effect" TEXT,
+  "effect" TEXT,
+  primary key (move_effect_id, local_language_id)
+);
