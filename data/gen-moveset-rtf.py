@@ -3,14 +3,17 @@
 import sys, os, os.path, json, re
 import sqlite3
 
+GENERATION_ID = 4
 FONT_SIZE_NORMAL = 5
 FONT_SIZE_HEADING = 10
 MARGIN_WIDTH = 700
 DB_ENCODING = 'utf-8'
+POKEMON_ENTRY_PRE_SPACE = 20
+MOVE_REFERENCE_PRE_SPACE = 200
 
 def fail(msg, detail = None):
     if detail:
-        print("Error,", msg + ":", detail, file=sys.stderr)
+        print("Error, " + msg + ":" + str(detail), file=sys.stderr)
     else:
         print("Error,", msg, file=sys.stderr)
     sys.exit(1)
@@ -50,7 +53,7 @@ HEADER = r'''
 }
 \s0\cols3\colsx350\widowctrl
 \margl%d\margr%d\margt%d\margb%d
-'''.lstrip() % ( FONT_SIZE_NORMAL * 2, FONT_SIZE_HEADING * 2, MARGIN_WIDTH, MARGIN_WIDTH, MARGIN_WIDTH, MARGIN_WIDTH )
+'''.lstrip().replace('\n', '\r\n') % ( FONT_SIZE_NORMAL * 2, FONT_SIZE_HEADING * 2, MARGIN_WIDTH, MARGIN_WIDTH, MARGIN_WIDTH, MARGIN_WIDTH )
 
 FOOTER = r'''
 }
@@ -66,10 +69,11 @@ def write_moveset(dst, db, moveset):
         name = s["name"]
         identifier = pokemon_identifier_from_name(name)
         pokemon_info = lookup_pokemon_details(db, identifier)
-        dst.write(r"\par {\f0\fs%d\b\scaps %s [%s]}" % (FONT_SIZE_HEADING * 2, name.upper(), render_types(pokemon_info["types"])))
+        dst.write(r"\par\sa%d {\f0\fs%d\b\scaps %s [%s]}" % (
+            POKEMON_ENTRY_PRE_SPACE, FONT_SIZE_HEADING * 2, name.upper(), render_types(pokemon_info["types"])))
         dst.write(NEWLINE)
-        dst.write("\line Raw count %s, Avg weight %0.3f, Viability ceiling %s" % (s["raw_count"], float(s["avg_weight"]), s["via_ceil"]))
-        dst.write(NEWLINE)
+        #dst.write("\line Raw count %s, Avg weight %0.3f, Viability ceiling %s" % (s["raw_count"], float(s["avg_weight"]), s["via_ceil"]))
+        #dst.write(NEWLINE)
         #write_types(dst, pokemon_info["types"])
         write_stats(dst, pokemon_info["stats"])
         pairs_para(dst, "Abilities", s["abilities"])
@@ -81,7 +85,8 @@ def write_moveset(dst, db, moveset):
         if s["counters"]:
             counters_para(dst, s["counters"])
     #print(move_cache, file=sys.stderr)
-    dst.write(r"\par {\s0 {\f0\fs%d\b MOVE REFERENCE}}" % (FONT_SIZE_HEADING * 2))
+    dst.write(r"\par\sb%d {\s0 {\f0\fs%d\b MOVE REFERENCE}}" % (
+        MOVE_REFERENCE_PRE_SPACE, FONT_SIZE_HEADING * 2))
     dst.write(NEWLINE)
     for identifier in sorted(move_cache.keys()):
         dst.write(render_move(None, move_cache[identifier], True))
@@ -92,6 +97,8 @@ def write_moveset(dst, db, moveset):
     dst.write(NEWLINE)
 
 def render_types(types):
+    if types == [ "fairy" ]:
+        types = [ "normal" ];
     return " ".join(( t.title() for t in types ))
 
 def write_types(dst, types):
@@ -148,7 +155,7 @@ def write_moves(dst, db, move_cache, moves):
     dst.write(NEWLINE)
 
 def render_move(pct, md, is_reference):
-    damage_class = md["damage_class"][0].upper()
+    damage_class = md["damage_class"][0:2].upper()
     text = r"\line "
     if pct:
         text = text + fmt_pct(pct) + " "
@@ -162,7 +169,7 @@ def render_move(pct, md, is_reference):
         text = text + (r", Pow %s" % md["power"])
     text = text + (r", Acc %s" % (md["accuracy"] if md["accuracy"] else "N/A"))
     if md["priority"] and md["priority"] != "0":
-        text = text + (", Prio %s" % md["priority"])
+        text = text + (", Prio %+d" % int(md["priority"]))
     if is_reference and md["short_effect"]:
         text = text + (". {\i %s}" % md["short_effect"])
     return text
@@ -187,15 +194,27 @@ def lookup_pokemon_details(db, identifier):
     stats = {}
     for row in cur.execute(stats_sql, (pokemon_id,)):
         stats[row[0]] = row[1]
-    type_sql = """
+    # Get old (pre-gen-4) types if they exist.  If not then use the main table.
+    # We need this to get the correct Gen 4 types for Fairy-type Pokemon.
+    types = []
+    old_type_sql = """
     select t.identifier
-    from pokemon_types pt
+    from pokemon_types_hx pt
     inner join types t on t.id = pt.type_id
     where pt.pokemon_id = ?
+      and pt.before_generation_id > ?
     """
-    types = []
-    for row in cur.execute(type_sql, (pokemon_id,)):
+    for row in cur.execute(old_type_sql, (pokemon_id, GENERATION_ID)):
         types.append(row[0])
+    if len(types) == 0:
+        type_sql = """
+        select t.identifier
+        from pokemon_types pt
+        inner join types t on t.id = pt.type_id
+        where pt.pokemon_id = ?
+        """
+        for row in cur.execute(type_sql, (pokemon_id,)):
+            types.append(row[0])
     return {
             "id": pokemon_id,
             "stats": stats,
@@ -246,7 +265,7 @@ def format_effect(effect_template, effect_chance):
     # Insert effect chance where there's a placeholder.
     t = t.replace("$effect_chance", str(effect_chance))
     # Use regular text for references, if it's there.
-    t = re.sub(r"\[([^]])\]\{[^}]*}", r"\1", t)
+    t = re.sub(r"\[([^]]+)\]\{[^}]*}", r"\1", t)
     # When there's no regular text, use the link identifier.
     # TODO: We can resolve these with the DB to get the real names.
     t = re.sub(r"\[\]\{[^:]:([^}]*)}", r"\1", t)
