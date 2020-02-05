@@ -8,6 +8,7 @@ sqlite3 -batch $DB < create-tables-custom.sql
 rm -f tablenames.txt
 grep "^CREATE TABLE" create-tables-custom.sql | sed 's/CREATE TABLE //;s/(.*$//' > tablenames.txt
 TABLES=$(cat tablenames.txt)
+rm -f tablenames.txt
 
 echo Creating headerless files.
 
@@ -23,4 +24,5 @@ done
 sqlite3 -batch $DB < $SQL4
 
 rm -f NOHEADER_*.csv
+rm -f $SQL4
 

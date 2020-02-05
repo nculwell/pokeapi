@@ -210,6 +210,7 @@ CREATE TABLE item_pocket_names(
 CREATE TABLE item_pockets(
   "id" TEXT,
   "identifier" TEXT
+  , primary key (id)
 );
 CREATE TABLE items(
   "id" TEXT,
@@ -218,6 +219,7 @@ CREATE TABLE items(
   "cost" TEXT,
   "fling_power" TEXT,
   "fling_effect_id" TEXT
+  , primary key (id)
 );
 CREATE TABLE language_names(
   "language_id" TEXT,
@@ -232,23 +234,27 @@ CREATE TABLE languages(
   "identifier" TEXT,
   "official" TEXT,
   "order" TEXT
+  , primary key (id)
 );
 CREATE TABLE location_area_encounter_rates(
   "location_area_id" TEXT,
   "encounter_method_id" TEXT,
   "version_id" TEXT,
   "rate" TEXT
+  , primary key (location_area_id, encounter_method_id, version_id)
 );
 CREATE TABLE location_areas(
   "id" TEXT,
   "location_id" TEXT,
   "game_index" TEXT,
   "identifier" TEXT
+  , primary key (id)
 );
 CREATE TABLE location_game_indices(
   "location_id" TEXT,
   "generation_id" TEXT,
   "game_index" TEXT
+  , primary key (location_id, generation_id, game_index)
 );
 CREATE TABLE location_names(
   "location_id" TEXT,
@@ -261,16 +267,19 @@ CREATE TABLE locations(
   "id" TEXT,
   "region_id" TEXT,
   "identifier" TEXT
+  , primary key (id)
 );
 CREATE TABLE machines(
   "machine_number" TEXT,
   "version_group_id" TEXT,
   "item_id" TEXT,
   "move_id" TEXT
+  , primary key (machine_number, version_group_id)
 );
 CREATE TABLE move_battle_styles(
   "id" TEXT,
   "identifier" TEXT
+  , primary key (id)
 );
 CREATE TABLE move_changelog(
   "move_id" TEXT,
@@ -283,26 +292,32 @@ CREATE TABLE move_changelog(
   "target_id" TEXT,
   "effect_id" TEXT,
   "effect_chance" TEXT
+  , primary key (move_id, changed_in_version_group_id)
 );
 CREATE TABLE move_damage_classes(
   "id" TEXT,
   "identifier" TEXT
+  , primary key (id)
 );
 CREATE TABLE move_effect_changelog(
   "id" TEXT,
   "effect_id" TEXT,
   "changed_in_version_group_id" TEXT
+  , primary key (id)
 );
 CREATE TABLE move_effects(
   "id" TEXT
+  , primary key (id)
 );
 CREATE TABLE move_flag_map(
   "move_id" TEXT,
   "move_flag_id" TEXT
+  , primary key (move_id, move_flag_id)
 );
 CREATE TABLE move_flags(
   "id" TEXT,
   "identifier" TEXT
+  , primary key (id)
 );
 CREATE TABLE move_meta(
   "move_id" TEXT,
@@ -318,6 +333,7 @@ CREATE TABLE move_meta(
   "ailment_chance" TEXT,
   "flinch_chance" TEXT,
   "stat_chance" TEXT
+  , primary key (move_id)
 );
 CREATE TABLE move_meta_ailment_names(
   "move_meta_ailment_id" TEXT,
@@ -328,15 +344,18 @@ CREATE TABLE move_meta_ailment_names(
 CREATE TABLE move_meta_ailments(
   "id" TEXT,
   "identifier" TEXT
+  , primary key (id)
 );
 CREATE TABLE move_meta_categories(
   "id" TEXT,
   "identifier" TEXT
+  , primary key (id)
 );
 CREATE TABLE move_meta_stat_changes(
   "move_id" TEXT,
   "stat_id" TEXT,
   "change" TEXT
+  , primary key (move_id, stat_id)
 );
 CREATE TABLE move_names(
   "move_id" TEXT,
@@ -384,6 +403,7 @@ CREATE TABLE nature_pokeathlon_stats(
   "nature_id" TEXT,
   "pokeathlon_stat_id" TEXT,
   "max_change" TEXT
+  , primary key (nature_id, pokeathlon_stat_id)
 );
 CREATE TABLE natures(
   "id" TEXT,
@@ -393,12 +413,14 @@ CREATE TABLE natures(
   "hates_flavor_id" TEXT,
   "likes_flavor_id" TEXT,
   "game_index" TEXT
+  , primary key (id)
 );
 CREATE TABLE pal_park(
   "species_id" TEXT,
   "area_id" TEXT,
   "base_score" TEXT,
   "rate" TEXT
+  , primary key (species_id, area_id)
 );
 CREATE TABLE pal_park_area_names(
   "pal_park_area_id" TEXT,
@@ -409,6 +431,7 @@ CREATE TABLE pal_park_area_names(
 CREATE TABLE pal_park_areas(
   "id" TEXT,
   "identifier" TEXT
+  , primary key (id)
 );
 CREATE TABLE pokeathlon_stat_names(
   "pokeathlon_stat_id" TEXT,
@@ -419,16 +442,19 @@ CREATE TABLE pokeathlon_stat_names(
 CREATE TABLE pokeathlon_stats(
   "id" TEXT,
   "identifier" TEXT
+  , primary key (id)
 );
 CREATE TABLE pokedex_version_groups(
   "pokedex_id" TEXT,
   "version_group_id" TEXT
+  , primary key (pokedex_id, version_group_id)
 );
 CREATE TABLE pokedexes(
   "id" TEXT,
   "region_id" TEXT,
   "identifier" TEXT,
   "is_main_series" TEXT
+  , primary key (id)
 );
 CREATE TABLE pokemon(
   "id" TEXT,
@@ -439,12 +465,14 @@ CREATE TABLE pokemon(
   "base_experience" TEXT,
   "order" TEXT,
   "is_default" TEXT
+  , primary key (id)
 );
 CREATE TABLE pokemon_abilities(
   "pokemon_id" TEXT,
   "ability_id" TEXT,
   "is_hidden" TEXT,
   "slot" TEXT
+  , primary key (pokemon_id, ability_id)
 );
 CREATE TABLE pokemon_color_names(
   "pokemon_color_id" TEXT,
@@ -455,15 +483,18 @@ CREATE TABLE pokemon_color_names(
 CREATE TABLE pokemon_colors(
   "id" TEXT,
   "identifier" TEXT
+  , primary key (id)
 );
 CREATE TABLE pokemon_dex_numbers(
   "species_id" TEXT,
   "pokedex_id" TEXT,
   "pokedex_number" TEXT
+  , primary key (species_id, pokedex_id)
 );
 CREATE TABLE pokemon_egg_groups(
   "species_id" TEXT,
   "egg_group_id" TEXT
+  , primary key (species_id, egg_group_id)
 );
 CREATE TABLE pokemon_evolution(
   "id" TEXT,
@@ -486,11 +517,13 @@ CREATE TABLE pokemon_evolution(
   "trade_species_id" TEXT,
   "needs_overworld_rain" TEXT,
   "turn_upside_down" TEXT
+  , primary key (id)
 );
 CREATE TABLE pokemon_form_generations(
   "pokemon_form_id" TEXT,
   "generation_id" TEXT,
   "game_index" TEXT
+  , primary key (pokemon_form_id, generation_id)
 );
 CREATE TABLE pokemon_form_names(
   "pokemon_form_id" TEXT,
@@ -505,6 +538,7 @@ CREATE TABLE pokemon_form_pokeathlon_stats(
   "minimum_stat" TEXT,
   "base_stat" TEXT,
   "maximum_stat" TEXT
+  , primary key (pokemon_form_id, pokeathlon_stat_id)
 );
 CREATE TABLE pokemon_forms(
   "id" TEXT,
@@ -517,11 +551,13 @@ CREATE TABLE pokemon_forms(
   "is_mega" TEXT,
   "form_order" TEXT,
   "order" TEXT
+  , primary key (id)
 );
 CREATE TABLE pokemon_game_indices(
   "pokemon_id" TEXT,
   "version_id" TEXT,
   "game_index" TEXT
+  , primary key (pokemon_id, version_id)
 );
 CREATE TABLE pokemon_habitat_names(
   "pokemon_habitat_id" TEXT,
@@ -532,16 +568,19 @@ CREATE TABLE pokemon_habitat_names(
 CREATE TABLE pokemon_habitats(
   "id" TEXT,
   "identifier" TEXT
+  , primary key (id)
 );
 CREATE TABLE pokemon_items(
   "pokemon_id" TEXT,
   "version_id" TEXT,
   "item_id" TEXT,
   "rarity" TEXT
+  , primary key (pokemon_id, version_id, item_id)
 );
 CREATE TABLE pokemon_move_methods(
   "id" TEXT,
   "identifier" TEXT
+  , primary key (id)
 );
 CREATE TABLE pokemon_moves(
   "pokemon_id" TEXT,
@@ -550,10 +589,12 @@ CREATE TABLE pokemon_moves(
   "pokemon_move_method_id" TEXT,
   "level" TEXT,
   "order" TEXT
+  , primary key (pokemon_id, version_group_id, move_id, pokemon_move_method_id, "level")
 );
 CREATE TABLE pokemon_shapes(
   "id" TEXT,
   "identifier" TEXT
+  , primary key (id)
 );
 CREATE TABLE pokemon_species(
   "id" TEXT,
@@ -574,6 +615,7 @@ CREATE TABLE pokemon_species(
   "forms_switchable" TEXT,
   "order" TEXT,
   "conquest_order" TEXT
+  , primary key (id)
 );
 CREATE TABLE pokemon_species_names(
   "pokemon_species_id" TEXT,
@@ -587,11 +629,13 @@ CREATE TABLE pokemon_stats(
   "stat_id" TEXT,
   "base_stat" TEXT,
   "effort" TEXT
+  , primary key (pokemon_id, stat_id)
 );
 CREATE TABLE pokemon_types(
   "pokemon_id" TEXT,
   "type_id" TEXT,
   "slot" TEXT
+  , primary key (pokemon_id, type_id, slot)
 );
 CREATE TABLE region_names(
   "region_id" TEXT,
@@ -602,6 +646,7 @@ CREATE TABLE region_names(
 CREATE TABLE regions(
   "id" TEXT,
   "identifier" TEXT
+  , primary key (id)
 );
 CREATE TABLE stat_names(
   "stat_id" TEXT,
@@ -615,24 +660,29 @@ CREATE TABLE stats(
   "identifier" TEXT,
   "is_battle_only" TEXT,
   "game_index" TEXT
+  , primary key (id)
 );
 CREATE TABLE super_contest_combos(
   "first_move_id" TEXT,
   "second_move_id" TEXT
+  , primary key (first_move_id, second_move_id)
 );
 CREATE TABLE super_contest_effects(
   "id" TEXT,
   "appeal" TEXT
+  , primary key (id)
 );
 CREATE TABLE type_efficacy(
   "damage_type_id" TEXT,
   "target_type_id" TEXT,
   "damage_factor" TEXT
+  , primary key (damage_type_id, target_type_id)
 );
 CREATE TABLE type_game_indices(
   "type_id" TEXT,
   "generation_id" TEXT,
   "game_index" TEXT
+  , primary key (type_id, generation_id)
 );
 CREATE TABLE type_names(
   "type_id" TEXT,
