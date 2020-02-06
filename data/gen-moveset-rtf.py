@@ -33,7 +33,7 @@ def main():
     db = sqlite3.connect("pokeapi.db")
     db.text_factory = lambda x: str(x, DB_ENCODING)
     with open_dst(dst_filename) as dst:
-        write_moveset(dst, db, moveset)
+        write_moveset(dst, db, moveset, os.path.basename(src_filename))
     db.close()
 
 def open_dst(dst_filename):
@@ -61,10 +61,13 @@ FOOTER = r'''
 
 NEWLINE = "\r\n"
 
-def write_moveset(dst, db, moveset):
+def write_moveset(dst, db, moveset, src_filename):
     move_cache = {}
     natures = load_natures(db)
     dst.write(HEADER)
+    #dst.write((r"\par {\f0\fs%d\b SOURCE: %s}" + NEWLINE) % (FONT_SIZE_HEADING * 4, src_filename))
+    dst.write((r"{\footer \par {\qc\f0\fs%d Smogon.com usage statistics with additional data from PokeAPI. Source: %s. Page \chpgn.}}" + NEWLINE)
+            % (int(FONT_SIZE_NORMAL * 1.5), src_filename))
     for s in moveset:
         #print(s, file=sys.stderr)
         name = s["name"]
@@ -119,7 +122,9 @@ def write_stats(dst, natures, stats):
     for s in STAT_ORDER:
         if not s in stats:
             raise Exception("Stat not found: " + s)
-    dst.write(", ".join([ "%s %s/%d" % (STAT_ABBRS[s], stats[s], eff[s]) for s in STAT_ORDER ]))
+    upscaled_hp = 5 * eff["hp"] / 4
+    dst.write(", ".join([ "%s %s" % (STAT_ABBRS[s], stats[s]) for s in STAT_ORDER ]))
+    dst.write(", Upscaled HP %d" % upscaled_hp)
     dst.write(r"}")
     dst.write(NEWLINE)
 
@@ -275,8 +280,8 @@ def format_effect(effect_template, effect_chance):
     t = re.sub(r"\[\]\{[^:]:([^}]*)}", r"\1", t)
     return t
 
-def pairs_para(dst, title, pair_list):
-    dst.write(r"\par {\s0 {\b %s:} " % title)
+def pairs_para(dst, section_title, pair_list):
+    dst.write(r"\par {\s0 {\b %s:} " % section_title)
     dst.write(pairs(pair_list))
     dst.write(r"}")
     dst.write(NEWLINE)
