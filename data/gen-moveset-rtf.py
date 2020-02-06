@@ -63,6 +63,7 @@ NEWLINE = "\r\n"
 
 def write_moveset(dst, db, moveset):
     move_cache = {}
+    natures = load_natures(db)
     dst.write(HEADER)
     for s in moveset:
         #print(s, file=sys.stderr)
@@ -75,7 +76,7 @@ def write_moveset(dst, db, moveset):
         #dst.write("\line Raw count %s, Avg weight %0.3f, Viability ceiling %s" % (s["raw_count"], float(s["avg_weight"]), s["via_ceil"]))
         #dst.write(NEWLINE)
         #write_types(dst, pokemon_info["types"])
-        write_stats(dst, pokemon_info["stats"])
+        write_stats(dst, natures, pokemon_info["stats"])
         pairs_para(dst, "Abilities", s["abilities"])
         pairs_para(dst, "Items", s["items"])
         #pairs_para(dst, "EVs", s["spreads"])
@@ -109,14 +110,16 @@ def write_types(dst, types):
     dst.write(r"}")
     dst.write(NEWLINE)
 
-def write_stats(dst, stats):
+def write_stats(dst, natures, stats):
     #print("Stats:", stats, file=sys.stderr)
+    eff = { s: calc_effective_stat(natures, s, stats[s], 100, "hardy", 0, 0)
+            for s in STAT_ORDER }
     #dst.write(r"\par {\s0 {\b %s:} " % "Stats")
     dst.write(r"{\line\s0")
     for s in STAT_ORDER:
         if not s in stats:
             raise Exception("Stat not found: " + s)
-    dst.write(", ".join([ "%s %s" % (STAT_ABBRS[s], stats[s]) for s in STAT_ORDER ]))
+    dst.write(", ".join([ "%s %s/%d" % (STAT_ABBRS[s], stats[s], eff[s]) for s in STAT_ORDER ]))
     dst.write(r"}")
     dst.write(NEWLINE)
 
@@ -299,6 +302,38 @@ def fmt_pct(n):
     if n[0] == "+":
         x = "+" + x
     return x
+
+def calc_effective_stat(natures, stat_identifier, base, level, nature, iv, ev):
+    base, level, iv = int(base), int(level), int(iv)
+    if not ev is None:
+        ev = int(ev)
+    if stat_identifier == "hp":
+        return int((2 * base + iv + int(ev/4)) / 100) + level + 10
+    else:
+        nature_modifier = get_nature_modifier(natures, stat_identifier, nature)
+        return int((int(((2 * base + iv + int(ev/4)) * level) / 100) + 4) * nature_modifier)
+
+def get_nature_modifier(natures, stat_identifier, nature):
+    n = natures[nature]
+    if n[0] == stat_identifier:
+        return 0.9
+    elif n[1] == stat_identifier:
+        return 1.1
+    else:
+        return 1
+
+def load_natures(db):
+    cur = db.cursor()
+    natures_sql = """
+    select n.identifier, dec_s.identifier, inc_s.identifier
+    from natures n
+    join stats dec_s on dec_s.id = n.decreased_stat_id
+    join stats inc_s on inc_s.id = n.increased_stat_id
+    """
+    natures = {}
+    for row in cur.execute(natures_sql):
+        natures[row[0]] = (row[1], row[2])
+    return natures
 
 if __name__ == "__main__":
     main()
