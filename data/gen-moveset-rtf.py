@@ -3,13 +3,14 @@
 import sys, os, os.path, json, re
 import sqlite3
 
-GENERATION_ID = 4
 FONT_SIZE_NORMAL = 5
-FONT_SIZE_HEADING = 10
+FONT_SIZE_HEADING = 9
 MARGIN_WIDTH = 700
 DB_ENCODING = 'utf-8'
-POKEMON_ENTRY_PRE_SPACE = 20
+POKEMON_ENTRY_PRE_SPACE = 0
 MOVE_REFERENCE_PRE_SPACE = 200
+DAMAGE_CLASS_LENGTH_CHARS = 4
+DIVIDER_EMDASH_COUNT = 10
 
 def fail(msg, detail = None):
     if detail:
@@ -33,7 +34,7 @@ def main():
     db = sqlite3.connect("pokeapi.db")
     db.text_factory = lambda x: str(x, DB_ENCODING)
     with open_dst(dst_filename) as dst:
-        write_moveset(dst, db, moveset, os.path.basename(src_filename))
+        write_moveset(dst, db, moveset)
     db.close()
 
 def open_dst(dst_filename):
@@ -51,9 +52,12 @@ HEADER = r'''
 {\s1\sbasedon0\snext0\b Subhead;}
 {\s2\sbasedon0\snext0\f0\fs%d\b Heading;}
 }
-\s0\cols3\colsx350\widowctrl
+\s0\widowctrl
 \margl%d\margr%d\margt%d\margb%d
 '''.lstrip().replace('\n', '\r\n') % ( FONT_SIZE_NORMAL * 2, FONT_SIZE_HEADING * 2, MARGIN_WIDTH, MARGIN_WIDTH, MARGIN_WIDTH, MARGIN_WIDTH )
+
+BEGIN_COLUMNS = r"\cols3\colsx350"
+END_COLUMNS = r""
 
 FOOTER = r'''
 }
@@ -61,22 +65,29 @@ FOOTER = r'''
 
 NEWLINE = "\r\n"
 
-def write_moveset(dst, db, moveset, src_filename):
+def write_moveset(dst, db, moveset):
     move_cache = {}
     natures = load_natures(db)
+    original_source = moveset["source"]
+    src_match = re.match(r"gen(\d+)([a-z]+)", os.path.basename(original_source))
+    src_generation, src_tier = src_match.group(1, 2)
+    src_format = "Gen %s %s" % (src_generation, src_tier.upper())
+    moveset_stats = moveset["stats"]
     dst.write(HEADER)
-    #dst.write((r"\par {\f0\fs%d\b SOURCE: %s}" + NEWLINE) % (FONT_SIZE_HEADING * 4, src_filename))
-    dst.write((r"{\footer \par {\qc\f0\fs%d Smogon.com usage statistics with additional data from PokeAPI. Source: %s. Page \chpgn.}}" + NEWLINE)
-            % (int(FONT_SIZE_NORMAL * 1.5), src_filename))
-    for s in moveset:
+    dst.write((r"{\footer \par {\qc\f2\fs%d {\b %s.} Based on Smogon.com usage statistics with additional data from PokeAPI. Source: %s \par\qr Page \chpgn}}" + NEWLINE)
+            % (int(FONT_SIZE_NORMAL * 2), src_format, original_source))
+    dst.write(BEGIN_COLUMNS + NEWLINE)
+    for s in moveset_stats:
         #print(s, file=sys.stderr)
         name = s["name"]
         identifier = pokemon_identifier_from_name(name)
-        pokemon_info = lookup_pokemon_details(db, identifier)
-        dst.write(r"\par\sa%d {\f0\fs%d\b\scaps %s [%s]}" % (
-            POKEMON_ENTRY_PRE_SPACE, FONT_SIZE_HEADING * 2, name.upper(), render_types(pokemon_info["types"])))
+        pokemon_info = lookup_pokemon_details(db, src_generation, identifier)
+        dst.write(r"\par\sa%d {\f0\fs%d\b\scaps %s [%s] #%s}" % (
+            POKEMON_ENTRY_PRE_SPACE, FONT_SIZE_HEADING * 2, name.upper(),
+            render_types(pokemon_info["types"]),
+            pokemon_info["national_pokdex_number"],
+            ))
         dst.write(NEWLINE)
-        #dst.write("\line Raw count %s, Avg weight %0.3f, Viability ceiling %s" % (s["raw_count"], float(s["avg_weight"]), s["via_ceil"]))
         #dst.write(NEWLINE)
         #write_types(dst, pokemon_info["types"])
         write_stats(dst, natures, pokemon_info["stats"])
@@ -84,11 +95,17 @@ def write_moveset(dst, db, moveset, src_filename):
         pairs_para(dst, "Items", s["items"])
         #pairs_para(dst, "EVs", s["spreads"])
         #pairs_para(dst, "Moves", s["moves"])
-        write_moves(dst, db, move_cache, s["moves"])
+        write_moves(dst, db, move_cache, src_generation, s["moves"])
         pairs_para(dst, "Teammates", s["teammates"])
         if s["counters"]:
             counters_para(dst, s["counters"])
+        dst.write(r"\par {\b Raw count} %s, {\b Average weight} %0.3f, {\b Viability ceiling} %s" % (
+            s["raw_count"], float(s["avg_weight"]), s["via_ceil"],
+            ))
+        dst.write(NEWLINE)
     #print(move_cache, file=sys.stderr)
+    dst.write(r"\par" + (r"\emdash" * DIVIDER_EMDASH_COUNT) + NEWLINE)
+    dst.write(END_COLUMNS + NEWLINE)
     dst.write(r"\par\sb%d {\s0 {\f0\fs%d\b MOVE REFERENCE}}" % (
         MOVE_REFERENCE_PRE_SPACE, FONT_SIZE_HEADING * 2))
     dst.write(NEWLINE)
@@ -146,14 +163,14 @@ POKEMON_IDENTIFIER_ALTERNATES = {
         "shaymin": "shaymin-sky"
         }
 
-def write_moves(dst, db, move_cache, moves):
+def write_moves(dst, db, move_cache, generation, moves):
     dst.write(r"\par {\s0 {\b %s} " % "Moves")
     move_text = []
     for m in moves:
         if m[0] in [ "Other", "Nothing" ]:
             move_text.append(r"\line %s %s" % (fmt_pct(m[1]), m[0]))
             continue
-        md = lookup_move_details(db, move_cache, m[0])
+        md = lookup_move_details(db, move_cache, generation, m[0])
         text = render_move(m[1], md, False)
         move_text.append(text)
     for mt in move_text:
@@ -163,7 +180,7 @@ def write_moves(dst, db, move_cache, moves):
     dst.write(NEWLINE)
 
 def render_move(pct, md, is_reference):
-    damage_class = md["damage_class"][0:2].upper()
+    damage_class = md["damage_class"][0:DAMAGE_CLASS_LENGTH_CHARS]
     text = r"\line "
     if pct:
         text = text + fmt_pct(pct) + " "
@@ -171,8 +188,12 @@ def render_move(pct, md, is_reference):
         name_style = r"\b "
     else:
         name_style = ""
-    text = text + ("{%s%s:} %s, %s, PP %s"
-            % (name_style, md["name"], md["type"].upper(), damage_class, md["pp"]))
+    move_pp = int(md["pp"])
+    move_pp_max = int(move_pp * 1.6)
+    text = text + ("{%s%s:} {\scaps %s/%s}, PP %d-%d"
+            % (name_style, md["name"],
+                md["type"].title(), damage_class.title(),
+                move_pp, move_pp_max))
     if md["power"]:
         text = text + (r", Pow %s" % md["power"])
     text = text + (r", Acc %s" % (md["accuracy"] if md["accuracy"] else "N/A"))
@@ -182,15 +203,19 @@ def render_move(pct, md, is_reference):
         text = text + (". {\i %s}" % md["short_effect"])
     return text
 
-def lookup_pokemon_details(db, identifier):
+def lookup_pokemon_details(db, generation, identifier):
     cur = db.cursor()
     pokemon_id = None
     id_sql = """
-    select p.id from pokemon p
+    select p.id, x.pokedex_number
+    from pokemon p
+    join pokemon_dex_numbers x on x.species_id = p.species_id
     where p.identifier = ?
+      and x.pokedex_id = 1
     """
     for row in cur.execute(id_sql, (identifier,)):
         pokemon_id = row[0]
+        national_pokdex_number = row[1]
     if pokemon_id is None:
         raise Exception("Pokemon not found: " + identifier)
     stats_sql = """
@@ -212,7 +237,7 @@ def lookup_pokemon_details(db, identifier):
     where pt.pokemon_id = ?
       and pt.before_generation_id > ?
     """
-    for row in cur.execute(old_type_sql, (pokemon_id, GENERATION_ID)):
+    for row in cur.execute(old_type_sql, (pokemon_id, generation)):
         types.append(row[0])
     if len(types) == 0:
         type_sql = """
@@ -227,35 +252,41 @@ def lookup_pokemon_details(db, identifier):
             "id": pokemon_id,
             "stats": stats,
             "types": types,
+            "national_pokdex_number": national_pokdex_number,
             }
 
-def lookup_move_details(db, move_cache, move_name):
+def lookup_move_details(db, move_cache, generation, move_name):
     cur = db.cursor()
     identifier = move_name.lower().replace(' ', '-')
-    if identifier.startswith("hidden-power-"):
-        identifier = "hidden-power"
-    if identifier in move_cache:
-        return move_cache[identifier]
+    effective_identifier = identifier
+    hidden_power_type = None
+    hidden_power_prefix = "hidden-power-"
+    if effective_identifier.startswith(hidden_power_prefix):
+        hidden_power_type = effective_identifier[len(hidden_power_prefix):]
+        effective_identifier = "hidden-power"
+    if effective_identifier in move_cache:
+        return move_cache[effective_identifier]
     move_sql = """
     select m.id, m.identifier, d.identifier, t.identifier,
         m.power, m.pp, m.accuracy, m.priority,
         m.effect_chance, e.short_effect
     from moves m
     left outer join move_types_hx mthx on mthx.move_id = m.id
+                                      and mthx.before_generation_id > ?
     inner join types t on t.id = coalesce(mthx.type_id, m.type_id)
     inner join move_damage_classes d on d.id = m.damage_class_id
     left outer join move_effect_prose e on e.move_effect_id = m.effect_id
                                        and e.local_language_id = 9
     where m.identifier = ?
     """
-    for row in cur.execute(move_sql, (identifier,)):
+    for row in cur.execute(move_sql, (generation, effective_identifier,)):
         move_data = {
             "id": row[0],
             "name": move_name,
             "identifier": row[1],
             "damage_class": row[2],
-            "type": row[3],
-            "power": row[4],
+            "type": hidden_power_type or row[3],
+            "power": row[4] if not hidden_power_type else 70,
             "pp": row[5],
             "accuracy": row[6],
             "priority": row[7],
@@ -265,7 +296,7 @@ def lookup_move_details(db, move_cache, move_name):
         }
         break
     else:
-        raise Exception("No move found for move identifier: " + identifier)
+        raise Exception("No move found for move identifier: " + effective_identifier)
     move_cache[identifier] = move_data
     return move_data
 
