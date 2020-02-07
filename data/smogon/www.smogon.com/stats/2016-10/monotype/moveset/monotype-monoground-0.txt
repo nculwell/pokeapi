@@ -1,0 +1,3527 @@
+ +----------------------------------------+ 
+ | Hippowdon                              | 
+ +----------------------------------------+ 
+ | Raw count: 19700                       | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 90                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Sand Stream 99.675%                    | 
+ | Sand Force  0.325%                     | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 59.487%                      | 
+ | Rocky Helmet 16.954%                   | 
+ | Eject Button 13.873%                   | 
+ | Zoom Lens  2.437%                      | 
+ | Sitrus Berry  1.690%                   | 
+ | Assault Vest  1.091%                   | 
+ | Other  4.467%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Impish:252/4/252/0/0/0 31.985%         | 
+ | Impish:252/0/144/0/112/0 12.904%       | 
+ | Impish:248/8/252/0/0/0  6.670%         | 
+ | Adamant:252/252/0/0/4/0  3.985%        | 
+ | Impish:252/0/252/0/4/0  3.706%         | 
+ | Careful:252/0/4/0/252/0  2.320%        | 
+ | Other 38.431%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Earthquake 88.096%                     | 
+ | Slack Off 84.086%                      | 
+ | Stealth Rock 81.386%                   | 
+ | Whirlwind 43.523%                      | 
+ | Toxic 26.528%                          | 
+ | Stone Edge 13.609%                     | 
+ | Roar 11.254%                           | 
+ | Ice Fang  9.152%                       | 
+ | Crunch  7.127%                         | 
+ | Fire Fang  6.076%                      | 
+ | Rock Slide  4.792%                     | 
+ | Yawn  3.640%                           | 
+ | Protect  3.208%                        | 
+ | Other 17.523%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Excadrill +6.410%                      | 
+ | Garchomp-Mega +4.016%                  | 
+ | Landorus +2.033%                       | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Excadrill                              | 
+ +----------------------------------------+ 
+ | Raw count: 18630                       | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 90                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Sand Rush 76.082%                      | 
+ | Mold Breaker 18.857%                   | 
+ | Sand Force  5.062%                     | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Life Orb 34.724%                       | 
+ | Choice Band 27.992%                    | 
+ | Choice Scarf 10.945%                   | 
+ | Air Balloon  5.802%                    | 
+ | Focus Sash  5.658%                     | 
+ | Assault Vest  4.804%                   | 
+ | Leftovers  4.670%                      | 
+ | Rocky Helmet  1.519%                   | 
+ | Other  3.886%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Adamant:0/252/0/0/4/252 46.146%        | 
+ | Jolly:0/252/0/0/4/252 12.598%          | 
+ | Adamant:4/252/0/0/0/252  7.552%        | 
+ | Adamant:0/252/4/0/0/252  5.217%        | 
+ | Jolly:0/252/4/0/0/252  4.906%          | 
+ | Jolly:4/252/0/0/0/252  3.060%          | 
+ | Other 20.521%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Earthquake 95.287%                     | 
+ | Iron Head 94.933%                      | 
+ | Rock Slide 71.787%                     | 
+ | Rapid Spin 45.051%                     | 
+ | X-Scissor 26.436%                      | 
+ | Swords Dance 24.541%                   | 
+ | Poison Jab  9.576%                     | 
+ | Brick Break  8.164%                    | 
+ | Drill Run  5.008%                      | 
+ | Other 19.216%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Hippowdon +6.693%                      | 
+ | Landorus +4.073%                       | 
+ | Garchomp-Mega +2.774%                  | 
+ | Gastrodon +0.634%                      | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Mamoswine                              | 
+ +----------------------------------------+ 
+ | Raw count: 12066                       | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 90                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Thick Fat 91.853%                      | 
+ | Oblivious  7.086%                      | 
+ | Snow Cloak  1.061%                     | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Life Orb 27.971%                       | 
+ | Focus Sash 21.979%                     | 
+ | Choice Band 20.976%                    | 
+ | Choice Scarf  8.445%                   | 
+ | Leftovers  8.271%                      | 
+ | Assault Vest  6.299%                   | 
+ | Rocky Helmet  1.061%                   | 
+ | Other  4.998%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Jolly:0/252/0/0/4/252 16.940%          | 
+ | Adamant:248/252/0/0/8/0 16.053%        | 
+ | Adamant:0/252/0/0/4/252 15.606%        | 
+ | Jolly:0/252/4/0/0/252  5.172%          | 
+ | Jolly:4/252/0/0/0/252  4.260%          | 
+ | Adamant:252/252/0/0/4/0  3.622%        | 
+ | Other 38.347%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Earthquake 94.795%                     | 
+ | Ice Shard 89.118%                      | 
+ | Icicle Crash 66.401%                   | 
+ | Superpower 35.554%                     | 
+ | Knock Off 32.513%                      | 
+ | Stone Edge 15.241%                     | 
+ | Icicle Spear 12.407%                   | 
+ | Stealth Rock  9.299%                   | 
+ | Endeavor  7.674%                       | 
+ | Freeze-Dry  6.564%                     | 
+ | Avalanche  6.390%                      | 
+ | Rock Slide  5.462%                     | 
+ | Other 18.581%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Landorus +3.359%                       | 
+ | Gastrodon +0.860%                      | 
+ | Seismitoad +0.597%                     | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Garchomp-Mega                          | 
+ +----------------------------------------+ 
+ | Raw count: 12142                       | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 90                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Sand Force 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Garchompite 100.000%                   | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Naive:0/252/0/4/0/252 14.742%          | 
+ | Jolly:0/252/0/0/4/252 10.945%          | 
+ | Jolly:0/252/4/0/0/252  8.055%          | 
+ | Adamant:252/252/0/0/4/0  7.948%        | 
+ | Naive:0/4/0/252/0/252  5.469%          | 
+ | Jolly:4/252/0/0/0/252  4.645%          | 
+ | Other 48.196%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Earthquake 93.090%                     | 
+ | Dragon Claw 45.149%                    | 
+ | Fire Blast 44.185%                     | 
+ | Stone Edge 35.357%                     | 
+ | Swords Dance 34.698%                   | 
+ | Draco Meteor 28.513%                   | 
+ | Iron Head 22.410%                      | 
+ | Outrage 18.910%                        | 
+ | Rock Slide 11.160%                     | 
+ | Poison Jab 10.097%                     | 
+ | Fire Fang  7.610%                      | 
+ | Crunch  5.691%                         | 
+ | Flamethrower  5.510%                   | 
+ | Substitute  5.378%                     | 
+ | Aqua Tail  3.854%                      | 
+ | Dual Chop  3.204%                      | 
+ | Dragon Rush  2.726%                    | 
+ | Brick Break  2.405%                    | 
+ | Dragon Tail  2.372%                    | 
+ | Other 17.682%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Hippowdon +5.786%                      | 
+ | Excadrill +3.648%                      | 
+ | Gastrodon +3.534%                      | 
+ | Swampert +1.315%                       | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Gliscor                                | 
+ +----------------------------------------+ 
+ | Raw count: 11819                       | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 84                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Poison Heal 95.160%                    | 
+ | Hyper Cutter  2.894%                   | 
+ | Sand Veil  1.946%                      | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Toxic Orb 94.263%                      | 
+ | Leftovers  2.056%                      | 
+ | Other  3.681%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Adamant:184/252/0/0/0/72 21.855%       | 
+ | Impish:252/0/184/0/0/72 16.685%        | 
+ | Careful:244/0/8/0/200/56  8.867%       | 
+ | Impish:248/0/188/0/0/72  3.833%        | 
+ | Hardy:0/0/0/0/0/0  2.149%              | 
+ | Adamant:0/252/0/0/4/252  1.921%        | 
+ | Other 44.691%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Earthquake 70.556%                     | 
+ | Roost 40.917%                          | 
+ | Knock Off 40.833%                      | 
+ | Protect 39.910%                        | 
+ | Swords Dance 35.858%                   | 
+ | Toxic 31.382%                          | 
+ | Substitute 16.693%                     | 
+ | Facade 14.570%                         | 
+ | Acrobatics 12.192%                     | 
+ | Stone Edge  7.919%                     | 
+ | Taunt  7.556%                          | 
+ | Ice Fang  6.997%                       | 
+ | Aerial Ace  6.955%                     | 
+ | Fire Fang  5.796%                      | 
+ | Fling  5.491%                          | 
+ | U-turn  5.136%                         | 
+ | Stealth Rock  4.958%                   | 
+ | Poison Jab  4.933%                     | 
+ | Night Slash  4.874%                    | 
+ | Baton Pass  3.867%                     | 
+ | X-Scissor  3.291%                      | 
+ | Rock Slide  2.953%                     | 
+ | Sandstorm  2.293%                      | 
+ | Brick Break  2.268%                    | 
+ | Agility  1.929%                        | 
+ | Other 19.875%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Swampert-Mega +1.734%                  | 
+ | Donphan +1.086%                        | 
+ | Swampert +0.649%                       | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Nidoking                               | 
+ +----------------------------------------+ 
+ | Raw count: 11292                       | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 90                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Sheer Force 86.397%                    | 
+ | Poison Point 11.513%                   | 
+ | Rivalry  2.090%                        | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Life Orb 59.068%                       | 
+ | Choice Scarf 21.183%                   | 
+ | Choice Specs  3.684%                   | 
+ | Leftovers  3.153%                      | 
+ | Black Sludge  2.976%                   | 
+ | Assault Vest  2.834%                   | 
+ | Focus Sash  2.338%                     | 
+ | Other  4.764%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Timid:0/0/0/252/4/252 38.151%          | 
+ | Timid:4/0/0/252/0/252 10.662%          | 
+ | Jolly:0/252/0/0/4/252  5.429%          | 
+ | Modest:4/0/0/252/0/252  4.791%         | 
+ | Modest:0/0/0/252/4/252  4.534%         | 
+ | Adamant:252/252/0/0/4/0  3.719%        | 
+ | Other 32.713%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Earth Power 71.493%                    | 
+ | Ice Beam 68.084%                       | 
+ | Sludge Wave 60.388%                    | 
+ | Flamethrower 45.324%                   | 
+ | Thunderbolt 37.850%                    | 
+ | Sludge Bomb 13.231%                    | 
+ | Poison Jab 12.965%                     | 
+ | Fire Blast 12.168%                     | 
+ | Earthquake 10.627%                     | 
+ | Ice Punch  6.235%                      | 
+ | Fire Punch  6.119%                     | 
+ | Thunder Punch  5.411%                  | 
+ | Toxic Spikes  4.561%                   | 
+ | Superpower  4.499%                     | 
+ | Megahorn  4.490%                       | 
+ | Sucker Punch  3.144%                   | 
+ | Shadow Ball  2.940%                    | 
+ | Hidden Power Grass  2.347%             | 
+ | Drill Run  2.320%                      | 
+ | Surf  2.152%                           | 
+ | Focus Blast  2.046%                    | 
+ | Stealth Rock  2.037%                   | 
+ | Other 19.571%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Swampert +0.947%                       | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Gastrodon                              | 
+ +----------------------------------------+ 
+ | Raw count: 10250                       | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 90                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Storm Drain 95.717%                    | 
+ | Sticky Hold  2.527%                    | 
+ | Sand Force  1.756%                     | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 85.932%                      | 
+ | Assault Vest  3.532%                   | 
+ | Sitrus Berry  2.429%                   | 
+ | Rindo Berry  2.000%                    | 
+ | Rocky Helmet  1.493%                   | 
+ | Other  4.615%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Bold:252/0/252/4/0/0 11.922%           | 
+ | Calm:252/0/0/4/252/0 11.151%           | 
+ | Calm:252/0/252/4/0/0  6.195%           | 
+ | Relaxed:252/0/252/0/4/0  4.732%        | 
+ | Calm:252/0/4/0/252/0  4.517%           | 
+ | Modest:252/0/0/252/4/0  3.756%         | 
+ | Other 57.727%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Scald 93.278%                          | 
+ | Recover 88.517%                        | 
+ | Toxic 64.156%                          | 
+ | Earth Power 39.415%                    | 
+ | Ice Beam 26.624%                       | 
+ | Earthquake 22.137%                     | 
+ | Clear Smog 14.341%                     | 
+ | Hidden Power Grass 10.088%             | 
+ | Acid Armor  5.639%                     | 
+ | Sludge Bomb  5.054%                    | 
+ | Curse  3.893%                          | 
+ | Protect  3.024%                        | 
+ | Stockpile  2.615%                      | 
+ | Surf  2.215%                           | 
+ | Other 19.005%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Garchomp-Mega +5.209%                  | 
+ | Landorus +3.416%                       | 
+ | Excadrill +2.113%                      | 
+ | Hippowdon +1.537%                      | 
+ | Mamoswine +1.329%                      | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Landorus                               | 
+ +----------------------------------------+ 
+ | Raw count: 9656                        | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 90                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Sheer Force 90.441%                    | 
+ | Sand Force  9.559%                     | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Life Orb 86.879%                       | 
+ | Choice Scarf  3.614%                   | 
+ | Leftovers  2.227%                      | 
+ | Focus Sash  1.533%                     | 
+ | Assault Vest  1.139%                   | 
+ | Other  4.609%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Timid:0/0/0/252/4/252 46.997%          | 
+ | Naive:0/4/0/252/0/252 14.271%          | 
+ | Modest:0/0/0/252/4/252  5.282%         | 
+ | Timid:4/0/0/252/0/252  4.360%          | 
+ | Modest:104/0/0/252/0/152  2.817%       | 
+ | Timid:0/0/4/252/0/252  2.703%          | 
+ | Other 23.571%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Earth Power 93.662%                    | 
+ | Sludge Wave 58.005%                    | 
+ | Psychic 56.297%                        | 
+ | Focus Blast 48.830%                    | 
+ | Gravity 35.180%                        | 
+ | Rock Slide 18.113%                     | 
+ | Hidden Power Ice 12.997%               | 
+ | Knock Off 12.231%                      | 
+ | Grass Knot 11.123%                     | 
+ | Rock Polish 10.563%                    | 
+ | Calm Mind  8.223%                      | 
+ | U-turn  4.981%                         | 
+ | Earthquake  4.764%                     | 
+ | Sludge Bomb  4.205%                    | 
+ | Hidden Power Fire  3.749%              | 
+ | Other 17.077%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Excadrill +9.147%                      | 
+ | Seismitoad +7.751%                     | 
+ | Hippowdon +5.426%                      | 
+ | Mamoswine +4.727%                      | 
+ | Gastrodon +3.807%                      | 
+ | Zygarde +1.074%                        | 
+ | Garchomp-Mega +0.534%                  | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Garchomp                               | 
+ +----------------------------------------+ 
+ | Raw count: 7642                        | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 90                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Rough Skin 80.385%                     | 
+ | Sand Veil 19.615%                      | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Rocky Helmet 25.007%                   | 
+ | Choice Scarf 24.378%                   | 
+ | Lum Berry 10.913%                      | 
+ | Life Orb  8.087%                       | 
+ | Focus Sash  8.021%                     | 
+ | Choice Band  5.378%                    | 
+ | Leftovers  4.946%                      | 
+ | Assault Vest  3.926%                   | 
+ | BrightPowder  2.578%                   | 
+ | Salac Berry  1.832%                    | 
+ | Other  4.933%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Jolly:0/252/0/0/4/252 42.986%          | 
+ | Naive:0/252/0/4/0/252 12.628%          | 
+ | Jolly:4/252/0/0/0/252  5.745%          | 
+ | Jolly:0/252/4/0/0/252  2.578%          | 
+ | Impish:240/0/176/0/0/92  2.211%        | 
+ | Jolly:0/180/0/0/0/252  2.028%          | 
+ | Other 31.824%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Earthquake 90.892%                     | 
+ | Outrage 44.870%                        | 
+ | Dragon Claw 38.799%                    | 
+ | Swords Dance 32.688%                   | 
+ | Fire Blast 23.279%                     | 
+ | Stone Edge 22.350%                     | 
+ | Iron Head 22.245%                      | 
+ | Stealth Rock 18.241%                   | 
+ | Poison Jab 14.774%                     | 
+ | Dragon Tail 14.420%                    | 
+ | Fire Fang 14.224%                      | 
+ | Brick Break  8.937%                    | 
+ | Rock Slide  6.935%                     | 
+ | Crunch  6.922%                         | 
+ | Aqua Tail  4.711%                      | 
+ | Substitute  3.599%                     | 
+ | Draco Meteor  3.206%                   | 
+ | Shadow Claw  2.931%                    | 
+ | Sandstorm  2.813%                      | 
+ | Flamethrower  2.696%                   | 
+ | Dragon Rush  2.656%                    | 
+ | Other 17.809%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Swampert-Mega +6.675%                  | 
+ | Camerupt-Mega +3.966%                  | 
+ | Steelix-Mega +3.679%                   | 
+ | Quagsire +2.401%                       | 
+ | Donphan +2.340%                        | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Krookodile                             | 
+ +----------------------------------------+ 
+ | Raw count: 5911                        | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 90                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Moxie 78.227%                          | 
+ | Intimidate 18.576%                     | 
+ | Anger Point  3.197%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Choice Scarf 49.501%                   | 
+ | Choice Band  9.660%                    | 
+ | Life Orb  8.696%                       | 
+ | Leftovers  7.765%                      | 
+ | Assault Vest  3.773%                   | 
+ | Focus Sash  3.603%                     | 
+ | Rocky Helmet  3.096%                   | 
+ | Black Glasses  2.707%                  | 
+ | Dread Plate  2.064%                    | 
+ | Expert Belt  1.624%                    | 
+ | Sitrus Berry  1.438%                   | 
+ | Nothing  1.235%                        | 
+ | Other  4.838%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Jolly:0/252/0/0/4/252 41.194%          | 
+ | Jolly:0/252/4/0/0/252 10.387%          | 
+ | Adamant:252/252/0/0/4/0 10.032%        | 
+ | Jolly:4/252/0/0/0/252  3.739%          | 
+ | Adamant:0/252/0/0/4/252  3.400%        | 
+ | Adamant:4/252/0/0/0/252  2.944%        | 
+ | Other 28.303%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Earthquake 90.848%                     | 
+ | Knock Off 62.121%                      | 
+ | Crunch 36.796%                         | 
+ | Stone Edge 35.476%                     | 
+ | Superpower 26.019%                     | 
+ | Pursuit 16.089%                        | 
+ | Brick Break 15.886%                    | 
+ | Rock Slide 15.716%                     | 
+ | Dragon Claw 15.666%                    | 
+ | Fire Fang 11.047%                      | 
+ | Outrage  8.932%                        | 
+ | Foul Play  6.716%                      | 
+ | Aqua Tail  6.446%                      | 
+ | Power-Up Punch  5.211%                 | 
+ | Bulk Up  4.669%                        | 
+ | Aerial Ace  4.483%                     | 
+ | Taunt  4.212%                          | 
+ | Stealth Rock  3.790%                   | 
+ | Shadow Claw  3.417%                    | 
+ | Dragon Tail  3.214%                    | 
+ | Low Kick  2.774%                       | 
+ | Facade  2.335%                         | 
+ | Other 18.136%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Golurk +3.167%                         | 
+ | Stunfisk +2.309%                       | 
+ | Flygon +2.195%                         | 
+ | Swampert-Mega +1.088%                  | 
+ | Torterra +0.664%                       | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Seismitoad                             | 
+ +----------------------------------------+ 
+ | Raw count: 5462                        | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 90                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Water Absorb 91.596%                   | 
+ | Poison Touch  4.815%                   | 
+ | Swift Swim  3.588%                     | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Assault Vest 41.487%                   | 
+ | Leftovers 21.897%                      | 
+ | Choice Specs 19.919%                   | 
+ | Life Orb  6.261%                       | 
+ | Focus Sash  1.575%                     | 
+ | Rindo Berry  1.410%                    | 
+ | Rocky Helmet  1.300%                   | 
+ | Lum Berry  1.227%                      | 
+ | Other  4.925%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Modest:248/0/0/252/8/0 19.041%         | 
+ | Modest:252/0/0/252/4/0 10.729%         | 
+ | Modest:0/0/0/252/4/252  4.339%         | 
+ | Modest:240/0/0/232/32/4  4.266%        | 
+ | Modest:112/0/0/252/4/140  3.643%       | 
+ | Hardy:112/0/252/0/4/140  2.600%        | 
+ | Other 55.383%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Scald 76.016%                          | 
+ | Earth Power 69.755%                    | 
+ | Grass Knot 67.265%                     | 
+ | Sludge Wave 35.939%                    | 
+ | Sludge Bomb 23.178%                    | 
+ | Earthquake 15.947%                     | 
+ | Knock Off 15.397%                      | 
+ | Drain Punch 14.683%                    | 
+ | Toxic 11.113%                          | 
+ | Stealth Rock  9.118%                   | 
+ | Icy Wind  8.880%                       | 
+ | Hydro Pump  6.737%                     | 
+ | Surf  6.518%                           | 
+ | Ice Punch  5.950%                      | 
+ | Focus Blast  5.401%                    | 
+ | Power-Up Punch  3.460%                 | 
+ | Poison Jab  3.442%                     | 
+ | Aqua Ring  3.149%                      | 
+ | Other 18.052%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Landorus +13.285%                      | 
+ | Excadrill +1.417%                      | 
+ | Mamoswine +1.327%                      | 
+ | Camerupt-Mega +1.179%                  | 
+ | Hippowdon +0.504%                      | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Landorus-Therian                       | 
+ +----------------------------------------+ 
+ | Raw count: 5227                        | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 87                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Intimidate 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Choice Scarf 44.404%                   | 
+ | Leftovers 14.387%                      | 
+ | Rocky Helmet  9.527%                   | 
+ | Life Orb  7.863%                       | 
+ | Choice Band  5.759%                    | 
+ | Assault Vest  4.879%                   | 
+ | Focus Sash  4.247%                     | 
+ | Lum Berry  1.990%                      | 
+ | Earth Plate  1.722%                    | 
+ | Choice Specs  1.377%                   | 
+ | Other  3.845%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Jolly:0/252/0/0/4/252 22.881%          | 
+ | Adamant:252/252/0/0/4/0 10.159%        | 
+ | Adamant:0/252/0/0/4/252  7.825%        | 
+ | Adamant:0/252/4/0/0/252  5.835%        | 
+ | Adamant:4/252/0/0/0/252  5.644%        | 
+ | Jolly:0/252/4/0/0/252  5.548%          | 
+ | Other 42.108%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Earthquake 90.970%                     | 
+ | U-turn 68.969%                         | 
+ | Knock Off 57.012%                      | 
+ | Stone Edge 50.029%                     | 
+ | Rock Slide 14.636%                     | 
+ | Stealth Rock 13.564%                   | 
+ | Superpower 12.550%                     | 
+ | Explosion 11.326%                      | 
+ | Swords Dance 10.656%                   | 
+ | Rock Polish  7.232%                    | 
+ | Earth Power  5.720%                    | 
+ | Brick Break  4.725%                    | 
+ | Hammer Arm  4.592%                     | 
+ | Outrage  4.553%                        | 
+ | Fly  4.496%                            | 
+ | Bulk Up  4.247%                        | 
+ | Grass Knot  3.520%                     | 
+ | Sludge Wave  3.233%                    | 
+ | Sandstorm  2.965%                      | 
+ | Psychic  2.831%                        | 
+ | Focus Blast  2.774%                    | 
+ | Other 19.399%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Camerupt-Mega +2.746%                  | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Camerupt-Mega                          | 
+ +----------------------------------------+ 
+ | Raw count: 4277                        | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 90                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Sheer Force 100.000%                   | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Cameruptite 100.000%                   | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Modest:248/0/0/252/8/0 24.363%         | 
+ | Lonely:116/128/64/128/72/0  9.212%     | 
+ | Rash:160/0/0/252/0/96  9.072%          | 
+ | Modest:252/0/0/252/4/0  6.593%         | 
+ | Modest:248/0/0/176/0/84  5.635%        | 
+ | Mild:248/8/0/252/0/0  3.951%           | 
+ | Other 41.174%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Earth Power 80.570%                    | 
+ | Fire Blast 53.028%                     | 
+ | Will-O-Wisp 40.122%                    | 
+ | Ancient Power 35.258%                  | 
+ | Flamethrower 20.318%                   | 
+ | Flash Cannon 19.757%                   | 
+ | Lava Plume 17.606%                     | 
+ | Eruption 14.590%                       | 
+ | Earthquake 14.262%                     | 
+ | Rock Slide 12.392%                     | 
+ | Stealth Rock 12.228%                   | 
+ | Yawn  9.937%                           | 
+ | Hidden Power Grass  8.931%             | 
+ | Hidden Power Ice  7.505%               | 
+ | Toxic  7.225%                          | 
+ | Stone Edge  6.079%                     | 
+ | Overheat  5.518%                       | 
+ | Rock Polish  3.998%                    | 
+ | Protect  3.951%                        | 
+ | Sleep Talk  3.788%                     | 
+ | Heat Wave  3.484%                      | 
+ | Other 19.453%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Donphan +9.122%                        | 
+ | Garchomp +6.531%                       | 
+ | Quagsire +6.008%                       | 
+ | Dugtrio +4.633%                        | 
+ | Landorus-Therian +3.630%               | 
+ | Torterra +3.103%                       | 
+ | Sandslash +1.405%                      | 
+ | Claydol +1.392%                        | 
+ | Zygarde +0.876%                        | 
+ | Seismitoad +0.810%                     | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Quagsire                               | 
+ +----------------------------------------+ 
+ | Raw count: 3239                        | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 78                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Unaware 60.049%                        | 
+ | Water Absorb 38.839%                   | 
+ | Damp  1.111%                           | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 80.580%                      | 
+ | Rocky Helmet 10.559%                   | 
+ | Sitrus Berry  2.624%                   | 
+ | Assault Vest  1.081%                   | 
+ | Life Orb  0.957%                       | 
+ | Other  4.199%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Bold:252/0/252/0/4/0 20.161%           | 
+ | Impish:252/4/252/0/0/0 15.591%         | 
+ | Relaxed:252/4/252/0/0/0 10.559%        | 
+ | Relaxed:252/0/252/0/4/0  8.490%        | 
+ | Bold:252/0/252/4/0/0  6.360%           | 
+ | Adamant:252/252/0/0/4/0  4.477%        | 
+ | Other 34.362%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Recover 82.309%                        | 
+ | Toxic 64.063%                          | 
+ | Scald 61.161%                          | 
+ | Earthquake 47.576%                     | 
+ | Stockpile 20.994%                      | 
+ | Waterfall 16.394%                      | 
+ | Encore 12.843%                         | 
+ | Curse 10.837%                          | 
+ | Earth Power  7.718%                    | 
+ | Protect  7.502%                        | 
+ | Ice Punch  7.317%                      | 
+ | Infestation  6.761%                    | 
+ | Ice Beam  5.773%                       | 
+ | Amnesia  5.063%                        | 
+ | Rest  4.261%                           | 
+ | Acid Spray  4.230%                     | 
+ | Aqua Tail  3.303%                      | 
+ | Sandstorm  2.840%                      | 
+ | Power-Up Punch  2.686%                 | 
+ | Sleep Talk  2.470%                     | 
+ | Yawn  2.285%                           | 
+ | Stone Edge  2.223%                     | 
+ | Other 19.389%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Donphan +8.356%                        | 
+ | Camerupt-Mega +8.274%                  | 
+ | Dugtrio +7.230%                        | 
+ | Garchomp +5.718%                       | 
+ | Steelix-Mega +4.539%                   | 
+ | Zygarde +0.528%                        | 
+ | Wormadam-Sandy +0.518%                 | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Steelix-Mega                           | 
+ +----------------------------------------+ 
+ | Raw count: 3115                        | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 90                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Sand Force 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Steelixite 100.000%                    | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Adamant:252/252/0/0/4/0 18.941%        | 
+ | Adamant:252/56/200/0/0/0  7.319%       | 
+ | Brave:252/252/0/0/4/0  6.870%          | 
+ | Careful:252/4/0/0/252/0  6.838%        | 
+ | Hardy:0/0/0/0/0/0  4.655%              | 
+ | Impish:252/0/56/0/200/0  4.173%        | 
+ | Other 51.204%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Earthquake 76.918%                     | 
+ | Heavy Slam 57.753%                     | 
+ | Stealth Rock 23.820%                   | 
+ | Iron Head 18.941%                      | 
+ | Rest 17.400%                           | 
+ | Roar 15.827%                           | 
+ | Dragon Tail 15.249%                    | 
+ | Curse 14.896%                          | 
+ | Gyro Ball 13.900%                      | 
+ | Sleep Talk 13.836%                     | 
+ | Stone Edge 12.360%                     | 
+ | Crunch 12.103%                         | 
+ | Toxic 11.942%                          | 
+ | Rock Slide 11.557%                     | 
+ | Aqua Tail 10.016%                      | 
+ | Sandstorm  9.888%                      | 
+ | Fire Fang  8.186%                      | 
+ | Autotomize  5.265%                     | 
+ | Explosion  5.136%                      | 
+ | Ice Fang  4.013%                       | 
+ | Dragon Pulse  3.917%                   | 
+ | Taunt  3.788%                          | 
+ | Ancient Power  3.531%                  | 
+ | Rock Polish  3.467%                    | 
+ | Earth Power  3.307%                    | 
+ | Iron Tail  3.242%                      | 
+ | Other 19.743%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Garchomp +8.445%                       | 
+ | Claydol +5.438%                        | 
+ | Quagsire +4.451%                       | 
+ | Flygon +3.627%                         | 
+ | Golurk +2.616%                         | 
+ | Rhyperior +1.933%                      | 
+ | Torterra +1.808%                       | 
+ | Sandslash +1.756%                      | 
+ | Piloswine +1.590%                      | 
+ | Golem +1.471%                          | 
+ | Rhydon +1.200%                         | 
+ | Camerupt +1.090%                       | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Swampert-Mega                          | 
+ +----------------------------------------+ 
+ | Raw count: 3125                        | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 82                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Swift Swim 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Swampertite 100.000%                   | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Adamant:0/252/0/0/4/252 22.208%        | 
+ | Adamant:252/252/0/0/4/0 17.248%        | 
+ | Adamant:0/252/4/0/0/252  4.128%        | 
+ | Jolly:0/252/0/0/4/252  3.808%          | 
+ | Adamant:4/252/0/0/0/252  3.680%        | 
+ | Hardy:0/0/0/0/0/0  3.008%              | 
+ | Other 45.920%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Earthquake 90.592%                     | 
+ | Waterfall 70.336%                      | 
+ | Ice Punch 63.328%                      | 
+ | Rain Dance 32.544%                     | 
+ | Power-Up Punch 21.536%                 | 
+ | Aqua Tail 11.840%                      | 
+ | Avalanche  9.632%                      | 
+ | Hammer Arm  9.408%                     | 
+ | Stone Edge  7.840%                     | 
+ | Superpower  7.360%                     | 
+ | Scald  6.016%                          | 
+ | Hydro Pump  5.952%                     | 
+ | Outrage  5.504%                        | 
+ | Brick Break  5.024%                    | 
+ | Rest  4.320%                           | 
+ | Ice Beam  4.032%                       | 
+ | Surf  4.000%                           | 
+ | Curse  3.488%                          | 
+ | Earth Power  3.040%                    | 
+ | Rock Slide  2.880%                     | 
+ | Stealth Rock  2.880%                   | 
+ | Toxic  2.720%                          | 
+ | Protect  2.496%                        | 
+ | Sleep Talk  2.080%                     | 
+ | Blizzard  1.728%                       | 
+ | Other 19.424%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Garchomp +15.021%                      | 
+ | Golurk +5.980%                         | 
+ | Gliscor +5.188%                        | 
+ | Flygon +4.873%                         | 
+ | Camerupt +4.084%                       | 
+ | Torterra +3.662%                       | 
+ | Steelix +2.278%                        | 
+ | Krookodile +1.467%                     | 
+ | Rhyperior +0.755%                      | 
+ | Claydol +0.628%                        | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Diggersby                              | 
+ +----------------------------------------+ 
+ | Raw count: 2688                        | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 90                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Huge Power 96.131%                     | 
+ | Cheek Pouch  2.827%                    | 
+ | Pickup  1.042%                         | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Choice Scarf 26.935%                   | 
+ | Life Orb 17.597%                       | 
+ | Leftovers 14.360%                      | 
+ | Choice Band 14.025%                    | 
+ | Focus Sash 13.728%                     | 
+ | Assault Vest  3.237%                   | 
+ | Lum Berry  2.753%                      | 
+ | Sitrus Berry  2.493%                   | 
+ | Other  4.874%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Jolly:0/252/0/0/4/252 20.052%          | 
+ | Adamant:0/252/0/0/4/252 18.415%        | 
+ | Adamant:252/252/0/0/4/0 16.406%        | 
+ | Adamant:252/252/4/0/0/0  5.469%        | 
+ | Adamant:0/252/4/0/0/252  5.469%        | 
+ | Jolly:64/252/0/0/0/192  5.246%         | 
+ | Other 28.943%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Earthquake 85.975%                     | 
+ | Quick Attack 53.869%                   | 
+ | Return 48.475%                         | 
+ | Swords Dance 28.832%                   | 
+ | Knock Off 25.707%                      | 
+ | Fire Punch 20.908%                     | 
+ | U-turn 18.490%                         | 
+ | Wild Charge 13.876%                    | 
+ | Ice Punch 13.504%                      | 
+ | Frustration  9.040%                    | 
+ | Spikes  8.519%                         | 
+ | Thunder Punch  8.296%                  | 
+ | Gunk Shot  6.734%                      | 
+ | Brick Break  6.622%                    | 
+ | Facade  5.729%                         | 
+ | Iron Head  5.208%                      | 
+ | Agility  5.022%                        | 
+ | Stone Edge  4.539%                     | 
+ | Bulk Up  4.241%                        | 
+ | Endeavor  3.683%                       | 
+ | Superpower  3.125%                     | 
+ | Other 19.606%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Numel +2.111%                          | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Torterra                               | 
+ +----------------------------------------+ 
+ | Raw count: 2570                        | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 87                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Shell Armor 51.634%                    | 
+ | Overgrow 48.366%                       | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 37.821%                      | 
+ | Rocky Helmet  7.821%                   | 
+ | Choice Band  6.732%                    | 
+ | Sitrus Berry  6.031%                   | 
+ | Life Orb  5.603%                       | 
+ | Choice Scarf  5.214%                   | 
+ | Lum Berry  4.319%                      | 
+ | Big Root  4.241%                       | 
+ | Assault Vest  3.852%                   | 
+ | Focus Sash  3.696%                     | 
+ | Soft Sand  2.840%                      | 
+ | Yache Berry  2.296%                    | 
+ | Chesto Berry  1.829%                   | 
+ | Weakness Policy  1.595%                | 
+ | Nothing  1.440%                        | 
+ | Other  4.669%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Adamant:252/252/0/0/4/0 21.712%        | 
+ | Impish:252/4/252/0/0/0  8.988%         | 
+ | Jolly:0/252/0/0/4/252  4.864%          | 
+ | Adamant:0/252/0/0/4/252  3.502%        | 
+ | Hardy:0/0/0/0/0/0  3.152%              | 
+ | Jolly:0/252/4/0/0/252  3.074%          | 
+ | Other 54.708%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Earthquake 73.969%                     | 
+ | Wood Hammer 56.654%                    | 
+ | Seed Bomb 30.506%                      | 
+ | Stone Edge 28.249%                     | 
+ | Synthesis 27.043%                      | 
+ | Leech Seed 26.654%                     | 
+ | Crunch 15.837%                         | 
+ | Rock Polish 14.669%                    | 
+ | Giga Drain 12.257%                     | 
+ | Stealth Rock 11.751%                   | 
+ | Protect  9.961%                        | 
+ | Curse  8.794%                          | 
+ | Rock Slide  8.677%                     | 
+ | Iron Head  8.249%                      | 
+ | Toxic  7.938%                          | 
+ | Superpower  5.331%                     | 
+ | Outrage  5.175%                        | 
+ | Swords Dance  4.669%                   | 
+ | Earth Power  4.514%                    | 
+ | Body Slam  3.735%                      | 
+ | Energy Ball  3.580%                    | 
+ | Frenzy Plant  2.840%                   | 
+ | Rest  2.607%                           | 
+ | Stockpile  2.451%                      | 
+ | Leaf Storm  2.451%                     | 
+ | Sandstorm  2.451%                      | 
+ | Other 18.988%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Camerupt-Mega +5.061%                  | 
+ | Swampert-Mega +4.683%                  | 
+ | Sandslash +3.833%                      | 
+ | Golurk +3.543%                         | 
+ | Camerupt +3.538%                       | 
+ | Steelix +2.920%                        | 
+ | Donphan +2.835%                        | 
+ | Swampert +2.805%                       | 
+ | Rhyperior +2.753%                      | 
+ | Claydol +2.686%                        | 
+ | Flygon +2.150%                         | 
+ | Steelix-Mega +2.127%                   | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Claydol                                | 
+ +----------------------------------------+ 
+ | Raw count: 2320                        | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 78                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Levitate 100.000%                      | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 40.172%                      | 
+ | Light Clay 14.224%                     | 
+ | Sitrus Berry  7.284%                   | 
+ | Focus Sash  6.207%                     | 
+ | Assault Vest  5.603%                   | 
+ | Colbur Berry  3.879%                   | 
+ | Weakness Policy  3.664%                | 
+ | Soft Sand  2.026%                      | 
+ | Choice Specs  1.810%                   | 
+ | Absorb Bulb  1.552%                    | 
+ | Rocky Helmet  1.509%                   | 
+ | Lum Berry  1.422%                      | 
+ | Chesto Berry  1.293%                   | 
+ | Passho Berry  1.164%                   | 
+ | Choice Scarf  1.164%                   | 
+ | Mental Herb  1.078%                    | 
+ | Nothing  0.948%                        | 
+ | Other  5.000%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Calm:252/0/0/4/252/0 17.672%           | 
+ | Modest:252/0/0/252/4/0  7.974%         | 
+ | Calm:252/0/4/0/252/0  6.466%           | 
+ | Hardy:0/0/0/0/0/0  3.836%              | 
+ | Sassy:252/0/108/0/148/0  3.405%        | 
+ | Sassy:252/0/4/0/252/0  3.405%          | 
+ | Other 57.241%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Rapid Spin 41.810%                     | 
+ | Earth Power 40.216%                    | 
+ | Psychic 39.828%                        | 
+ | Reflect 21.164%                        | 
+ | Dazzling Gleam 20.086%                 | 
+ | Light Screen 19.310%                   | 
+ | Calm Mind 18.491%                      | 
+ | Toxic 18.405%                          | 
+ | Psyshock 17.155%                       | 
+ | Ice Beam 14.310%                       | 
+ | Trick Room 14.138%                     | 
+ | Stealth Rock 13.190%                   | 
+ | Explosion 12.543%                      | 
+ | Sandstorm 12.155%                      | 
+ | Shadow Ball 11.638%                    | 
+ | Ancient Power  9.440%                  | 
+ | Cosmic Power  6.897%                   | 
+ | Protect  6.250%                        | 
+ | Gravity  4.612%                        | 
+ | Magic Coat  4.267%                     | 
+ | Extrasensory  3.879%                   | 
+ | Trick  3.621%                          | 
+ | Rock Polish  3.491%                    | 
+ | Earthquake  3.448%                     | 
+ | Gyro Ball  3.060%                      | 
+ | Signal Beam  2.672%                    | 
+ | Skill Swap  2.629%                     | 
+ | Solar Beam  2.629%                     | 
+ | Grass Knot  2.586%                     | 
+ | Smack Down  2.543%                     | 
+ | Psybeam  2.500%                        | 
+ | Rock Smash  2.500%                     | 
+ | Other 18.534%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Steelix-Mega +7.244%                   | 
+ | Sandslash +5.516%                      | 
+ | Golurk +5.211%                         | 
+ | Rhyperior +4.705%                      | 
+ | Torterra +2.980%                       | 
+ | Dugtrio +2.490%                        | 
+ | Camerupt-Mega +2.472%                  | 
+ | Camerupt +1.841%                       | 
+ | Piloswine +1.641%                      | 
+ | Steelix +1.181%                        | 
+ | Swampert-Mega +1.082%                  | 
+ | Stunfisk +0.969%                       | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Flygon                                 | 
+ +----------------------------------------+ 
+ | Raw count: 2049                        | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 76                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Levitate 100.000%                      | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Life Orb 18.546%                       | 
+ | Leftovers 18.302%                      | 
+ | Choice Scarf 13.860%                   | 
+ | Choice Band  9.566%                    | 
+ | Assault Vest  6.735%                   | 
+ | Choice Specs  6.491%                   | 
+ | Focus Sash  4.148%                     | 
+ | Lum Berry  3.660%                      | 
+ | Sitrus Berry  2.587%                   | 
+ | Dragon Fang  2.099%                    | 
+ | Yache Berry  2.001%                    | 
+ | Nothing  2.001%                        | 
+ | Rocky Helmet  1.806%                   | 
+ | Scope Lens  1.318%                     | 
+ | King's Rock  0.878%                    | 
+ | Absorb Bulb  0.732%                    | 
+ | Focus Band  0.634%                     | 
+ | Other  4.636%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Jolly:0/252/0/0/4/252 24.012%          | 
+ | Timid:0/0/0/252/4/252 18.155%          | 
+ | Hasty:0/252/0/4/0/252 10.054%          | 
+ | Hasty:0/4/0/252/0/252  3.563%          | 
+ | Jolly:4/252/0/0/0/252  2.538%          | 
+ | Modest:4/0/0/252/0/252  2.343%         | 
+ | Other 39.336%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Earthquake 54.075%                     | 
+ | U-turn 29.380%                         | 
+ | Draco Meteor 28.355%                   | 
+ | Boomburst 27.574%                      | 
+ | Earth Power 27.526%                    | 
+ | Dragon Claw 27.233%                    | 
+ | Outrage 19.815%                        | 
+ | Flamethrower 15.569%                   | 
+ | Fire Blast 15.373%                     | 
+ | Bug Buzz 15.227%                       | 
+ | Dragon Pulse 15.178%                   | 
+ | Fire Punch 14.153%                     | 
+ | Roost 12.689%                          | 
+ | Defog 11.274%                          | 
+ | Stone Edge 11.030%                     | 
+ | Thunder Punch  7.809%                  | 
+ | Giga Drain  7.467%                     | 
+ | Crunch  6.003%                         | 
+ | Dragon Tail  5.759%                    | 
+ | Power-Up Punch  5.515%                 | 
+ | Rock Slide  5.417%                     | 
+ | Hone Claws  4.490%                     | 
+ | Dragon Rush  3.514%                    | 
+ | Superpower  2.928%                     | 
+ | Fly  2.538%                            | 
+ | Iron Tail  2.440%                      | 
+ | Dig  1.855%                            | 
+ | Other 19.815%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Golem +9.509%                          | 
+ | Swampert-Mega +7.565%                  | 
+ | Krookodile +5.993%                     | 
+ | Steelix-Mega +5.352%                   | 
+ | Golurk +5.031%                         | 
+ | Swampert +4.442%                       | 
+ | Rhyperior +3.262%                      | 
+ | Stunfisk +3.003%                       | 
+ | Camerupt +2.838%                       | 
+ | Torterra +2.616%                       | 
+ | Marowak +2.298%                        | 
+ | Rhydon +2.006%                         | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Nidoqueen                              | 
+ +----------------------------------------+ 
+ | Raw count: 1982                        | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 90                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Sheer Force 71.796%                    | 
+ | Poison Point 25.631%                   | 
+ | Rivalry  2.573%                        | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Life Orb 29.970%                       | 
+ | Assault Vest 24.268%                   | 
+ | Black Sludge 15.843%                   | 
+ | Leftovers  5.348%                      | 
+ | Choice Specs  4.743%                   | 
+ | Focus Sash  4.087%                     | 
+ | Choice Scarf  2.069%                   | 
+ | Rocky Helmet  1.816%                   | 
+ | Air Balloon  1.665%                    | 
+ | Sitrus Berry  1.312%                   | 
+ | Poison Barb  1.261%                    | 
+ | Shuca Berry  1.261%                    | 
+ | Weakness Policy  1.110%                | 
+ | Muscle Band  0.858%                    | 
+ | Other  4.390%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Modest:248/0/0/252/8/0 18.214%         | 
+ | Modest:180/0/0/252/0/76 11.100%        | 
+ | Adamant:248/252/0/0/8/0  9.284%        | 
+ | Timid:0/0/0/252/4/252  8.174%          | 
+ | Modest:252/0/0/252/4/0  5.449%         | 
+ | Bold:248/0/240/20/0/0  2.775%          | 
+ | Other 45.005%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Earth Power 64.783%                    | 
+ | Sludge Wave 52.170%                    | 
+ | Ice Beam 40.666%                       | 
+ | Flamethrower 32.139%                   | 
+ | Toxic Spikes 24.470%                   | 
+ | Stealth Rock 19.526%                   | 
+ | Fire Blast 17.911%                     | 
+ | Earthquake 14.834%                     | 
+ | Poison Jab 13.623%                     | 
+ | Thunderbolt 11.756%                    | 
+ | Rock Slide 10.444%                     | 
+ | Sucker Punch  7.921%                   | 
+ | Roar  7.871%                           | 
+ | Icy Wind  7.820%                       | 
+ | Ice Punch  6.206%                      | 
+ | Drill Run  5.399%                      | 
+ | Focus Blast  4.692%                    | 
+ | Dragon Tail  3.986%                    | 
+ | Shadow Ball  3.986%                    | 
+ | Fire Punch  3.835%                     | 
+ | Sludge Bomb  3.784%                    | 
+ | Blizzard  3.330%                       | 
+ | Hone Claws  2.321%                     | 
+ | Brick Break  2.321%                    | 
+ | Thunder Punch  2.220%                  | 
+ | Protect  2.018%                        | 
+ | Super Fang  1.917%                     | 
+ | Counter  1.917%                        | 
+ | Superpower  1.766%                     | 
+ | Dragon Pulse  1.766%                   | 
+ | Aqua Tail  1.715%                      | 
+ | Body Slam  1.665%                      | 
+ | Other 19.223%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Golem +2.825%                          | 
+ | Rhyperior +2.824%                      | 
+ | Rhydon +1.985%                         | 
+ | Marowak +1.825%                        | 
+ | Zygarde +1.467%                        | 
+ | Steelix-Mega +1.450%                   | 
+ | Sandslash +1.317%                      | 
+ | Steelix +1.091%                        | 
+ | Flygon +0.982%                         | 
+ | Whiscash +0.867%                       | 
+ | Piloswine +0.842%                      | 
+ | Torterra +0.676%                       | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Golurk                                 | 
+ +----------------------------------------+ 
+ | Raw count: 1914                        | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 76                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Iron Fist 55.956%                      | 
+ | No Guard 43.626%                       | 
+ | Klutz  0.418%                          | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Assault Vest 14.995%                   | 
+ | Leftovers 14.629%                      | 
+ | Life Orb 13.323%                       | 
+ | Focus Sash  8.934%                     | 
+ | Choice Band  6.897%                    | 
+ | Colbur Berry  6.740%                   | 
+ | Sitrus Berry  6.270%                   | 
+ | Weakness Policy  5.225%                | 
+ | Choice Scarf  4.336%                   | 
+ | Rocky Helmet  3.971%                   | 
+ | Nothing  2.142%                        | 
+ | Power Herb  2.090%                     | 
+ | Spooky Plate  1.829%                   | 
+ | Expert Belt  1.620%                    | 
+ | Muscle Band  1.358%                    | 
+ | Air Balloon  1.097%                    | 
+ | Other  4.545%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Adamant:252/252/0/0/4/0 32.654%        | 
+ | Jolly:0/252/0/0/4/252  5.381%          | 
+ | Adamant:0/252/128/0/128/0  5.329%      | 
+ | Adamant:0/252/0/0/4/252  4.911%        | 
+ | Hardy:0/0/0/0/0/0  4.545%              | 
+ | Adamant:4/252/0/0/0/252  3.187%        | 
+ | Other 43.992%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Shadow Punch 56.844%                   | 
+ | Earthquake 55.643%                     | 
+ | Drain Punch 42.424%                    | 
+ | Dynamic Punch 39.916%                  | 
+ | Ice Punch 33.281%                      | 
+ | Fire Punch 31.034%                     | 
+ | Thunder Punch 26.594%                  | 
+ | Stone Edge 16.092%                     | 
+ | Rock Polish 15.413%                    | 
+ | Power-Up Punch 11.233%                 | 
+ | Phantom Force  9.613%                  | 
+ | Stealth Rock  9.091%                   | 
+ | Zen Headbutt  7.941%                   | 
+ | Heavy Slam  4.180%                     | 
+ | Magic Coat  3.918%                     | 
+ | Brick Break  3.657%                    | 
+ | Fly  3.239%                            | 
+ | Earth Power  3.083%                    | 
+ | Shadow Ball  2.874%                    | 
+ | Flash Cannon  2.821%                   | 
+ | Gyro Ball  2.508%                      | 
+ | Other 18.600%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Swampert-Mega +9.818%                  | 
+ | Krookodile +9.294%                     | 
+ | Claydol +6.182%                        | 
+ | Flygon +5.335%                         | 
+ | Torterra +4.613%                       | 
+ | Steelix-Mega +4.019%                   | 
+ | Marowak +3.725%                        | 
+ | Rhyperior +3.090%                      | 
+ | Steelix +2.982%                        | 
+ | Stunfisk +2.301%                       | 
+ | Golem +2.151%                          | 
+ | Dugtrio +0.976%                        | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Donphan                                | 
+ +----------------------------------------+ 
+ | Raw count: 1859                        | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 79                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Sturdy 88.273%                         | 
+ | Sand Veil 11.727%                      | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 32.168%                      | 
+ | Sitrus Berry 23.346%                   | 
+ | Assault Vest 13.878%                   | 
+ | Life Orb  3.819%                       | 
+ | Weakness Policy  3.604%                | 
+ | Liechi Berry  3.174%                   | 
+ | Rocky Helmet  2.851%                   | 
+ | Custap Berry  2.690%                   | 
+ | Focus Sash  2.528%                     | 
+ | Choice Band  2.367%                    | 
+ | Nothing  1.076%                        | 
+ | Shell Bell  0.968%                     | 
+ | Red Card  0.807%                       | 
+ | Never-Melt Ice  0.753%                 | 
+ | Soft Sand  0.753%                      | 
+ | Choice Scarf  0.646%                   | 
+ | Other  4.572%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Hardy:56/188/156/44/32/32 21.194%      | 
+ | Adamant:248/252/0/0/8/0 18.289%        | 
+ | Impish:252/4/252/0/0/0 17.536%         | 
+ | Adamant:252/252/0/0/4/0  8.876%        | 
+ | Jolly:4/252/0/0/0/252  2.959%          | 
+ | Adamant:0/252/0/0/4/252  2.205%        | 
+ | Other 28.940%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Earthquake 90.963%                     | 
+ | Ice Shard 69.069%                      | 
+ | Rapid Spin 58.419%                     | 
+ | Knock Off 26.143%                      | 
+ | Fire Fang 24.798%                      | 
+ | Stealth Rock 23.561%                   | 
+ | Play Rough 12.318%                     | 
+ | Head Smash 11.512%                     | 
+ | Stone Edge 10.543%                     | 
+ | Toxic  7.047%                          | 
+ | Rock Polish  6.993%                    | 
+ | Gunk Shot  6.455%                      | 
+ | Seed Bomb  5.917%                      | 
+ | Roar  5.863%                           | 
+ | Sandstorm  4.411%                      | 
+ | Endeavor  3.066%                       | 
+ | Ancient Power  3.066%                  | 
+ | Poison Jab  2.851%                     | 
+ | Body Slam  2.528%                      | 
+ | Gyro Ball  2.474%                      | 
+ | Superpower  2.044%                     | 
+ | Other 19.957%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Camerupt-Mega +20.992%                 | 
+ | Quagsire +14.304%                      | 
+ | Dugtrio +12.300%                       | 
+ | Garchomp +9.074%                       | 
+ | Gliscor +6.698%                        | 
+ | Sandslash +5.339%                      | 
+ | Torterra +3.984%                       | 
+ | Golem +3.053%                          | 
+ | Marowak +1.776%                        | 
+ | Flygon +1.499%                         | 
+ | Krookodile +1.233%                     | 
+ | Rhyperior +1.051%                      | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Rhyperior                              | 
+ +----------------------------------------+ 
+ | Raw count: 1873                        | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 65                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Solid Rock 80.673%                     | 
+ | Lightning Rod 10.571%                  | 
+ | Reckless  8.756%                       | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Assault Vest 28.190%                   | 
+ | Weakness Policy 17.993%                | 
+ | Leftovers 15.003%                      | 
+ | Focus Sash  9.610%                     | 
+ | Life Orb  5.766%                       | 
+ | Choice Band  5.339%                    | 
+ | Rocky Helmet  3.577%                   | 
+ | Sitrus Berry  3.257%                   | 
+ | Choice Scarf  2.082%                   | 
+ | Nothing  2.029%                        | 
+ | Lum Berry  1.655%                      | 
+ | Earth Plate  1.121%                    | 
+ | Other  4.378%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Adamant:252/252/0/0/4/0 33.422%        | 
+ | Adamant:0/252/0/0/4/252 10.091%        | 
+ | Jolly:0/252/0/0/4/252  3.897%          | 
+ | Hardy:0/0/0/0/0/0  3.203%              | 
+ | Brave:0/124/136/200/48/0  1.815%       | 
+ | Careful:252/4/0/0/252/0  1.708%        | 
+ | Other 45.862%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Earthquake 79.338%                     | 
+ | Stone Edge 35.611%                     | 
+ | Megahorn 26.375%                       | 
+ | Rock Polish 23.225%                    | 
+ | Ice Punch 21.676%                      | 
+ | Rock Blast 19.648%                     | 
+ | Fire Punch 19.487%                     | 
+ | Hammer Arm 14.522%                     | 
+ | Stealth Rock 11.479%                   | 
+ | Drill Run 11.426%                      | 
+ | Thunder Punch 11.426%                  | 
+ | Avalanche 10.945%                      | 
+ | Rock Slide 10.785%                     | 
+ | Rock Wrecker 10.144%                   | 
+ | Dragon Tail  9.931%                    | 
+ | Crunch  7.635%                         | 
+ | Brick Break  7.048%                    | 
+ | Aqua Tail  6.140%                      | 
+ | Sandstorm  5.713%                      | 
+ | Iron Head  5.499%                      | 
+ | Poison Jab  4.592%                     | 
+ | Double-Edge  4.538%                    | 
+ | Swords Dance  4.164%                   | 
+ | Superpower  3.737%                     | 
+ | Power-Up Punch  3.417%                 | 
+ | Toxic  2.189%                          | 
+ | Ancient Power  2.189%                  | 
+ | Dragon Rush  2.082%                    | 
+ | Metal Burst  1.975%                    | 
+ | Thunderbolt  1.922%                    | 
+ | Hidden Power Psychic  1.815%           | 
+ | Other 19.327%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Claydol +5.634%                        | 
+ | Golem +4.544%                          | 
+ | Torterra +3.569%                       | 
+ | Flygon +3.466%                         | 
+ | Golurk +3.110%                         | 
+ | Steelix-Mega +2.896%                   | 
+ | Nidoqueen +2.840%                      | 
+ | Whiscash +2.562%                       | 
+ | Marowak +2.540%                        | 
+ | Steelix +2.400%                        | 
+ | Camerupt +1.743%                       | 
+ | Stunfisk +1.677%                       | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Zygarde                                | 
+ +----------------------------------------+ 
+ | Raw count: 1664                        | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 87                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Aura Break 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 37.500%                      | 
+ | Lum Berry 25.120%                      | 
+ | Life Orb  8.954%                       | 
+ | Red Card  8.714%                       | 
+ | Focus Sash  3.125%                     | 
+ | Sitrus Berry  3.125%                   | 
+ | Rocky Helmet  2.825%                   | 
+ | Assault Vest  2.764%                   | 
+ | Nothing  2.043%                        | 
+ | Yache Berry  1.683%                    | 
+ | Other  4.147%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Adamant:0/252/0/0/4/252 21.755%        | 
+ | Jolly:0/252/0/0/4/252 11.418%          | 
+ | Adamant:252/252/0/0/4/0  6.671%        | 
+ | Adamant:4/252/0/0/0/252  6.490%        | 
+ | Jolly:8/248/0/0/0/252  5.288%          | 
+ | Careful:200/0/0/0/252/56  4.627%       | 
+ | Other 43.750%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Earthquake 79.267%                     | 
+ | Extreme Speed 58.774%                  | 
+ | Dragon Dance 56.550%                   | 
+ | Outrage 56.310%                        | 
+ | Substitute 26.863%                     | 
+ | Coil 21.875%                           | 
+ | Dragon Tail 14.904%                    | 
+ | Stone Edge 13.462%                     | 
+ | Glare 11.178%                          | 
+ | Rock Slide  7.752%                     | 
+ | Crunch  6.911%                         | 
+ | Draco Meteor  6.911%                   | 
+ | Dragon Pulse  4.868%                   | 
+ | Zen Headbutt  3.606%                   | 
+ | Land's Wrath  3.486%                   | 
+ | Superpower  3.005%                     | 
+ | Protect  2.704%                        | 
+ | Rest  2.284%                           | 
+ | Other 19.291%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Landorus +4.594%                       | 
+ | Camerupt-Mega +2.256%                  | 
+ | Nidoqueen +1.810%                      | 
+ | Piloswine +1.089%                      | 
+ | Hippopotas +0.869%                     | 
+ | Quagsire +0.772%                       | 
+ | Landorus-Therian +0.750%               | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Dugtrio                                | 
+ +----------------------------------------+ 
+ | Raw count: 1560                        | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 87                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Arena Trap 70.577%                     | 
+ | Sand Force 18.462%                     | 
+ | Sand Veil 10.962%                      | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Focus Sash 68.910%                     | 
+ | Choice Band 11.346%                    | 
+ | Life Orb  4.295%                       | 
+ | Leftovers  2.308%                      | 
+ | Nothing  1.795%                        | 
+ | BrightPowder  1.538%                   | 
+ | Assault Vest  1.474%                   | 
+ | Choice Scarf  1.090%                   | 
+ | Expert Belt  1.026%                    | 
+ | Sitrus Berry  0.962%                   | 
+ | King's Rock  0.897%                    | 
+ | Other  4.359%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Jolly:0/252/0/0/4/252 39.231%          | 
+ | Hardy:36/64/88/84/48/188 11.410%       | 
+ | Hasty:0/252/0/4/0/252 10.000%          | 
+ | Jolly:252/4/0/0/0/252  6.603%          | 
+ | Hasty:0/252/0/0/0/252  6.154%          | 
+ | Jolly:4/252/0/0/0/252  3.590%          | 
+ | Other 23.013%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Earthquake 88.077%                     | 
+ | Sucker Punch 65.769%                   | 
+ | Stone Edge 32.436%                     | 
+ | Protect 24.103%                        | 
+ | Stealth Rock 22.628%                   | 
+ | Reversal 22.436%                       | 
+ | Rock Slide 18.782%                     | 
+ | Sludge Wave 18.590%                    | 
+ | Memento 15.577%                        | 
+ | Night Slash 11.090%                    | 
+ | Toxic  8.718%                          | 
+ | Sandstorm  7.949%                      | 
+ | Aerial Ace  7.372%                     | 
+ | Hone Claws  5.577%                     | 
+ | Shadow Claw  4.679%                    | 
+ | Ancient Power  4.679%                  | 
+ | Substitute  3.846%                     | 
+ | Sunny Day  3.397%                      | 
+ | Nothing  2.949%                        | 
+ | Final Gambit  2.885%                   | 
+ | Earth Power  2.756%                    | 
+ | Pursuit  2.564%                        | 
+ | Tri Attack  2.244%                     | 
+ | Double-Edge  2.115%                    | 
+ | Other 18.782%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Quagsire +14.971%                      | 
+ | Donphan +14.781%                       | 
+ | Camerupt-Mega +12.989%                 | 
+ | Marowak +5.214%                        | 
+ | Claydol +3.911%                        | 
+ | Sandslash +3.830%                      | 
+ | Garchomp +2.299%                       | 
+ | Golurk +1.480%                         | 
+ | Gliscor +1.094%                        | 
+ | Rhydon +1.035%                         | 
+ | Whiscash +0.855%                       | 
+ | Steelix-Mega +0.660%                   | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Swampert                               | 
+ +----------------------------------------+ 
+ | Raw count: 1516                        | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 71                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Torrent 78.628%                        | 
+ | Damp 21.372%                           | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 44.327%                      | 
+ | Assault Vest 11.346%                   | 
+ | Focus Sash  8.641%                     | 
+ | Life Orb  6.662%                       | 
+ | Rindo Berry  4.420%                    | 
+ | Choice Band  4.420%                    | 
+ | Sitrus Berry  3.496%                   | 
+ | Mystic Water  3.166%                   | 
+ | Nothing  3.034%                        | 
+ | Rocky Helmet  2.375%                   | 
+ | Quick Claw  1.451%                     | 
+ | Lum Berry  1.451%                      | 
+ | Choice Scarf  1.121%                   | 
+ | Other  4.090%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Adamant:252/252/0/0/4/0 20.251%        | 
+ | Lonely:252/252/0/4/0/0  9.235%         | 
+ | Relaxed:240/16/252/0/0/0  5.013%       | 
+ | Modest:252/0/0/252/4/0  4.090%         | 
+ | Hardy:0/0/0/0/0/0  3.496%              | 
+ | Careful:252/4/0/0/252/0  3.166%        | 
+ | Other 54.749%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Earthquake 71.834%                     | 
+ | Waterfall 56.464%                      | 
+ | Ice Punch 38.193%                      | 
+ | Scald 24.604%                          | 
+ | Stealth Rock 18.008%                   | 
+ | Avalanche 17.612%                      | 
+ | Toxic 16.161%                          | 
+ | Hammer Arm 14.314%                     | 
+ | Ice Beam 13.391%                       | 
+ | Aqua Tail 10.752%                      | 
+ | Earth Power  9.235%                    | 
+ | Power-Up Punch  8.509%                 | 
+ | Protect  8.113%                        | 
+ | Roar  7.916%                           | 
+ | Stone Edge  6.794%                     | 
+ | Brick Break  6.332%                    | 
+ | Outrage  6.266%                        | 
+ | Rock Slide  6.135%                     | 
+ | Hydro Pump  6.069%                     | 
+ | Superpower  5.277%                     | 
+ | Sludge Wave  5.013%                    | 
+ | Surf  3.958%                           | 
+ | Curse  3.760%                          | 
+ | Blizzard  3.562%                       | 
+ | Rest  3.562%                           | 
+ | Mirror Coat  3.232%                    | 
+ | Low Kick  2.375%                       | 
+ | Seismic Toss  2.243%                   | 
+ | Focus Blast  2.111%                    | 
+ | Other 18.206%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Garchomp-Mega +8.366%                  | 
+ | Flygon +5.892%                         | 
+ | Nidoking +5.184%                       | 
+ | Torterra +4.535%                       | 
+ | Camerupt +4.404%                       | 
+ | Gliscor +3.549%                        | 
+ | Steelix +2.677%                        | 
+ | Rhyperior +1.758%                      | 
+ | Rhydon +0.987%                         | 
+ | Numel +0.740%                          | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Golem                                  | 
+ +----------------------------------------+ 
+ | Raw count: 1377                        | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 79                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Sturdy 82.353%                         | 
+ | Rock Head 10.748%                      | 
+ | Sand Veil  6.899%                      | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Weakness Policy 41.322%                | 
+ | Custap Berry 26.652%                   | 
+ | Leftovers  6.681%                      | 
+ | Focus Sash  3.849%                     | 
+ | Assault Vest  3.268%                   | 
+ | Air Balloon  3.050%                    | 
+ | Rocky Helmet  2.977%                   | 
+ | Normal Gem  2.106%                     | 
+ | Life Orb  2.033%                       | 
+ | Earth Plate  1.380%                    | 
+ | Sitrus Berry  1.162%                   | 
+ | Choice Band  0.944%                    | 
+ | Other  4.575%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Adamant:252/252/0/0/4/0 22.295%        | 
+ | Adamant:0/252/0/0/4/252 11.184%        | 
+ | Jolly:0/252/0/0/4/252  8.061%          | 
+ | Adamant:0/252/4/0/0/252  7.553%        | 
+ | Adamant:0/252/0/0/0/252  4.938%        | 
+ | Jolly:4/252/0/0/0/252  4.357%          | 
+ | Other 41.612%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Earthquake 84.023%                     | 
+ | Explosion 51.053%                      | 
+ | Stealth Rock 34.495%                   | 
+ | Stone Edge 30.719%                     | 
+ | Rock Polish 27.088%                    | 
+ | Sucker Punch 26.434%                   | 
+ | Fire Punch 19.971%                     | 
+ | Rock Blast 19.608%                     | 
+ | Rock Slide 17.792%                     | 
+ | Autotomize 15.977%                     | 
+ | Thunder Punch  7.407%                  | 
+ | Double-Edge  6.173%                    | 
+ | Hammer Arm  5.955%                     | 
+ | Iron Head  5.301%                      | 
+ | Sandstorm  4.503%                      | 
+ | Gyro Ball  4.212%                      | 
+ | Heavy Slam  3.558%                     | 
+ | Brick Break  3.558%                    | 
+ | Superpower  3.413%                     | 
+ | Ancient Power  2.832%                  | 
+ | Power-Up Punch  2.760%                 | 
+ | Flail  2.760%                          | 
+ | Toxic  2.542%                          | 
+ | Other 17.865%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Flygon +14.294%                        | 
+ | Rhyperior +6.406%                      | 
+ | Rhydon +6.066%                         | 
+ | Sandslash +4.677%                      | 
+ | Marowak +4.578%                        | 
+ | Nidoqueen +4.157%                      | 
+ | Donphan +4.148%                        | 
+ | Whiscash +3.464%                       | 
+ | Steelix-Mega +3.385%                   | 
+ | Golurk +3.173%                         | 
+ | Numel +1.579%                          | 
+ | Stunfisk +1.161%                       | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Sandslash                              | 
+ +----------------------------------------+ 
+ | Raw count: 1223                        | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 76                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Sand Rush 76.533%                      | 
+ | Sand Veil 23.467%                      | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Life Orb 23.876%                       | 
+ | Focus Sash 19.951%                     | 
+ | Leftovers 14.391%                      | 
+ | Choice Band  9.158%                    | 
+ | Choice Scarf  5.724%                   | 
+ | Assault Vest  3.761%                   | 
+ | Rocky Helmet  3.107%                   | 
+ | Lum Berry  2.862%                      | 
+ | BrightPowder  2.698%                   | 
+ | Weakness Policy  1.962%                | 
+ | Earth Plate  1.962%                    | 
+ | Nothing  1.554%                        | 
+ | Sitrus Berry  1.390%                   | 
+ | Soft Sand  1.145%                      | 
+ | Shell Bell  1.145%                     | 
+ | King's Rock  1.063%                    | 
+ | Other  4.252%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Adamant:0/252/0/0/4/252 34.587%        | 
+ | Adamant:252/252/0/0/4/0  8.667%        | 
+ | Jolly:0/252/0/0/4/252  7.441%          | 
+ | Adamant:4/252/0/0/0/252  7.114%        | 
+ | Hardy:0/0/0/0/0/0  4.988%              | 
+ | Hardy:0/4/252/0/0/252  2.780%          | 
+ | Other 34.424%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Earthquake 87.163%                     | 
+ | Knock Off 56.664%                      | 
+ | Swords Dance 34.914%                   | 
+ | X-Scissor 32.706%                      | 
+ | Rapid Spin 31.807%                     | 
+ | Stone Edge 19.215%                     | 
+ | Sandstorm 19.052%                      | 
+ | Poison Jab 18.561%                     | 
+ | Rock Slide 16.435%                     | 
+ | Brick Break 11.120%                    | 
+ | Stealth Rock  9.730%                   | 
+ | Shadow Claw  9.158%                    | 
+ | Night Slash  8.258%                    | 
+ | Sand Tomb  4.088%                      | 
+ | Dig  3.516%                            | 
+ | Hone Claws  3.434%                     | 
+ | Super Fang  3.352%                     | 
+ | Double-Edge  3.025%                    | 
+ | Crush Claw  2.944%                     | 
+ | Gyro Ball  2.698%                      | 
+ | Bulldoze  2.289%                       | 
+ | Other 19.869%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Claydol +10.577%                       | 
+ | Marowak +9.472%                        | 
+ | Torterra +8.186%                       | 
+ | Donphan +8.163%                        | 
+ | Golem +5.283%                          | 
+ | Camerupt-Mega +5.031%                  | 
+ | Dugtrio +4.823%                        | 
+ | Steelix-Mega +4.569%                   | 
+ | Stunfisk +3.690%                       | 
+ | Flygon +2.891%                         | 
+ | Rhydon +2.565%                         | 
+ | Nidoqueen +2.249%                      | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Stunfisk                               | 
+ +----------------------------------------+ 
+ | Raw count: 998                         | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 71                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Static 78.457%                         | 
+ | Sand Veil 21.142%                      | 
+ | Limber  0.401%                         | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 50.902%                      | 
+ | Assault Vest 15.531%                   | 
+ | Sitrus Berry  5.912%                   | 
+ | Life Orb  5.411%                       | 
+ | Absorb Bulb  3.607%                    | 
+ | Air Balloon  3.106%                    | 
+ | Choice Specs  2.906%                   | 
+ | Rocky Helmet  2.505%                   | 
+ | Focus Sash  1.804%                     | 
+ | BrightPowder  1.403%                   | 
+ | Magnet  1.002%                         | 
+ | Red Card  0.802%                       | 
+ | Eviolite  0.701%                       | 
+ | Other  4.409%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Modest:252/0/0/252/4/0 24.449%         | 
+ | Gentle:252/4/136/0/116/0 20.641%       | 
+ | Calm:252/0/0/4/252/0  6.613%           | 
+ | Quiet:252/0/0/252/4/0  6.112%          | 
+ | Hardy:0/0/0/0/0/0  4.709%              | 
+ | Modest:252/0/4/252/0/0  4.509%         | 
+ | Other 32.966%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Discharge 65.832%                      | 
+ | Earth Power 65.030%                    | 
+ | Scald 41.383%                          | 
+ | Stealth Rock 29.960%                   | 
+ | Thunderbolt 26.253%                    | 
+ | Yawn 22.946%                           | 
+ | Sludge Bomb 21.944%                    | 
+ | Thunder Wave 13.327%                   | 
+ | Rock Tomb 13.327%                      | 
+ | Toxic 13.226%                          | 
+ | Protect 12.826%                        | 
+ | Pain Split 12.826%                     | 
+ | Sludge Wave 11.523%                    | 
+ | Sandstorm  9.519%                      | 
+ | Thunder  9.319%                        | 
+ | Foul Play  5.311%                      | 
+ | Surf  5.210%                           | 
+ | Hidden Power Ice  2.705%               | 
+ | Other 17.535%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Krookodile +13.398%                    | 
+ | Flygon +6.187%                         | 
+ | Golurk +4.481%                         | 
+ | Sandslash +4.435%                      | 
+ | Rhyperior +3.262%                      | 
+ | Numel +2.324%                          | 
+ | Claydol +2.200%                        | 
+ | Wormadam-Sandy +1.720%                 | 
+ | Torterra +1.563%                       | 
+ | Golem +1.520%                          | 
+ | Rhydon +1.056%                         | 
+ | Gligar +0.802%                         | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Marowak                                | 
+ +----------------------------------------+ 
+ | Raw count: 947                         | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 71                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Rock Head 70.961%                      | 
+ | Battle Armor 26.927%                   | 
+ | Lightning Rod  2.112%                  | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Thick Club 78.775%                     | 
+ | Focus Sash  3.801%                     | 
+ | Life Orb  2.746%                       | 
+ | Sitrus Berry  2.640%                   | 
+ | Leftovers  2.218%                      | 
+ | Rocky Helmet  1.795%                   | 
+ | Earth Plate  1.162%                    | 
+ | Choice Band  1.162%                    | 
+ | Nothing  1.056%                        | 
+ | Other  4.646%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Adamant:252/252/0/0/4/0 34.530%        | 
+ | Adamant:248/252/0/0/8/0 10.665%        | 
+ | Adamant:0/252/4/0/0/252  5.597%        | 
+ | Hardy:0/0/0/0/0/0  4.224%              | 
+ | Hardy:0/252/4/0/0/252  3.590%          | 
+ | Adamant:0/252/4/0/252/0  2.323%        | 
+ | Other 39.071%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Bonemerang 78.881%                     | 
+ | Double-Edge 47.941%                    | 
+ | Knock Off 43.611%                      | 
+ | Fire Punch 29.673%                     | 
+ | Earthquake 27.878%                     | 
+ | Stone Edge 19.852%                     | 
+ | Power-Up Punch 18.691%                 | 
+ | Swords Dance 17.318%                   | 
+ | Thunder Punch 16.051%                  | 
+ | Rock Slide 11.510%                     | 
+ | Substitute 10.454%                     | 
+ | Brick Break  9.081%                    | 
+ | Outrage  8.342%                        | 
+ | Iron Head  7.920%                      | 
+ | Smack Down  5.808%                     | 
+ | Stealth Rock  5.702%                   | 
+ | Bone Club  4.646%                      | 
+ | Facade  4.329%                         | 
+ | Bone Rush  3.590%                      | 
+ | Detect  2.640%                         | 
+ | Ice Beam  2.429%                       | 
+ | Skull Bash  2.429%                     | 
+ | Earth Power  2.006%                    | 
+ | Other 19.219%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Sandslash +12.079%                     | 
+ | Dugtrio +8.330%                        | 
+ | Golurk +7.493%                         | 
+ | Golem +6.500%                          | 
+ | Rhyperior +5.036%                      | 
+ | Flygon +4.882%                         | 
+ | Rhydon +4.591%                         | 
+ | Nidoqueen +3.685%                      | 
+ | Donphan +3.300%                        | 
+ | Steelix +1.875%                        | 
+ | Whiscash +1.364%                       | 
+ | Swampert-Mega +1.318%                  | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Camerupt                               | 
+ +----------------------------------------+ 
+ | Raw count: 941                         | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 66                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Solid Rock 67.163%                     | 
+ | Magma Armor 20.723%                    | 
+ | Anger Point 12.115%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 29.862%                      | 
+ | Life Orb 12.009%                       | 
+ | Assault Vest 11.158%                   | 
+ | Choice Specs 10.308%                   | 
+ | Focus Sash  8.077%                     | 
+ | Sitrus Berry  6.908%                   | 
+ | Nothing  4.676%                        | 
+ | Weakness Policy  3.188%                | 
+ | Charcoal  1.488%                       | 
+ | Quick Claw  1.382%                     | 
+ | Rocky Helmet  1.275%                   | 
+ | Flame Plate  1.275%                    | 
+ | Choice Scarf  1.063%                   | 
+ | Air Balloon  0.956%                    | 
+ | Eviolite  0.956%                       | 
+ | Passho Berry  0.850%                   | 
+ | Other  4.570%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Modest:248/0/0/252/8/0 14.559%         | 
+ | Mild:252/4/0/252/0/0  6.695%           | 
+ | Quiet:252/4/0/252/0/0  5.313%          | 
+ | Calm:248/0/0/8/252/0  4.038%           | 
+ | Hardy:0/0/0/0/0/0  3.826%              | 
+ | Modest:252/0/0/252/4/0  3.719%         | 
+ | Other 61.849%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Earth Power 66.206%                    | 
+ | Flash Cannon 29.862%                   | 
+ | Fire Blast 29.437%                     | 
+ | Eruption 29.224%                       | 
+ | Ancient Power 27.843%                  | 
+ | Lava Plume 22.423%                     | 
+ | Flamethrower 21.892%                   | 
+ | Earthquake 21.148%                     | 
+ | Will-O-Wisp 15.940%                    | 
+ | Hidden Power Ice 12.646%               | 
+ | Hidden Power Grass 12.115%             | 
+ | Stone Edge 11.796%                     | 
+ | Stealth Rock 10.096%                   | 
+ | Rock Slide  9.458%                     | 
+ | Toxic  8.927%                          | 
+ | Explosion  7.758%                      | 
+ | Flame Charge  6.695%                   | 
+ | Hidden Power Electric  6.270%          | 
+ | Rock Polish  6.057%                    | 
+ | Protect  5.739%                        | 
+ | Iron Head  4.888%                      | 
+ | Heat Wave  3.507%                      | 
+ | Sandstorm  3.401%                      | 
+ | Rest  2.976%                           | 
+ | Roar  2.550%                           | 
+ | Sleep Talk  2.232%                     | 
+ | Other 18.916%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Swampert-Mega +13.614%                 | 
+ | Torterra +9.515%                       | 
+ | Swampert +7.138%                       | 
+ | Flygon +6.126%                         | 
+ | Claydol +4.401%                        | 
+ | Steelix +3.707%                        | 
+ | Rhyperior +3.513%                      | 
+ | Steelix-Mega +3.363%                   | 
+ | Onix +0.616%                           | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Steelix                                | 
+ +----------------------------------------+ 
+ | Raw count: 665                         | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 84                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Sturdy 46.767%                         | 
+ | Rock Head 28.421%                      | 
+ | Sheer Force 24.812%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 36.391%                      | 
+ | Sitrus Berry 11.579%                   | 
+ | Rocky Helmet 10.677%                   | 
+ | Assault Vest  9.323%                   | 
+ | Life Orb  8.120%                       | 
+ | Custap Berry  3.759%                   | 
+ | Choice Band  3.609%                    | 
+ | Quick Claw  2.256%                     | 
+ | Metronome  2.256%                      | 
+ | Focus Sash  1.504%                     | 
+ | Choice Specs  1.504%                   | 
+ | Chesto Berry  1.353%                   | 
+ | Silk Scarf  1.353%                     | 
+ | Earth Plate  1.353%                    | 
+ | Other  4.962%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Adamant:252/252/0/0/4/0 18.496%        | 
+ | Careful:0/4/0/0/252/252  5.263%        | 
+ | Relaxed:132/160/0/92/124/0  5.113%     | 
+ | Adamant:0/0/252/0/252/0  4.662%        | 
+ | Hardy:0/0/0/0/0/0  4.662%              | 
+ | Impish:252/4/252/0/0/0  3.609%         | 
+ | Other 58.195%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Earthquake 65.564%                     | 
+ | Stealth Rock 29.173%                   | 
+ | Gyro Ball 28.722%                      | 
+ | Heavy Slam 27.820%                     | 
+ | Iron Head 22.406%                      | 
+ | Toxic 22.105%                          | 
+ | Dragon Tail 15.489%                    | 
+ | Fire Fang 15.188%                      | 
+ | Rock Slide 14.436%                     | 
+ | Explosion 12.782%                      | 
+ | Taunt 10.827%                          | 
+ | Double-Edge 10.827%                    | 
+ | Protect  9.474%                        | 
+ | Rest  8.421%                           | 
+ | Rock Blast  7.669%                     | 
+ | Aqua Tail  7.068%                      | 
+ | Ice Fang  6.917%                       | 
+ | Stone Edge  6.617%                     | 
+ | Crunch  6.316%                         | 
+ | Sleep Talk  6.015%                     | 
+ | Roar  6.015%                           | 
+ | Thunder Fang  5.564%                   | 
+ | Dark Pulse  5.414%                     | 
+ | Flash Cannon  5.263%                   | 
+ | Sandstorm  5.263%                      | 
+ | Iron Tail  4.962%                      | 
+ | Dragon Pulse  4.511%                   | 
+ | Autotomize  3.910%                     | 
+ | Curse  3.759%                          | 
+ | Rollout  2.707%                        | 
+ | Other 18.797%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Torterra +10.891%                      | 
+ | Swampert-Mega +10.455%                 | 
+ | Golurk +8.397%                         | 
+ | Rhyperior +6.625%                      | 
+ | Swampert +6.000%                       | 
+ | Camerupt +5.155%                       | 
+ | Nidoking +4.964%                       | 
+ | Claydol +3.759%                        | 
+ | Nidoqueen +2.961%                      | 
+ | Marowak +2.595%                        | 
+ | Flygon +2.334%                         | 
+ | Camerupt-Mega +1.579%                  | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Rhydon                                 | 
+ +----------------------------------------+ 
+ | Raw count: 548                         | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 71                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Rock Head 65.328%                      | 
+ | Reckless 18.613%                       | 
+ | Lightning Rod 16.058%                  | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Eviolite 90.328%                       | 
+ | Life Orb  2.737%                       | 
+ | Leftovers  2.372%                      | 
+ | Other  4.562%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Adamant:252/252/0/0/4/0 40.146%        | 
+ | Careful:252/4/0/0/252/0  6.204%        | 
+ | Careful:252/0/4/0/252/0  4.562%        | 
+ | Adamant:0/252/4/0/0/252  4.015%        | 
+ | Naughty:252/252/0/4/0/0  3.650%        | 
+ | Jolly:0/252/0/0/4/252  2.555%          | 
+ | Other 38.869%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Earthquake 69.161%                     | 
+ | Double-Edge 39.964%                    | 
+ | Stone Edge 30.474%                     | 
+ | Dragon Tail 23.358%                    | 
+ | Stealth Rock 18.431%                   | 
+ | Megahorn 18.066%                       | 
+ | Ice Punch 17.153%                      | 
+ | Rock Slide 14.781%                     | 
+ | Fire Punch 12.956%                     | 
+ | Rock Blast 12.044%                     | 
+ | Thunder Punch 11.131%                  | 
+ | Rock Polish 10.401%                    | 
+ | Avalanche 10.036%                      | 
+ | Power-Up Punch  8.577%                 | 
+ | Poison Jab  8.577%                     | 
+ | Drill Run  7.847%                      | 
+ | Curse  7.664%                          | 
+ | Swords Dance  7.482%                   | 
+ | Sandstorm  7.482%                      | 
+ | Superpower  6.022%                     | 
+ | Crunch  5.839%                         | 
+ | Protect  5.474%                        | 
+ | Aqua Tail  5.109%                      | 
+ | Hammer Arm  3.650%                     | 
+ | Bulldoze  3.467%                       | 
+ | Outrage  3.467%                        | 
+ | Brick Break  3.102%                    | 
+ | Toxic  2.920%                          | 
+ | Roar  2.920%                           | 
+ | Ancient Power  2.372%                  | 
+ | Rock Tomb  2.190%                      | 
+ | Other 17.883%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Golem +15.198%                         | 
+ | Marowak +8.012%                        | 
+ | Flygon +7.577%                         | 
+ | Nidoqueen +7.205%                      | 
+ | Steelix-Mega +6.778%                   | 
+ | Sandslash +5.671%                      | 
+ | Onix +3.963%                           | 
+ | Swampert +2.869%                       | 
+ | Dugtrio +2.814%                        | 
+ | Pupitar +2.085%                        | 
+ | Quagsire +2.074%                       | 
+ | Geodude +1.964%                        | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Piloswine                              | 
+ +----------------------------------------+ 
+ | Raw count: 305                         | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 79                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Thick Fat 71.475%                      | 
+ | Oblivious 26.885%                      | 
+ | Snow Cloak  1.639%                     | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Eviolite 75.410%                       | 
+ | Leftovers 21.639%                      | 
+ | Other  2.951%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Hardy:0/0/0/0/0/0 20.984%              | 
+ | Adamant:252/252/0/0/4/0 19.672%        | 
+ | Adamant:248/252/0/0/8/0  8.525%        | 
+ | Adamant:248/252/8/0/0/0  5.574%        | 
+ | Careful:252/0/4/0/252/0  5.246%        | 
+ | Impish:252/0/0/0/252/0  5.246%         | 
+ | Other 34.754%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Earthquake 62.295%                     | 
+ | Ice Shard 57.377%                      | 
+ | Avalanche 38.361%                      | 
+ | Icicle Crash 24.262%                   | 
+ | Earth Power 21.639%                    | 
+ | Stealth Rock 21.639%                   | 
+ | Ancient Power 21.639%                  | 
+ | Curse 16.066%                          | 
+ | Rest 15.410%                           | 
+ | Hidden Power Fighting 14.098%          | 
+ | Reflect 13.770%                        | 
+ | Icicle Spear 13.443%                   | 
+ | Toxic 12.787%                          | 
+ | Stone Edge 10.820%                     | 
+ | Superpower  8.852%                     | 
+ | Light Screen  8.525%                   | 
+ | Rock Tomb  7.213%                      | 
+ | Blizzard  6.885%                       | 
+ | Roar  6.557%                           | 
+ | Other 18.361%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Steelix-Mega +16.655%                  | 
+ | Claydol +12.836%                       | 
+ | Landorus-Therian +8.770%               | 
+ | Sandslash +8.604%                      | 
+ | Landorus +8.215%                       | 
+ | Seismitoad +6.346%                     | 
+ | Zygarde +6.156%                        | 
+ | Nidoqueen +5.795%                      | 
+ | Golurk +4.807%                         | 
+ | Gligar +1.922%                         | 
+ | Trapinch +1.920%                       | 
+ | Sandshrew +1.269%                      | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Whiscash                               | 
+ +----------------------------------------+ 
+ | Raw count: 230                         | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 65                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Oblivious 49.130%                      | 
+ | Anticipation 27.826%                   | 
+ | Hydration 23.043%                      | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 56.957%                      | 
+ | Life Orb 13.478%                       | 
+ | Splash Plate  6.087%                   | 
+ | Sitrus Berry  5.217%                   | 
+ | Chesto Berry  3.913%                   | 
+ | Assault Vest  3.478%                   | 
+ | Lum Berry  3.478%                      | 
+ | Focus Sash  3.043%                     | 
+ | Other  4.348%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Adamant:0/252/0/0/4/252 40.000%        | 
+ | Adamant:252/252/0/0/4/0  7.391%        | 
+ | Jolly:0/52/112/0/200/144  6.957%       | 
+ | Hardy:0/252/4/0/0/252  5.217%          | 
+ | Hardy:0/0/0/0/0/0  4.783%              | 
+ | Calm:252/0/0/4/252/0  3.913%           | 
+ | Other 31.739%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Dragon Dance 77.826%                   | 
+ | Earthquake 74.348%                     | 
+ | Waterfall 66.957%                      | 
+ | Zen Headbutt 42.174%                   | 
+ | Spark 18.261%                          | 
+ | Stone Edge 17.391%                     | 
+ | Aqua Tail 13.913%                      | 
+ | Scald 13.913%                          | 
+ | Rest 10.870%                           | 
+ | Rain Dance  7.826%                     | 
+ | Earth Power  6.957%                    | 
+ | Toxic  6.522%                          | 
+ | Ice Beam  6.087%                       | 
+ | Sleep Talk  6.087%                     | 
+ | Hydro Pump  5.652%                     | 
+ | Blizzard  4.783%                       | 
+ | Rock Slide  4.783%                     | 
+ | Other 15.652%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Rhyperior +20.799%                     | 
+ | Golem +20.524%                         | 
+ | Nidoqueen +7.249%                      | 
+ | Torterra +5.690%                       | 
+ | Marowak +5.576%                        | 
+ | Dugtrio +5.472%                        | 
+ | Gliscor +5.336%                        | 
+ | Steelix-Mega +4.659%                   | 
+ | Palpitoad +2.969%                      | 
+ | Golurk +1.486%                         | 
+ | Pupitar +0.764%                        | 
+ | Rhydon +0.759%                         | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Gligar                                 | 
+ +----------------------------------------+ 
+ | Raw count: 206                         | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 75                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Sand Veil 44.175%                      | 
+ | Immunity 29.612%                       | 
+ | Hyper Cutter 26.214%                   | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Eviolite 93.204%                       | 
+ | Nothing  3.398%                        | 
+ | Other  3.398%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Impish:248/0/252/0/8/0 21.359%         | 
+ | Impish:252/4/252/0/0/0 16.990%         | 
+ | Careful:252/4/0/0/252/0  6.796%        | 
+ | Bold:248/0/252/0/8/0  6.311%           | 
+ | Impish:248/8/252/0/0/0  5.340%         | 
+ | Bold:252/0/252/0/4/0  4.369%           | 
+ | Other 38.835%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Roost 74.757%                          | 
+ | Earthquake 44.660%                     | 
+ | U-turn 39.806%                         | 
+ | Toxic 34.951%                          | 
+ | Stealth Rock 24.757%                   | 
+ | Knock Off 23.786%                      | 
+ | Defog 19.417%                          | 
+ | Sandstorm 19.417%                      | 
+ | Swords Dance 18.447%                   | 
+ | Baton Pass 16.990%                     | 
+ | Acrobatics 15.049%                     | 
+ | Protect 11.165%                        | 
+ | Tailwind  8.738%                       | 
+ | Agility  6.311%                        | 
+ | Taunt  6.311%                          | 
+ | Aerial Ace  5.825%                     | 
+ | Substitute  5.340%                     | 
+ | Sand Tomb  4.854%                      | 
+ | Other 19.417%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Flygon +5.783%                         | 
+ | Steelix-Mega +4.490%                   | 
+ | Stunfisk +3.940%                       | 
+ | Claydol +3.830%                        | 
+ | Landorus-Therian +2.929%               | 
+ | Piloswine +2.809%                      | 
+ | Onix +2.679%                           | 
+ | Donphan +1.943%                        | 
+ | Diggersby +1.838%                      | 
+ | Swampert +1.819%                       | 
+ | Camerupt +1.739%                       | 
+ | Swampert-Mega +1.353%                  | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Numel                                  | 
+ +----------------------------------------+ 
+ | Raw count: 103                         | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 72                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Simple 100.000%                        | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Eviolite 100.000%                      | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Calm:4/0/252/0/252/0 32.039%           | 
+ | Adamant:0/4/252/0/252/0 18.447%        | 
+ | Bold:252/0/128/0/128/0 10.680%         | 
+ | Jolly:0/252/128/0/64/64  9.709%        | 
+ | Jolly:0/64/252/0/128/64  9.709%        | 
+ | Modest:120/4/116/0/92/176  8.738%      | 
+ | Other 10.680%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Rest 65.049%                           | 
+ | Flame Charge 53.398%                   | 
+ | Stockpile 46.602%                      | 
+ | Earthquake 44.660%                     | 
+ | Lava Plume 43.689%                     | 
+ | Sleep Talk 33.010%                     | 
+ | Amnesia 26.214%                        | 
+ | Howl 26.214%                           | 
+ | Curse 18.447%                          | 
+ | Growth 10.680%                         | 
+ | Flamethrower  8.738%                   | 
+ | Earth Power  8.738%                    | 
+ | Other 14.563%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Diggersby +55.721%                     | 
+ | Stunfisk +22.872%                      | 
+ | Nidoking +22.220%                      | 
+ | Golem +21.521%                         | 
+ | Flygon +19.375%                        | 
+ | Swampert +11.528%                      | 
+ | Mamoswine +9.961%                      | 
+ | Seismitoad +9.899%                     | 
+ | Golurk +3.368%                         | 
+ | Dugtrio +2.369%                        | 
+ | Garchomp +1.672%                       | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Wormadam-Sandy                         | 
+ +----------------------------------------+ 
+ | Raw count: 84                          | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 71                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Overcoat 51.190%                       | 
+ | Anticipation 48.810%                   | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 59.524%                      | 
+ | Focus Sash 16.667%                     | 
+ | Lum Berry  5.952%                      | 
+ | Watmel Berry  5.952%                   | 
+ | Life Orb  3.571%                       | 
+ | Rocky Helmet  3.571%                   | 
+ | Other  4.762%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Naughty:252/252/0/4/0/0 13.095%        | 
+ | Lax:252/4/252/0/0/0 13.095%            | 
+ | Careful:176/40/116/0/176/0  9.524%     | 
+ | Impish:252/4/252/0/0/0  9.524%         | 
+ | Bold:248/0/252/8/0/0  9.524%           | 
+ | Adamant:252/252/0/0/4/0  5.952%        | 
+ | Other 39.286%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Stealth Rock 50.000%                   | 
+ | Toxic 42.857%                          | 
+ | Earthquake 42.857%                     | 
+ | Protect 39.286%                        | 
+ | Rock Blast 29.762%                     | 
+ | Sucker Punch 28.571%                   | 
+ | Infestation 27.381%                    | 
+ | Bug Bite 15.476%                       | 
+ | Signal Beam 15.476%                    | 
+ | Bulldoze 13.095%                       | 
+ | Substitute 13.095%                     | 
+ | Psychic 13.095%                        | 
+ | Psych Up 13.095%                       | 
+ | Endeavor  7.143%                       | 
+ | Sandstorm  7.143%                      | 
+ | Thief  5.952%                          | 
+ | Natural Gift  5.952%                   | 
+ | Rest  4.762%                           | 
+ | Sleep Talk  4.762%                     | 
+ | Facade  3.571%                         | 
+ | Other 16.667%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Stunfisk +20.468%                      | 
+ | Steelix-Mega +20.394%                  | 
+ | Quagsire +19.705%                      | 
+ | Claydol +11.227%                       | 
+ | Flygon +11.018%                        | 
+ | Torterra +10.390%                      | 
+ | Golurk +10.326%                        | 
+ | Diggersby +9.720%                      | 
+ | Dugtrio +2.936%                        | 
+ | Zygarde +2.686%                        | 
+ | Whiscash +1.633%                       | 
+ | Sandslash +0.579%                      | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Hippopotas                             | 
+ +----------------------------------------+ 
+ | Raw count: 93                          | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 63                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Sand Stream 95.699%                    | 
+ | Sand Force  4.301%                     | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Eviolite 53.763%                       | 
+ | Chesto Berry 30.108%                   | 
+ | Focus Sash  9.677%                     | 
+ | Leftovers  5.376%                      | 
+ | Other  1.075%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Bold:252/0/252/0/0/0 35.484%           | 
+ | Impish:252/4/252/0/0/0  8.602%         | 
+ | Careful:252/0/4/0/252/0  7.527%        | 
+ | Careful:252/0/0/0/252/0  7.527%        | 
+ | Careful:0/0/252/0/252/0  6.452%        | 
+ | Relaxed:252/0/252/0/0/4  5.376%        | 
+ | Other 29.032%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Slack Off 72.043%                      | 
+ | Toxic 62.366%                          | 
+ | Whirlwind 55.914%                      | 
+ | Stealth Rock 44.086%                   | 
+ | Rest 32.258%                           | 
+ | Earthquake 25.806%                     | 
+ | Roar 13.978%                           | 
+ | Nothing 13.978%                        | 
+ | Sandstorm 11.828%                      | 
+ | Rock Slide  9.677%                     | 
+ | Crunch  8.602%                         | 
+ | Sand Tomb  7.527%                      | 
+ | Protect  6.452%                        | 
+ | Attract  5.376%                        | 
+ | Body Slam  5.376%                      | 
+ | Bulldoze  4.301%                       | 
+ | Curse  4.301%                          | 
+ | Other 16.129%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Zygarde +14.783%                       | 
+ | Garchomp-Mega +7.433%                  | 
+ | Quagsire +1.656%                       | 
+ | Donphan +1.218%                        | 
+ | Gabite +1.071%                         | 
+ | Swinub +1.060%                         | 
+ | Dugtrio +1.054%                        | 
+ | Graveler +1.021%                       | 
+ | Palpitoad +1.001%                      | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Onix                                   | 
+ +----------------------------------------+ 
+ | Raw count: 71                          | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 62                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Sturdy 64.789%                         | 
+ | Weak Armor 21.127%                     | 
+ | Rock Head 14.085%                      | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Eviolite 80.282%                       | 
+ | Weakness Policy  7.042%                | 
+ | Leftovers  4.225%                      | 
+ | Binding Band  2.817%                   | 
+ | Rocky Helmet  1.408%                   | 
+ | Other  4.225%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Careful:4/0/252/0/252/0 21.127%        | 
+ | Careful:236/8/96/0/152/16 16.901%      | 
+ | Adamant:252/252/0/0/4/0 16.901%        | 
+ | Careful:252/0/4/0/252/0 11.268%        | 
+ | Adamant:0/252/0/0/4/252  9.859%        | 
+ | Gentle:252/0/4/0/252/0  9.859%         | 
+ | Other 14.085%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Stealth Rock 43.662%                   | 
+ | Sandstorm 39.437%                      | 
+ | Toxic 38.028%                          | 
+ | Earthquake 32.394%                     | 
+ | Dragon Tail 29.577%                    | 
+ | Protect 23.944%                        | 
+ | Bind 21.127%                           | 
+ | Stone Edge 21.127%                     | 
+ | Bulldoze 18.310%                       | 
+ | Sand Tomb 16.901%                      | 
+ | Torment 16.901%                        | 
+ | Rock Polish 15.493%                    | 
+ | Double-Edge 12.676%                    | 
+ | Mud-Slap 11.268%                       | 
+ | Smack Down 11.268%                     | 
+ | Explosion  8.451%                      | 
+ | Iron Head  8.451%                      | 
+ | Rock Slide  7.042%                     | 
+ | Rock Blast  7.042%                     | 
+ | Other 16.901%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Rhydon +30.544%                        | 
+ | Rhyperior +29.054%                     | 
+ | Pupitar +16.796%                       | 
+ | Geodude +15.450%                       | 
+ | Marowak +12.373%                       | 
+ | Golem +12.208%                         | 
+ | Swampert-Mega +10.830%                 | 
+ | Diggersby +10.391%                     | 
+ | Nidoking +8.942%                       | 
+ | Camerupt +8.152%                       | 
+ | Gligar +7.750%                         | 
+ | Steelix-Mega +6.343%                   | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Marshtomp                              | 
+ +----------------------------------------+ 
+ | Raw count: 32                          | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 63                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Damp 90.625%                           | 
+ | Torrent  9.375%                        | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Eviolite 100.000%                      | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Calm:248/0/8/0/252/0 68.750%           | 
+ | Adamant:248/252/0/0/8/0 18.750%        | 
+ | Adamant:252/252/0/0/4/0  9.375%        | 
+ | Other  3.125%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Rest 71.875%                           | 
+ | Scald 68.750%                          | 
+ | Sleep Talk 68.750%                     | 
+ | Toxic 68.750%                          | 
+ | Earthquake 31.250%                     | 
+ | Power-Up Punch 18.750%                 | 
+ | Waterfall 18.750%                      | 
+ | Aqua Tail 18.750%                      | 
+ | Ice Punch  9.375%                      | 
+ | Rain Dance  9.375%                     | 
+ | Other 15.625%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Krookodile +48.681%                    | 
+ | Garchomp-Mega +42.345%                 | 
+ | Nidoking +32.930%                      | 
+ | Gliscor +28.434%                       | 
+ | Marowak +12.505%                       | 
+ | Sandslash +11.442%                     | 
+ | Claydol +7.805%                        | 
+ | Whiscash +5.502%                       | 
+ | Piloswine +2.050%                      | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Pupitar                                | 
+ +----------------------------------------+ 
+ | Raw count: 31                          | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 62                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Shed Skin 100.000%                     | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Eviolite 93.548%                       | 
+ | Focus Sash  6.452%                     | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Adamant:0/252/0/0/4/252 38.710%        | 
+ | Careful:0/252/4/0/252/0 35.484%        | 
+ | Jolly:0/252/0/0/4/252  6.452%          | 
+ | Hardy:0/0/252/0/252/0  6.452%          | 
+ | Hardy:0/0/0/0/0/0  6.452%              | 
+ | Jolly:4/252/0/0/0/252  6.452%          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Dragon Dance 93.548%                   | 
+ | Earthquake 83.871%                     | 
+ | Rest 80.645%                           | 
+ | Substitute 41.935%                     | 
+ | Brick Break 22.581%                    | 
+ | Stone Edge 22.581%                     | 
+ | Crunch 12.903%                         | 
+ | Power-Up Punch  9.677%                 | 
+ | Rock Slide  6.452%                     | 
+ | Sandstorm  6.452%                      | 
+ | Other 19.355%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Onix +38.476%                          | 
+ | Rhydon +36.860%                        | 
+ | Geodude +35.441%                       | 
+ | Golem +34.017%                         | 
+ | Rhyperior +32.552%                     | 
+ | Camerupt-Mega +20.973%                 | 
+ | Whiscash +5.704%                       | 
+ | Torterra +4.246%                       | 
+ | Graveler +3.171%                       | 
+ | Garchomp +2.549%                       | 
+ | Sandslash +2.269%                      | 
+ | Swampert +1.474%                       | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Vibrava                                | 
+ +----------------------------------------+ 
+ | Raw count: 22                          | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 24                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Levitate 100.000%                      | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Choice Scarf 72.727%                   | 
+ | Eviolite 22.727%                       | 
+ | Other  4.545%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Jolly:0/252/4/0/0/252 72.727%          | 
+ | Jolly:0/252/0/0/4/252 18.182%          | 
+ | Careful:252/0/4/0/252/0  4.545%        | 
+ | Other  4.545%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | U-turn 90.909%                         | 
+ | Earthquake 90.909%                     | 
+ | Crunch 81.818%                         | 
+ | Steel Wing 72.727%                     | 
+ | Substitute 18.182%                     | 
+ | Outrage 18.182%                        | 
+ | Fly  4.545%                            | 
+ | Defog  4.545%                          | 
+ | Other 18.182%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Golem +58.943%                         | 
+ | Krookodile +48.113%                    | 
+ | Nidoking +42.873%                      | 
+ | Gastrodon +27.293%                     | 
+ | Flygon +20.434%                        | 
+ | Rhyperior +12.025%                     | 
+ | Stunfisk +1.204%                       | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Palpitoad                              | 
+ +----------------------------------------+ 
+ | Raw count: 21                          | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 57                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Water Absorb 61.905%                   | 
+ | Swift Swim 38.095%                     | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Eviolite 57.143%                       | 
+ | Mystic Water 19.048%                   | 
+ | Focus Sash 14.286%                     | 
+ | Luminous Moss  9.524%                  | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Bold:252/0/252/0/4/0 23.810%           | 
+ | Modest:0/0/0/252/4/252 19.048%         | 
+ | Timid:252/0/0/0/4/252 19.048%          | 
+ | Calm:252/0/164/0/92/0  9.524%          | 
+ | Modest:84/92/80/100/64/88  9.524%      | 
+ | Modest:252/0/0/252/4/0  9.524%         | 
+ | Other  9.524%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Scald 80.952%                          | 
+ | Toxic 57.143%                          | 
+ | Protect 52.381%                        | 
+ | Earth Power 38.095%                    | 
+ | Rain Dance 38.095%                     | 
+ | Sludge Wave 23.810%                    | 
+ | Surf 19.048%                           | 
+ | Rest 19.048%                           | 
+ | Hidden Power Electric 19.048%          | 
+ | Sludge Bomb  9.524%                    | 
+ | Hyper Voice  9.524%                    | 
+ | Aqua Ring  9.524%                      | 
+ | Infestation  9.524%                    | 
+ | Other 14.286%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Whiscash +32.586%                      | 
+ | Donphan +27.024%                       | 
+ | Nidoqueen +12.384%                     | 
+ | Torterra +10.390%                      | 
+ | Krokorok +9.504%                       | 
+ | Swampert-Mega +8.750%                  | 
+ | Krookodile +8.503%                     | 
+ | Quagsire +7.800%                       | 
+ | Marowak +6.404%                        | 
+ | Sandslash +5.341%                      | 
+ | Gabite +4.758%                         | 
+ | Swinub +4.746%                         | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Graveler                               | 
+ +----------------------------------------+ 
+ | Raw count: 21                          | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 64                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Sturdy 71.429%                         | 
+ | Sand Veil 14.286%                      | 
+ | Rock Head 14.286%                      | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Earth Plate 47.619%                    | 
+ | Eviolite 19.048%                       | 
+ | Assault Vest  9.524%                   | 
+ | Weakness Policy  9.524%                | 
+ | Choice Band  9.524%                    | 
+ | Other  4.762%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Naughty:252/252/0/4/0/0 47.619%        | 
+ | Adamant:252/252/0/0/4/0 19.048%        | 
+ | Adamant:0/252/0/0/4/252  9.524%        | 
+ | Hardy:0/0/0/0/0/0  9.524%              | 
+ | Adamant:0/252/0/0/0/252  4.762%        | 
+ | Lax:252/4/252/0/0/0  4.762%            | 
+ | Other  4.762%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Earthquake 90.476%                     | 
+ | Fire Punch 57.143%                     | 
+ | Magnitude 47.619%                      | 
+ | Fire Blast 47.619%                     | 
+ | Explosion 23.810%                      | 
+ | Autotomize 19.048%                     | 
+ | Rock Slide 14.286%                     | 
+ | Brick Break 14.286%                    | 
+ | Stone Edge 14.286%                     | 
+ | Sandstorm 14.286%                      | 
+ | Double-Edge 14.286%                    | 
+ | Curse  4.762%                          | 
+ | Earth Power  4.762%                    | 
+ | Power-Up Punch  4.762%                 | 
+ | Rock Blast  4.762%                     | 
+ | Stealth Rock  4.762%                   | 
+ | Other 19.048%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Dugtrio +18.412%                       | 
+ | Rhyperior +17.652%                     | 
+ | Swampert-Mega +8.750%                  | 
+ | Claydol +6.465%                        | 
+ | Camerupt +6.408%                       | 
+ | Sandslash +5.341%                      | 
+ | Diggersby +4.958%                      | 
+ | Pupitar +4.657%                        | 
+ | Onix +4.528%                           | 
+ | Hippopotas +4.489%                     | 
+ | Steelix-Mega +3.728%                   | 
+ | Rhydon +2.912%                         | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Trapinch                               | 
+ +----------------------------------------+ 
+ | Raw count: 14                          | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 55                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Arena Trap 85.714%                     | 
+ | Sheer Force 14.286%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Focus Sash 42.857%                     | 
+ | Eviolite 28.571%                       | 
+ | Life Orb 14.286%                       | 
+ | Choice Band 14.286%                    | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Adamant:252/252/0/0/4/0 71.429%        | 
+ | Careful:252/4/0/0/252/0 28.571%        | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Earthquake 100.000%                    | 
+ | Quick Attack 100.000%                  | 
+ | Crunch 57.143%                         | 
+ | Flail 42.857%                          | 
+ | Superpower 42.857%                     | 
+ | Rock Slide 28.571%                     | 
+ | Toxic 28.571%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Claydol +63.608%                       | 
+ | Piloswine +41.782%                     | 
+ | Steelix +40.719%                       | 
+ | Rhyperior +36.700%                     | 
+ | Nidoking +18.197%                      | 
+ | Camerupt-Mega +14.060%                 | 
+ | Swampert +9.308%                       | 
+ | Dugtrio +8.888%                        | 
+ | Quagsire +3.038%                       | 
+ | Garchomp +2.089%                       | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Geodude                                | 
+ +----------------------------------------+ 
+ | Raw count: 13                          | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 62                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Sturdy 92.308%                         | 
+ | Rock Head  7.692%                      | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Weakness Policy 92.308%                | 
+ | Nothing  7.692%                        | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Adamant:0/252/0/0/4/252 92.308%        | 
+ | Adamant:0/0/0/0/0/0  7.692%            | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Rock Polish 92.308%                    | 
+ | Sucker Punch 92.308%                   | 
+ | Superpower 92.308%                     | 
+ | Rock Blast 69.231%                     | 
+ | Power-Up Punch 23.077%                 | 
+ | Mud Sport  7.692%                      | 
+ | Rock Tomb  7.692%                      | 
+ | Other 15.385%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Pupitar +84.510%                       | 
+ | Onix +84.382%                          | 
+ | Rhydon +82.765%                        | 
+ | Golem +79.922%                         | 
+ | Rhyperior +78.458%                     | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Sandshrew                              | 
+ +----------------------------------------+ 
+ | Raw count: 11                          | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 64                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Sand Rush 100.000%                     | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Focus Sash 54.545%                     | 
+ | Eviolite 45.455%                       | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Adamant:0/252/0/0/4/252 63.636%        | 
+ | Jolly:0/252/0/0/4/252 18.182%          | 
+ | Jolly:0/252/4/0/0/252  9.091%          | 
+ | Impish:252/0/252/0/0/4  9.091%         | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Earthquake 100.000%                    | 
+ | Knock Off 90.909%                      | 
+ | Rock Slide 90.909%                     | 
+ | Swords Dance 90.909%                   | 
+ | Brick Break  9.091%                    | 
+ | Other 18.182%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Sandslash +59.454%                     | 
+ | Seismitoad +53.500%                    | 
+ | Piloswine +35.289%                     | 
+ | Excadrill +25.812%                     | 
+ | Hippowdon +21.987%                     | 
+ | Landorus +11.046%                      | 
+ | Whiscash +8.343%                       | 
+ | Dugtrio +3.693%                        | 
+ | Flygon +2.252%                         | 
+ | Claydol +1.271%                        | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Cubone                                 | 
+ +----------------------------------------+ 
+ | Raw count: 10                          | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 45                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Rock Head 90.000%                      | 
+ | Lightning Rod 10.000%                  | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Thick Club 80.000%                     | 
+ | Leftovers 10.000%                      | 
+ | Assault Vest 10.000%                   | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Adamant:0/252/0/0/252/0 80.000%        | 
+ | Naughty:252/252/0/4/0/0 10.000%        | 
+ | Hardy:0/252/0/0/0/252 10.000%          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Earthquake 100.000%                    | 
+ | Body Slam 80.000%                      | 
+ | Iron Head 80.000%                      | 
+ | Focus Energy 80.000%                   | 
+ | Earth Power 10.000%                    | 
+ | Brick Break 10.000%                    | 
+ | Thunder Punch 10.000%                  | 
+ | Bone Club 10.000%                      | 
+ | Other 20.000%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Rhydon +88.150%                        | 
+ | Marowak +86.880%                       | 
+ | Quagsire +78.753%                      | 
+ | Golem +75.307%                         | 
+ | Rhyperior +73.843%                     | 
+ | Rhyhorn +9.984%                        | 
+ | Krokorok +9.981%                       | 
+ | Onix +9.766%                           | 
+ | Sandslash +5.817%                      | 
+ | Golurk +3.660%                         | 
+ | Flygon +3.161%                         | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Wooper                                 | 
+ +----------------------------------------+ 
+ | Raw count: 9                           | 
+ | Avg. weight: ---                       | 
+ | Viability Ceiling: 0                   | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Water Absorb 100.000%                  | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Eviolite 100.000%                      | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Sassy:0/0/252/0/0/0 100.000%           | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Protect 100.000%                       | 
+ | Recover 100.000%                       | 
+ | Scald 100.000%                         | 
+ | Ice Beam 100.000%                      | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Steelix-Mega +78.331%                  | 
+ | Landorus-Therian +71.430%              | 
+ | Krookodile +68.820%                    | 
+ | Torterra +58.009%                      | 
+ | Nidoking +49.944%                      | 
+ | Rhyperior +16.065%                     | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Diglett                                | 
+ +----------------------------------------+ 
+ | Raw count: 10                          | 
+ | Avg. weight: ---                       | 
+ | Viability Ceiling: 0                   | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Arena Trap 80.000%                     | 
+ | Sand Veil 20.000%                      | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Custap Berry 70.000%                   | 
+ | Focus Sash 20.000%                     | 
+ | Sitrus Berry 10.000%                   | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Timid:0/0/0/0/0/0 70.000%              | 
+ | Jolly:0/252/0/0/4/252 20.000%          | 
+ | Hardy:4/252/0/0/0/252 10.000%          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Nothing 140.000%                       | 
+ | Sandstorm 70.000%                      | 
+ | Endure 70.000%                         | 
+ | Rock Slide 30.000%                     | 
+ | Earthquake 30.000%                     | 
+ | Stealth Rock 20.000%                   | 
+ | Sucker Punch 20.000%                   | 
+ | Thief 10.000%                          | 
+ | Other 10.000%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Dugtrio +44.602%                       | 
+ | Donphan +43.691%                       | 
+ | Garchomp +43.517%                      | 
+ | Swampert-Mega +39.703%                 | 
+ | Rhyperior +13.843%                     | 
+ | Gliscor +9.684%                        | 
+ | Marowak +6.880%                        | 
+ | Flygon +3.161%                         | 
+ | Landorus-Therian +2.541%               | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Larvitar                               | 
+ +----------------------------------------+ 
+ | Raw count: 7                           | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 51                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Sand Veil 85.714%                      | 
+ | Guts 14.286%                           | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Eviolite 100.000%                      | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Jolly:4/252/0/0/0/252 85.714%          | 
+ | Lonely:0/252/0/4/0/252 14.286%         | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Rock Slide 85.714%                     | 
+ | Dragon Dance 85.714%                   | 
+ | Sandstorm 85.714%                      | 
+ | Earthquake 85.714%                     | 
+ | Earth Power 14.286%                    | 
+ | Power-Up Punch 14.286%                 | 
+ | Iron Head 14.286%                      | 
+ | Other 14.286%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Flygon +93.161%                        | 
+ | Camerupt-Mega +71.203%                 | 
+ | Krookodile +65.646%                    | 
+ | Gastrodon +49.370%                     | 
+ | Nidoking +46.769%                      | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Krokorok                               | 
+ +----------------------------------------+ 
+ | Raw count: 5                           | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 45                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Moxie 40.000%                          | 
+ | Anger Point 40.000%                    | 
+ | Intimidate 20.000%                     | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Micle Berry 40.000%                    | 
+ | Eviolite 40.000%                       | 
+ | Leftovers 20.000%                      | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Adamant:252/252/0/0/4/0 40.000%        | 
+ | Gentle:140/56/96/72/68/76 40.000%      | 
+ | Hasty:0/252/0/4/0/252 20.000%          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Earthquake 100.000%                    | 
+ | Knock Off 60.000%                      | 
+ | Hone Claws 60.000%                     | 
+ | Hidden Power Fighting 40.000%          | 
+ | Crunch 20.000%                         | 
+ | Aqua Tail 20.000%                      | 
+ | Dark Pulse 20.000%                     | 
+ | Power-Up Punch 20.000%                 | 
+ | Brick Break 20.000%                    | 
+ | Stone Edge 20.000%                     | 
+ | Other 20.000%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Flygon +73.161%                        | 
+ | Marowak +56.880%                       | 
+ | Palpitoad +39.926%                     | 
+ | Cubone +19.961%                        | 
+ | Gligar +19.299%                        | 
+ | Rhydon +18.150%                        | 
+ | Steelix +17.862%                       | 
+ | Camerupt +16.884%                      | 
+ | Dugtrio +14.602%                       | 
+ | Golurk +13.660%                        | 
+ | Torterra +11.342%                      | 
+ | Quagsire +8.753%                       | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Rhyhorn                                | 
+ +----------------------------------------+ 
+ | Raw count: 5                           | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 45                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Lightning Rod 100.000%                 | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Nothing 60.000%                        | 
+ | Life Orb 20.000%                       | 
+ | Eviolite 20.000%                       | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Adamant:0/0/0/0/0/0 40.000%            | 
+ | Adamant:252/252/0/0/4/0 20.000%        | 
+ | Hardy:0/0/0/0/0/0 20.000%              | 
+ | Hardy:0/200/56/0/0/252 20.000%         | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Earthquake 80.000%                     | 
+ | Crunch 60.000%                         | 
+ | Blizzard 40.000%                       | 
+ | Ancient Power 40.000%                  | 
+ | Earth Power 20.000%                    | 
+ | Dragon Pulse 20.000%                   | 
+ | Aqua Tail 20.000%                      | 
+ | Rock Blast 20.000%                     | 
+ | Scary Face 20.000%                     | 
+ | Ice Fang 20.000%                       | 
+ | Horn Attack 20.000%                    | 
+ | Drill Run 20.000%                      | 
+ | Other 20.000%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Rhydon +78.150%                        | 
+ | Dugtrio +54.602%                       | 
+ | Nidoqueen +53.336%                     | 
+ | Sandslash +35.817%                     | 
+ | Nidoking +21.055%                      | 
+ | Cubone +19.961%                        | 
+ | Onix +19.766%                          | 
+ | Marowak +16.880%                       | 
+ | Golem +15.307%                         | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Swinub                                 | 
+ +----------------------------------------+ 
+ | Raw count: 4                           | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 54                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Thick Fat 50.000%                      | 
+ | Oblivious 25.000%                      | 
+ | Snow Cloak 25.000%                     | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Focus Sash 75.000%                     | 
+ | Eviolite 25.000%                       | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Adamant:252/252/0/0/4/0 25.000%        | 
+ | Adamant:248/252/0/0/0/8 25.000%        | 
+ | Naughty:248/252/0/8/0/0 25.000%        | 
+ | Sassy:4/0/252/0/252/0 25.000%          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Ice Shard 75.000%                      | 
+ | Stealth Rock 50.000%                   | 
+ | Endeavor 50.000%                       | 
+ | Reflect 25.000%                        | 
+ | Blizzard 25.000%                       | 
+ | Hail 25.000%                           | 
+ | Sandstorm 25.000%                      | 
+ | Avalanche 25.000%                      | 
+ | Body Slam 25.000%                      | 
+ | Light Screen 25.000%                   | 
+ | Earthquake 25.000%                     | 
+ | Ancient Power 25.000%                  | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Diggersby +40.673%                     | 
+ | Mamoswine +32.534%                     | 
+ | Sandile +24.996%                       | 
+ | Gabite +24.996%                        | 
+ | Palpitoad +24.926%                     | 
+ | Hippopotas +24.727%                    | 
+ | Piloswine +23.925%                     | 
+ | Camerupt +21.884%                      | 
+ | Donphan +18.691%                       | 
+ | Steelix-Mega +14.442%                  | 
+ | Camerupt-Mega +10.489%                 | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 

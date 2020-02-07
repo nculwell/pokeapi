@@ -1,0 +1,2923 @@
+ +----------------------------------------+ 
+ | Zapdos                                 | 
+ +----------------------------------------+ 
+ | Raw count: 16491                       | 
+ | Avg. weight: 0.548401730208            | 
+ | Viability Ceiling: 90                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Pressure 86.492%                       | 
+ | Static 13.508%                         | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 77.293%                      | 
+ | Rocky Helmet  8.341%                   | 
+ | Life Orb  3.462%                       | 
+ | Safety Goggles  1.425%                 | 
+ | Lum Berry  1.404%                      | 
+ | Choice Specs  1.219%                   | 
+ | Focus Sash  0.918%                     | 
+ | Weakness Policy  0.815%                | 
+ | Sitrus Berry  0.764%                   | 
+ | Other  4.359%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Calm:252/0/0/4/252/0 13.148%           | 
+ | Modest:252/0/0/252/4/0  7.229%         | 
+ | Calm:240/0/0/0/252/16  5.881%          | 
+ | Timid:0/0/0/252/4/252  4.432%          | 
+ | Calm:252/0/0/0/236/16  3.307%          | 
+ | Bold:248/0/176/68/0/16  3.231%         | 
+ | Other 62.771%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Roost 90.052%                          | 
+ | Defog 73.479%                          | 
+ | Heat Wave 66.443%                      | 
+ | Discharge 37.960%                      | 
+ | Thunderbolt 30.768%                    | 
+ | Toxic 30.261%                          | 
+ | Volt Switch 23.823%                    | 
+ | Hidden Power Ice  7.846%               | 
+ | Ancient Power  5.124%                  | 
+ | Thunder  3.502%                        | 
+ | Thunder Wave  3.309%                   | 
+ | Drill Peck  2.486%                     | 
+ | Air Cutter  2.402%                     | 
+ | Extrasensory  2.299%                   | 
+ | Hidden Power Grass  2.267%             | 
+ | Other 17.978%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Thundurus +2.271%                      | 
+ | Raikou +2.183%                         | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Rotom-Wash                             | 
+ +----------------------------------------+ 
+ | Raw count: 15690                       | 
+ | Avg. weight: 0.554724631842            | 
+ | Viability Ceiling: 90                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Levitate 100.000%                      | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 70.121%                      | 
+ | Choice Scarf  7.909%                   | 
+ | Chesto Berry  7.491%                   | 
+ | Sitrus Berry  2.957%                   | 
+ | Light Clay  2.274%                     | 
+ | Choice Specs  2.041%                   | 
+ | Rocky Helmet  1.899%                   | 
+ | Life Orb  1.181%                       | 
+ | Other  4.128%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Bold:248/0/252/0/0/8 17.069%           | 
+ | Calm:252/0/0/4/252/0 15.523%           | 
+ | Bold:252/0/252/4/0/0  8.433%           | 
+ | Bold:128/0/252/0/0/128  6.425%         | 
+ | Timid:0/0/0/252/4/252  4.886%          | 
+ | Calm:248/0/0/8/252/0  4.118%           | 
+ | Other 43.546%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Hydro Pump 97.238%                     | 
+ | Will-O-Wisp 83.860%                    | 
+ | Volt Switch 79.763%                    | 
+ | Pain Split 64.531%                     | 
+ | Thunderbolt 14.321%                    | 
+ | Trick  9.122%                          | 
+ | Rest  8.004%                           | 
+ | Hex  4.843%                            | 
+ | Toxic  4.513%                          | 
+ | Discharge  3.956%                      | 
+ | Shadow Ball  3.914%                    | 
+ | Thunder Wave  3.280%                   | 
+ | Protect  2.954%                        | 
+ | Other 19.702%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Thundurus +3.841%                      | 
+ | Raikou +0.739%                         | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Magnezone                              | 
+ +----------------------------------------+ 
+ | Raw count: 14474                       | 
+ | Avg. weight: 0.543121518261            | 
+ | Viability Ceiling: 90                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Sturdy 48.538%                         | 
+ | Magnet Pull 31.772%                    | 
+ | Analytic 19.691%                       | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Choice Specs 29.904%                   | 
+ | Choice Scarf 25.201%                   | 
+ | Air Balloon 13.333%                    | 
+ | Leftovers 13.108%                      | 
+ | Weakness Policy  4.431%                | 
+ | Assault Vest  4.088%                   | 
+ | Rocky Helmet  1.643%                   | 
+ | Life Orb  1.418%                       | 
+ | BrightPowder  0.925%                   | 
+ | Custap Berry  0.920%                   | 
+ | Focus Sash  0.887%                     | 
+ | Other  4.142%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Timid:0/0/0/252/4/252 16.873%          | 
+ | Modest:248/0/0/252/8/0 15.767%         | 
+ | Timid:0/0/4/252/0/252  6.656%          | 
+ | Modest:168/0/0/252/0/88  4.887%        | 
+ | Modest:84/0/0/252/0/172  4.394%        | 
+ | Modest:0/0/0/252/4/252  3.952%         | 
+ | Other 47.471%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Flash Cannon 95.796%                   | 
+ | Thunderbolt 73.991%                    | 
+ | Volt Switch 66.829%                    | 
+ | Hidden Power Fire 32.547%              | 
+ | Hidden Power Grass 28.822%             | 
+ | Toxic 11.335%                          | 
+ | Hidden Power Ice 10.277%               | 
+ | Tri Attack  8.558%                     | 
+ | Discharge  8.287%                      | 
+ | Thunder Wave  8.286%                   | 
+ | Signal Beam  7.065%                    | 
+ | Mirror Coat  6.425%                    | 
+ | Magnet Rise  5.316%                    | 
+ | Explosion  4.448%                      | 
+ | Protect  4.357%                        | 
+ | Thunder  3.035%                        | 
+ | Light Screen  2.804%                   | 
+ | Reflect  2.635%                        | 
+ | Other 19.188%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Thundurus +1.957%                      | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Manectric-Mega                         | 
+ +----------------------------------------+ 
+ | Raw count: 14618                       | 
+ | Avg. weight: 0.506026226386            | 
+ | Viability Ceiling: 82                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Intimidate 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Manectite 100.000%                     | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Timid:0/0/0/252/4/252 55.942%          | 
+ | Timid:0/0/4/252/0/252 10.852%          | 
+ | Timid:4/0/0/252/0/252  8.955%          | 
+ | Modest:4/0/0/252/0/252  4.628%         | 
+ | Modest:0/0/0/252/4/252  4.496%         | 
+ | Timid:0/0/0/252/0/252  2.426%          | 
+ | Other 12.702%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Volt Switch 86.441%                    | 
+ | Hidden Power Ice 79.272%               | 
+ | Thunderbolt 77.863%                    | 
+ | Flamethrower 75.715%                   | 
+ | Overheat 23.129%                       | 
+ | Protect 10.465%                        | 
+ | Signal Beam  7.727%                    | 
+ | Hidden Power Grass  5.522%             | 
+ | Discharge  5.284%                      | 
+ | Thunder  4.473%                        | 
+ | Electro Ball  2.548%                   | 
+ | Magnet Rise  2.483%                    | 
+ | Other 19.077%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Thundurus                              | 
+ +----------------------------------------+ 
+ | Raw count: 10710                       | 
+ | Avg. weight: 0.659538500217            | 
+ | Viability Ceiling: 90                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Prankster 83.960%                      | 
+ | Defiant 16.040%                        | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Life Orb 60.165%                       | 
+ | Leftovers 23.570%                      | 
+ | Sitrus Berry  3.680%                   | 
+ | Choice Band  3.562%                    | 
+ | Focus Sash  2.518%                     | 
+ | Expert Belt  2.038%                    | 
+ | Other  4.467%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Timid:0/0/0/252/4/252 25.639%          | 
+ | Jolly:0/252/0/0/4/252 23.707%          | 
+ | Timid:0/0/4/252/0/252  8.360%          | 
+ | Hasty:0/4/0/252/0/252  5.911%          | 
+ | Hasty:0/16/0/240/0/252  5.680%         | 
+ | Careful:212/0/40/0/236/20  3.023%      | 
+ | Other 27.680%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Thunder Wave 67.771%                   | 
+ | Thunderbolt 50.781%                    | 
+ | Knock Off 44.662%                      | 
+ | Hidden Power Ice 34.269%               | 
+ | Superpower 33.604%                     | 
+ | Wild Charge 23.075%                    | 
+ | Taunt 19.002%                          | 
+ | Nasty Plot 17.601%                     | 
+ | Grass Knot 17.175%                     | 
+ | Focus Blast 15.068%                    | 
+ | U-turn 12.875%                         | 
+ | Volt Switch  7.255%                    | 
+ | Bulk Up  7.182%                        | 
+ | Substitute  5.823%                     | 
+ | Fly  4.876%                            | 
+ | Dark Pulse  4.538%                     | 
+ | Psychic  4.199%                        | 
+ | Thunder Punch  3.800%                  | 
+ | Sludge Bomb  2.994%                    | 
+ | Flash Cannon  2.866%                   | 
+ | Sludge Wave  2.803%                    | 
+ | Other 17.781%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Rotom-Wash +5.584%                     | 
+ | Zapdos +4.001%                         | 
+ | Magnezone +3.304%                      | 
+ | Raikou +1.842%                         | 
+ | Rotom-Mow +1.135%                      | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Electivire                             | 
+ +----------------------------------------+ 
+ | Raw count: 14657                       | 
+ | Avg. weight: 0.383778133363            | 
+ | Viability Ceiling: 87                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Motor Drive 64.992%                    | 
+ | Vital Spirit 35.008%                   | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Life Orb 27.295%                       | 
+ | Choice Scarf 15.521%                   | 
+ | Choice Band 15.426%                    | 
+ | Expert Belt 13.616%                    | 
+ | Assault Vest  8.351%                   | 
+ | Air Balloon  6.053%                    | 
+ | Leftovers  4.438%                      | 
+ | Focus Sash  2.753%                     | 
+ | Sitrus Berry  2.022%                   | 
+ | Other  4.525%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Adamant:0/252/0/0/4/252 24.624%        | 
+ | Jolly:0/252/0/0/4/252 23.262%          | 
+ | Jolly:4/252/0/0/0/252  8.424%          | 
+ | Adamant:4/252/0/0/0/252  4.414%        | 
+ | Adamant:252/252/0/0/4/0  3.793%        | 
+ | Jolly:0/252/0/0/0/252  3.271%          | 
+ | Other 32.211%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Earthquake 85.488%                     | 
+ | Ice Punch 77.350%                      | 
+ | Wild Charge 53.472%                    | 
+ | Cross Chop 46.979%                     | 
+ | Thunder Punch 32.416%                  | 
+ | Fire Punch 28.113%                     | 
+ | Brick Break 11.255%                    | 
+ | Rock Slide  9.105%                     | 
+ | Power-Up Punch  7.446%                 | 
+ | Hidden Power Grass  7.245%             | 
+ | Hammer Arm  5.608%                     | 
+ | Flamethrower  5.476%                   | 
+ | Thunderbolt  4.254%                    | 
+ | Volt Switch  3.459%                    | 
+ | Iron Tail  2.962%                      | 
+ | Other 19.371%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Rotom +1.529%                          | 
+ | Electrode +0.633%                      | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Eelektross                             | 
+ +----------------------------------------+ 
+ | Raw count: 11290                       | 
+ | Avg. weight: 0.420641407394            | 
+ | Viability Ceiling: 90                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Levitate 100.000%                      | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Assault Vest 43.755%                   | 
+ | Leftovers 19.487%                      | 
+ | Sitrus Berry  8.149%                   | 
+ | Life Orb  6.349%                       | 
+ | Expert Belt  6.077%                    | 
+ | Choice Band  4.448%                    | 
+ | Choice Specs  2.002%                   | 
+ | Lum Berry  1.945%                      | 
+ | Rocky Helmet  1.781%                   | 
+ | Nothing  1.504%                        | 
+ | Other  4.503%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Adamant:252/252/0/0/4/0 24.985%        | 
+ | Adamant:248/252/0/0/8/0  8.682%        | 
+ | Modest:252/0/0/252/4/0  5.899%         | 
+ | Lonely:252/252/0/4/0/0  4.359%         | 
+ | Quiet:252/4/0/252/0/0  2.800%          | 
+ | Adamant:120/252/0/0/120/16  2.300%     | 
+ | Other 50.975%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Drain Punch 59.169%                    | 
+ | Knock Off 51.174%                      | 
+ | Flamethrower 25.128%                   | 
+ | Coil 24.007%                           | 
+ | Aqua Tail 21.183%                      | 
+ | Giga Drain 20.582%                     | 
+ | Thunder Punch 20.487%                  | 
+ | Wild Charge 17.109%                    | 
+ | Rock Slide 16.243%                     | 
+ | Thunderbolt 15.031%                    | 
+ | Volt Switch 13.609%                    | 
+ | U-turn 11.998%                         | 
+ | Iron Tail 10.681%                      | 
+ | Fire Punch  9.874%                     | 
+ | Zap Cannon  9.227%                     | 
+ | Dragon Claw  8.803%                    | 
+ | Acid Spray  8.231%                     | 
+ | Superpower  5.627%                     | 
+ | Dragon Tail  5.075%                    | 
+ | Discharge  4.875%                      | 
+ | Dragon Pulse  4.789%                   | 
+ | Crunch  4.389%                         | 
+ | Acrobatics  3.965%                     | 
+ | Hidden Power Ice  2.987%               | 
+ | Power-Up Punch  2.926%                 | 
+ | Toxic  2.329%                          | 
+ | Flash Cannon  2.204%                   | 
+ | Other 18.297%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Rotom-Mow +3.305%                      | 
+ | Jolteon +1.041%                        | 
+ | Rotom-Heat +0.813%                     | 
+ | Rotom-Frost +0.616%                    | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Ampharos-Mega                          | 
+ +----------------------------------------+ 
+ | Raw count: 10303                       | 
+ | Avg. weight: 0.432356398456            | 
+ | Viability Ceiling: 90                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Mold Breaker 100.000%                  | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Ampharosite 100.000%                   | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Modest:0/0/0/252/4/252 18.206%         | 
+ | Modest:248/0/0/252/8/0 14.616%         | 
+ | Bold:252/0/252/4/0/0  7.383%           | 
+ | Modest:132/0/0/252/0/124  5.893%       | 
+ | Calm:252/0/0/4/252/0  3.646%           | 
+ | Modest:244/0/0/252/0/12  2.489%        | 
+ | Other 47.767%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Dragon Pulse 94.234%                   | 
+ | Thunderbolt 52.381%                    | 
+ | Focus Blast 30.832%                    | 
+ | Agility 28.453%                        | 
+ | Volt Switch 28.397%                    | 
+ | Heal Bell 25.184%                      | 
+ | Discharge 22.184%                      | 
+ | Power Gem 18.013%                      | 
+ | Cotton Guard 15.526%                   | 
+ | Toxic 13.402%                          | 
+ | Rest 12.513%                           | 
+ | Sleep Talk 11.006%                     | 
+ | Signal Beam  5.749%                    | 
+ | Thunder  5.172%                        | 
+ | Hidden Power Ice  3.949%               | 
+ | Thunder Wave  3.597%                   | 
+ | Hidden Power Grass  3.337%             | 
+ | Charge Beam  2.388%                    | 
+ | Substitute  2.014%                     | 
+ | Protect  1.995%                        | 
+ | Other 19.674%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Raikou +4.960%                         | 
+ | Rotom +1.315%                          | 
+ | Rotom-Mow +1.019%                      | 
+ | Manectric +0.968%                      | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Galvantula                             | 
+ +----------------------------------------+ 
+ | Raw count: 9889                        | 
+ | Avg. weight: 0.436727518479            | 
+ | Viability Ceiling: 80                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Compound Eyes 88.591%                  | 
+ | Swarm  8.230%                          | 
+ | Unnerve  3.179%                        | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Focus Sash 73.101%                     | 
+ | Life Orb 11.989%                       | 
+ | Leftovers  5.325%                      | 
+ | Choice Specs  2.755%                   | 
+ | Sitrus Berry  0.943%                   | 
+ | Nothing  0.849%                        | 
+ | Choice Scarf  0.684%                   | 
+ | Other  4.355%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Timid:0/0/0/252/4/252 64.785%          | 
+ | Timid:4/0/0/252/0/252 13.267%          | 
+ | Timid:0/0/4/252/0/252  2.439%          | 
+ | Timid:0/0/0/252/0/252  2.350%          | 
+ | Hasty:0/4/0/252/0/252  1.747%          | 
+ | Modest:0/0/0/252/4/252  1.704%         | 
+ | Other 13.708%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Sticky Web 91.407%                     | 
+ | Bug Buzz 89.853%                       | 
+ | Thunder 74.346%                        | 
+ | Energy Ball 42.190%                    | 
+ | Giga Drain 30.113%                     | 
+ | Volt Switch 16.867%                    | 
+ | Thunder Wave 12.574%                   | 
+ | Thunderbolt  8.326%                    | 
+ | Hidden Power Ice  6.957%               | 
+ | Toxic  3.977%                          | 
+ | Discharge  3.358%                      | 
+ | Signal Beam  2.670%                    | 
+ | Other 17.360%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Thundurus-Therian +0.606%              | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Raikou                                 | 
+ +----------------------------------------+ 
+ | Raw count: 6327                        | 
+ | Avg. weight: 0.541928990102            | 
+ | Viability Ceiling: 87                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Pressure 100.000%                      | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 40.389%                      | 
+ | Choice Specs 26.974%                   | 
+ | Life Orb  9.128%                       | 
+ | Assault Vest  8.009%                   | 
+ | Choice Scarf  5.775%                   | 
+ | Air Balloon  3.007%                    | 
+ | Expert Belt  1.399%                    | 
+ | Rocky Helmet  1.296%                   | 
+ | Other  4.024%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Timid:0/0/0/252/4/252 49.777%          | 
+ | Timid:0/0/4/252/0/252 11.570%          | 
+ | Rash:0/0/0/252/4/252  9.106%           | 
+ | Timid:4/0/0/252/0/252  5.759%          | 
+ | Rash:4/0/0/252/0/252  3.844%           | 
+ | Modest:0/0/0/252/4/252  2.457%         | 
+ | Other 17.487%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Thunderbolt 81.902%                    | 
+ | Hidden Power Ice 63.001%               | 
+ | Calm Mind 46.147%                      | 
+ | Volt Switch 44.198%                    | 
+ | Extrasensory 44.091%                   | 
+ | Shadow Ball 30.208%                    | 
+ | Substitute 29.819%                     | 
+ | Aura Sphere 17.013%                    | 
+ | Hidden Power Grass  6.281%             | 
+ | Discharge  6.165%                      | 
+ | Signal Beam  5.341%                    | 
+ | Thunder  3.169%                        | 
+ | Extreme Speed  3.122%                  | 
+ | Other 19.541%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Ampharos-Mega +6.743%                  | 
+ | Zapdos +4.813%                         | 
+ | Thundurus +2.207%                      | 
+ | Rotom-Wash +0.665%                     | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Luxray                                 | 
+ +----------------------------------------+ 
+ | Raw count: 6957                        | 
+ | Avg. weight: 0.426422114212            | 
+ | Viability Ceiling: 82                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Guts 54.625%                           | 
+ | Intimidate 40.726%                     | 
+ | Rivalry  4.649%                        | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Choice Band 36.989%                    | 
+ | Flame Orb 19.766%                      | 
+ | Choice Scarf 11.982%                   | 
+ | Leftovers  7.087%                      | 
+ | Toxic Orb  5.357%                      | 
+ | Life Orb  5.155%                       | 
+ | Sitrus Berry  3.353%                   | 
+ | Assault Vest  2.196%                   | 
+ | Focus Sash  1.835%                     | 
+ | Air Balloon  1.349%                    | 
+ | Other  4.932%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Jolly:0/252/0/0/4/252 25.639%          | 
+ | Adamant:252/252/0/0/4/0 20.416%        | 
+ | Adamant:0/252/4/0/0/252  7.466%        | 
+ | Adamant:0/252/0/0/4/252  5.354%        | 
+ | Jolly:4/252/0/0/0/252  4.616%          | 
+ | Adamant:58/150/148/0/150/0  2.930%     | 
+ | Other 33.580%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Wild Charge 82.935%                    | 
+ | Crunch 65.698%                         | 
+ | Superpower 61.613%                     | 
+ | Ice Fang 52.041%                       | 
+ | Quick Attack 26.487%                   | 
+ | Fire Fang 22.131%                      | 
+ | Facade 21.869%                         | 
+ | Volt Switch 17.205%                    | 
+ | Thunder Wave  6.557%                   | 
+ | Night Slash  6.550%                    | 
+ | Protect  5.693%                        | 
+ | Thunder Fang  4.829%                   | 
+ | Thunderbolt  4.094%                    | 
+ | Electric Terrain  2.949%               | 
+ | Other 19.349%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Rotom-Fan +0.966%                      | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Jolteon                                | 
+ +----------------------------------------+ 
+ | Raw count: 5682                        | 
+ | Avg. weight: 0.338178429303            | 
+ | Viability Ceiling: 76                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Volt Absorb 82.269%                    | 
+ | Quick Feet 17.731%                     | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Choice Specs 39.816%                   | 
+ | Life Orb 19.017%                       | 
+ | Leftovers 11.992%                      | 
+ | Choice Scarf  6.231%                   | 
+ | Focus Sash  6.185%                     | 
+ | Air Balloon  4.443%                    | 
+ | Assault Vest  1.947%                   | 
+ | Sitrus Berry  1.425%                   | 
+ | Expert Belt  1.298%                    | 
+ | Flame Orb  1.081%                      | 
+ | Magnet  0.804%                         | 
+ | Wise Glasses  0.720%                   | 
+ | Zap Plate  0.652%                      | 
+ | Other  4.388%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Timid:0/0/0/252/4/252 48.178%          | 
+ | Timid:4/0/0/252/0/252 13.078%          | 
+ | Modest:0/0/0/252/4/252  6.782%         | 
+ | Modest:4/0/0/252/0/252  6.062%         | 
+ | Timid:0/0/0/252/0/252  2.100%          | 
+ | Timid:0/0/4/252/0/252  1.972%          | 
+ | Other 21.828%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Thunderbolt 76.151%                    | 
+ | Shadow Ball 71.585%                    | 
+ | Volt Switch 62.426%                    | 
+ | Hidden Power Ice 52.643%               | 
+ | Signal Beam 35.299%                    | 
+ | Hyper Voice 11.595%                    | 
+ | Thunder  9.153%                        | 
+ | Wish  8.377%                           | 
+ | Thunder Wave  8.232%                   | 
+ | Hidden Power Grass  7.684%             | 
+ | Substitute  5.966%                     | 
+ | Discharge  5.843%                      | 
+ | Baton Pass  5.171%                     | 
+ | Heal Bell  4.009%                      | 
+ | Protect  3.949%                        | 
+ | Toxic  3.360%                          | 
+ | Hidden Power Fire  3.200%              | 
+ | Charge Beam  2.816%                    | 
+ | Magnet Rise  1.975%                    | 
+ | Agility  1.951%                        | 
+ | Other 18.617%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Raichu +3.136%                         | 
+ | Eelektross +1.805%                     | 
+ | Electrode +1.041%                      | 
+ | Ampharos +0.796%                       | 
+ | Rotom-Fan +0.736%                      | 
+ | Pachirisu +0.504%                      | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Lanturn                                | 
+ +----------------------------------------+ 
+ | Raw count: 5143                        | 
+ | Avg. weight: 0.247054803116            | 
+ | Viability Ceiling: 71                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Volt Absorb 61.449%                    | 
+ | Water Absorb 38.494%                   | 
+ | Illuminate  0.057%                     | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 46.065%                      | 
+ | Assault Vest 10.016%                   | 
+ | Chesto Berry  9.695%                   | 
+ | Air Balloon  9.431%                    | 
+ | Sitrus Berry  6.659%                   | 
+ | Choice Specs  2.698%                   | 
+ | Choice Scarf  2.543%                   | 
+ | Maranga Berry  2.473%                  | 
+ | Rocky Helmet  1.683%                   | 
+ | Life Orb  1.593%                       | 
+ | Mystic Water  1.387%                   | 
+ | Focus Sash  1.003%                     | 
+ | Other  4.753%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Modest:252/0/0/252/4/0 29.450%         | 
+ | Bold:252/0/252/4/0/0  6.908%           | 
+ | Calm:252/0/0/4/252/0  5.551%           | 
+ | Modest:0/0/228/252/28/0  3.822%        | 
+ | Calm:252/0/0/0/252/4  2.473%           | 
+ | Bold:252/0/252/0/4/0  2.038%           | 
+ | Other 49.759%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Scald 71.532%                          | 
+ | Ice Beam 45.961%                       | 
+ | Heal Bell 35.524%                      | 
+ | Volt Switch 28.027%                    | 
+ | Thunderbolt 23.174%                    | 
+ | Toxic 21.156%                          | 
+ | Discharge 20.354%                      | 
+ | Dazzling Gleam 20.228%                 | 
+ | Rest 14.054%                           | 
+ | Thunder Wave 13.532%                   | 
+ | Stockpile 11.793%                      | 
+ | Surf 10.879%                           | 
+ | Hydro Pump 10.481%                     | 
+ | Protect  8.380%                        | 
+ | Soak  6.985%                           | 
+ | Thunder  6.358%                        | 
+ | Rain Dance  5.549%                     | 
+ | Confuse Ray  5.096%                    | 
+ | Signal Beam  4.948%                    | 
+ | Aqua Ring  4.757%                      | 
+ | Blizzard  3.804%                       | 
+ | Charge Beam  3.664%                    | 
+ | Icy Wind  2.574%                       | 
+ | Hidden Power Grass  2.493%             | 
+ | Other 18.697%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Rotom +7.126%                          | 
+ | Rotom-Heat +6.971%                     | 
+ | Heliolisk +6.149%                      | 
+ | Emolga +4.918%                         | 
+ | Rotom-Frost +4.464%                    | 
+ | Dedenne +3.370%                        | 
+ | Manectric +1.863%                      | 
+ | Rotom-Mow +1.168%                      | 
+ | Raichu +0.903%                         | 
+ | Electrode +0.873%                      | 
+ | Thundurus-Therian +0.644%              | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Heliolisk                              | 
+ +----------------------------------------+ 
+ | Raw count: 4381                        | 
+ | Avg. weight: 0.30266668337             | 
+ | Viability Ceiling: 79                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Dry Skin 85.416%                       | 
+ | Sand Veil 10.319%                      | 
+ | Solar Power  4.265%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Choice Specs 43.438%                   | 
+ | Life Orb 15.601%                       | 
+ | Focus Sash 13.034%                     | 
+ | Leftovers  8.057%                      | 
+ | Choice Scarf  5.009%                   | 
+ | Assault Vest  2.747%                   | 
+ | Sitrus Berry  2.296%                   | 
+ | Air Balloon  2.063%                    | 
+ | Rocky Helmet  1.105%                   | 
+ | Petaya Berry  0.965%                   | 
+ | BrightPowder  0.816%                   | 
+ | Other  4.868%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Timid:0/0/0/252/4/252 62.196%          | 
+ | Timid:0/0/0/252/0/252  9.993%          | 
+ | Timid:4/0/0/252/0/252  7.351%          | 
+ | Hardy:0/0/0/0/0/0  2.897%              | 
+ | Modest:0/0/0/252/4/252  2.331%         | 
+ | Modest:0/0/0/252/0/252  1.926%         | 
+ | Other 13.306%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Thunderbolt 56.452%                    | 
+ | Surf 55.761%                           | 
+ | Volt Switch 51.176%                    | 
+ | Hyper Voice 50.076%                    | 
+ | Grass Knot 31.614%                     | 
+ | Dark Pulse 23.659%                     | 
+ | Dragon Pulse 22.292%                   | 
+ | Focus Blast 21.893%                    | 
+ | Thunder 16.238%                        | 
+ | Rain Dance 11.211%                     | 
+ | Hidden Power Ice  9.478%               | 
+ | Glare  7.811%                          | 
+ | Parabolic Charge  6.237%               | 
+ | Electric Terrain  5.557%               | 
+ | Thunder Wave  5.441%                   | 
+ | Hidden Power Grass  2.532%             | 
+ | Dragon Tail  2.334%                    | 
+ | U-turn  1.716%                         | 
+ | Other 18.521%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Lanturn +6.700%                        | 
+ | Rotom +6.369%                          | 
+ | Thundurus-Therian +3.502%              | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Stunfisk                               | 
+ +----------------------------------------+ 
+ | Raw count: 2497                        | 
+ | Avg. weight: 0.572655422596            | 
+ | Viability Ceiling: 87                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Static 95.103%                         | 
+ | Sand Veil  3.717%                      | 
+ | Limber  1.179%                         | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 56.441%                      | 
+ | Rocky Helmet 22.000%                   | 
+ | Sitrus Berry  3.596%                   | 
+ | Assault Vest  3.155%                   | 
+ | Air Balloon  3.114%                    | 
+ | BrightPowder  2.574%                   | 
+ | Passho Berry  2.104%                   | 
+ | Focus Sash  1.405%                     | 
+ | Red Card  1.042%                       | 
+ | Other  4.570%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Bold:252/0/196/0/60/0 14.369%          | 
+ | Bold:252/0/252/0/4/0 12.402%           | 
+ | Bold:252/0/252/4/0/0  9.647%           | 
+ | Calm:252/0/0/4/252/0  8.949%           | 
+ | Modest:252/0/0/252/4/0  6.973%         | 
+ | Calm:252/0/4/0/252/0  6.628%           | 
+ | Other 41.033%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Stealth Rock 85.412%                   | 
+ | Earth Power 58.883%                    | 
+ | Toxic 55.901%                          | 
+ | Discharge 38.586%                      | 
+ | Pain Split 33.736%                     | 
+ | Scald 27.794%                          | 
+ | Foul Play 24.204%                      | 
+ | Thunderbolt 11.917%                    | 
+ | Yawn  8.161%                           | 
+ | Earthquake  7.927%                     | 
+ | Thunder Wave  5.650%                   | 
+ | Sludge Bomb  5.235%                    | 
+ | Stone Edge  3.786%                     | 
+ | Protect  3.521%                        | 
+ | Aqua Tail  3.125%                      | 
+ | Infestation  2.803%                    | 
+ | Sludge Wave  2.553%                    | 
+ | Rock Tomb  2.031%                      | 
+ | Other 18.775%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Rotom-Mow +4.479%                      | 
+ | Rotom-Frost +1.339%                    | 
+ | Magnemite +0.809%                      | 
+ | Thundurus +0.717%                      | 
+ | Emolga +0.566%                         | 
+ | Eelektrik +0.530%                      | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Thundurus-Therian                      | 
+ +----------------------------------------+ 
+ | Raw count: 2834                        | 
+ | Avg. weight: 0.442025295968            | 
+ | Viability Ceiling: 75                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Volt Absorb 100.000%                   | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Choice Scarf 22.887%                   | 
+ | Life Orb 21.864%                       | 
+ | Leftovers 21.362%                      | 
+ | Choice Specs 11.691%                   | 
+ | Focus Sash  8.858%                     | 
+ | Assault Vest  3.427%                   | 
+ | Wide Lens  1.218%                      | 
+ | Sitrus Berry  1.139%                   | 
+ | Expert Belt  1.051%                    | 
+ | Lum Berry  0.972%                      | 
+ | Charti Berry  0.610%                   | 
+ | Other  4.922%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Timid:0/0/0/252/4/252 38.512%          | 
+ | Modest:0/0/0/252/4/252 13.635%         | 
+ | Timid:4/0/0/252/0/252  7.717%          | 
+ | Modest:4/0/0/252/0/252  7.577%         | 
+ | Hasty:4/0/0/252/0/252  5.156%          | 
+ | Modest:0/0/0/252/0/252  3.114%         | 
+ | Other 24.289%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Thunderbolt 73.764%                    | 
+ | Hidden Power Ice 40.132%               | 
+ | Focus Blast 38.805%                    | 
+ | Nasty Plot 32.266%                     | 
+ | Volt Switch 28.941%                    | 
+ | Dark Pulse 24.077%                     | 
+ | Flash Cannon 21.517%                   | 
+ | Grass Knot 21.416%                     | 
+ | Psychic 21.371%                        | 
+ | Sludge Wave 14.940%                    | 
+ | Agility 13.816%                        | 
+ | Sludge Bomb 11.403%                    | 
+ | Knock Off  8.205%                      | 
+ | Hidden Power Flying  6.985%            | 
+ | Discharge  5.818%                      | 
+ | Thunder  4.877%                        | 
+ | Thunder Wave  3.263%                   | 
+ | U-turn  3.150%                         | 
+ | Superpower  2.393%                     | 
+ | Brick Break  2.240%                    | 
+ | Substitute  2.091%                     | 
+ | Other 18.528%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Heliolisk +4.644%                      | 
+ | Rotom-Frost +3.694%                    | 
+ | Dedenne +2.947%                        | 
+ | Galvantula +1.659%                     | 
+ | Rotom-Heat +1.313%                     | 
+ | Lanturn +1.242%                        | 
+ | Pikachu +1.080%                        | 
+ | Electrode +1.015%                      | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Raichu                                 | 
+ +----------------------------------------+ 
+ | Raw count: 2639                        | 
+ | Avg. weight: 0.316387132286            | 
+ | Viability Ceiling: 73                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Static 61.351%                         | 
+ | Lightning Rod 38.649%                  | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Focus Sash 31.508%                     | 
+ | Life Orb 22.926%                       | 
+ | Air Balloon 11.859%                    | 
+ | Leftovers  9.778%                      | 
+ | Assault Vest  6.353%                   | 
+ | Choice Specs  3.162%                   | 
+ | Sitrus Berry  2.163%                   | 
+ | Choice Band  2.156%                    | 
+ | Choice Scarf  1.977%                   | 
+ | Wide Lens  1.534%                      | 
+ | Zap Plate  1.289%                      | 
+ | Rocky Helmet  0.890%                   | 
+ | Other  4.408%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Timid:0/0/0/252/4/252 24.987%          | 
+ | Jolly:0/252/0/0/4/252 11.845%          | 
+ | Timid:4/0/0/252/0/252 10.147%          | 
+ | Hasty:0/4/0/252/0/252  8.187%          | 
+ | Jolly:4/252/0/0/0/252  4.995%          | 
+ | Hasty:0/252/0/4/0/252  4.975%          | 
+ | Other 34.865%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Thunderbolt 45.747%                    | 
+ | Nasty Plot 28.697%                     | 
+ | Focus Blast 27.238%                    | 
+ | Grass Knot 26.416%                     | 
+ | Fake Out 24.483%                       | 
+ | Nuzzle 24.208%                         | 
+ | Knock Off 23.362%                      | 
+ | Volt Tackle 22.060%                    | 
+ | Hidden Power Ice 20.562%               | 
+ | Volt Switch 17.840%                    | 
+ | Encore 14.457%                         | 
+ | Brick Break 11.893%                    | 
+ | Surf 11.305%                           | 
+ | Quick Attack  9.463%                   | 
+ | Thunder  9.341%                        | 
+ | Electro Ball  8.726%                   | 
+ | Iron Tail  6.562%                      | 
+ | Extreme Speed  6.429%                  | 
+ | Thunder Punch  5.836%                  | 
+ | Discharge  4.289%                      | 
+ | Endeavor  4.090%                       | 
+ | Agility  3.852%                        | 
+ | Hidden Power Fire  3.758%              | 
+ | Focus Punch  3.587%                    | 
+ | Thunder Wave  3.448%                   | 
+ | Signal Beam  3.437%                    | 
+ | Return  2.565%                         | 
+ | Toxic  2.460%                          | 
+ | Protect  2.179%                        | 
+ | Wild Charge  2.150%                    | 
+ | Other 19.562%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Electrode +7.157%                      | 
+ | Jolteon +6.910%                        | 
+ | Rotom-Fan +3.682%                      | 
+ | Electabuzz +3.272%                     | 
+ | Electivire +2.717%                     | 
+ | Magneton +2.442%                       | 
+ | Lanturn +1.842%                        | 
+ | Pachirisu +1.452%                      | 
+ | Zebstrika +1.423%                      | 
+ | Eelektrik +1.343%                      | 
+ | Ampharos +1.319%                       | 
+ | Manectric +1.282%                      | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Rotom-Mow                              | 
+ +----------------------------------------+ 
+ | Raw count: 1839                        | 
+ | Avg. weight: 0.542919540504            | 
+ | Viability Ceiling: 81                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Levitate 100.000%                      | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Choice Scarf 54.030%                   | 
+ | Leftovers 19.841%                      | 
+ | Choice Specs  7.398%                   | 
+ | Sitrus Berry  4.674%                   | 
+ | Rocky Helmet  3.035%                   | 
+ | Assault Vest  3.004%                   | 
+ | Occa Berry  2.399%                     | 
+ | Life Orb  0.725%                       | 
+ | Other  4.894%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Timid:0/0/0/252/4/252 33.220%          | 
+ | Modest:0/0/0/252/4/252  8.992%         | 
+ | Timid:0/0/0/252/8/248  6.871%          | 
+ | Calm:252/0/0/4/252/0  4.613%           | 
+ | Bold:252/0/252/4/0/0  3.816%           | 
+ | Timid:4/0/0/252/0/252  3.601%          | 
+ | Other 38.887%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Leaf Storm 97.453%                     | 
+ | Volt Switch 66.208%                    | 
+ | Will-O-Wisp 65.889%                    | 
+ | Trick 49.691%                          | 
+ | Thunderbolt 26.402%                    | 
+ | Hidden Power Ice 17.656%               | 
+ | Pain Split 15.127%                     | 
+ | Discharge 14.229%                      | 
+ | Dark Pulse  8.559%                     | 
+ | Shadow Ball  7.096%                    | 
+ | Hex  6.672%                            | 
+ | Thunder Wave  3.409%                   | 
+ | Hidden Power Ground  2.597%            | 
+ | Other 19.011%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Eelektross +17.606%                    | 
+ | Thundurus +7.042%                      | 
+ | Stunfisk +6.143%                       | 
+ | Ampharos-Mega +5.301%                  | 
+ | Lanturn +2.694%                        | 
+ | Emolga +2.232%                         | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Rotom-Heat                             | 
+ +----------------------------------------+ 
+ | Raw count: 1934                        | 
+ | Avg. weight: 0.350247724406            | 
+ | Viability Ceiling: 72                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Levitate 100.000%                      | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 52.196%                      | 
+ | Choice Scarf 14.010%                   | 
+ | Rocky Helmet 11.004%                   | 
+ | Flame Orb  5.400%                      | 
+ | Choice Specs  4.056%                   | 
+ | Sitrus Berry  1.973%                   | 
+ | Life Orb  1.775%                       | 
+ | Light Clay  1.626%                     | 
+ | Absorb Bulb  1.158%                    | 
+ | Focus Sash  1.044%                     | 
+ | Assault Vest  1.032%                   | 
+ | Other  4.725%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Timid:0/0/0/252/4/252 11.653%          | 
+ | Calm:252/0/0/4/252/0 10.824%           | 
+ | Modest:248/0/0/252/8/0  7.214%         | 
+ | Bold:252/0/252/0/4/0  6.157%           | 
+ | Bold:252/0/252/4/0/0  5.984%           | 
+ | Calm:248/0/0/8/252/0  4.735%           | 
+ | Other 53.434%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Overheat 86.913%                       | 
+ | Will-O-Wisp 68.376%                    | 
+ | Volt Switch 58.558%                    | 
+ | Pain Split 50.287%                     | 
+ | Thunderbolt 20.909%                    | 
+ | Trick 18.141%                          | 
+ | Dark Pulse 14.706%                     | 
+ | Shadow Ball  9.999%                    | 
+ | Discharge  9.605%                      | 
+ | Hex  8.108%                            | 
+ | Toxic  7.870%                          | 
+ | Thunder Wave  6.682%                   | 
+ | Protect  4.516%                        | 
+ | Light Screen  3.901%                   | 
+ | Confuse Ray  3.749%                    | 
+ | Hidden Power Grass  3.564%             | 
+ | Thunder  3.316%                        | 
+ | Hidden Power Ice  2.813%               | 
+ | Other 17.988%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Lanturn +16.233%                       | 
+ | Eelektross +5.004%                     | 
+ | Manectric +3.880%                      | 
+ | Magneton +2.328%                       | 
+ | Thundurus-Therian +2.217%              | 
+ | Emolga +1.935%                         | 
+ | Electivire +1.526%                     | 
+ | Magnemite +1.520%                      | 
+ | Eelektrik +1.172%                      | 
+ | Pachirisu +0.679%                      | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Pikachu                                | 
+ +----------------------------------------+ 
+ | Raw count: 2179                        | 
+ | Avg. weight: 0.263313572628            | 
+ | Viability Ceiling: 85                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Lightning Rod 59.408%                  | 
+ | Static 40.592%                         | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Light Ball 81.288%                     | 
+ | Focus Sash  4.860%                     | 
+ | Eviolite  3.879%                       | 
+ | Choice Scarf  2.188%                   | 
+ | Leftovers  1.986%                      | 
+ | Nothing  1.033%                        | 
+ | Other  4.765%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Jolly:0/252/0/0/4/252 31.190%          | 
+ | Hasty:0/252/0/4/0/252  9.905%          | 
+ | Timid:0/0/0/252/4/252  5.975%          | 
+ | Hasty:0/4/0/252/0/252  5.008%          | 
+ | Hasty:0/128/0/128/0/252  3.863%        | 
+ | Adamant:4/252/0/0/0/252  3.180%        | 
+ | Other 40.879%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Volt Tackle 49.980%                    | 
+ | Fake Out 38.326%                       | 
+ | Knock Off 36.806%                      | 
+ | Grass Knot 25.670%                     | 
+ | Volt Switch 24.181%                    | 
+ | Quick Attack 19.295%                   | 
+ | Thunderbolt 19.100%                    | 
+ | Nuzzle 17.484%                         | 
+ | Iron Tail 16.564%                      | 
+ | Brick Break 16.077%                    | 
+ | Icicle Crash 12.126%                   | 
+ | Thunder Punch 11.859%                  | 
+ | Hidden Power Ice 10.297%               | 
+ | Wild Charge  9.783%                    | 
+ | Thunder  9.659%                        | 
+ | Discharge  6.060%                      | 
+ | Electro Ball  5.901%                   | 
+ | Extreme Speed  5.801%                  | 
+ | Flying Press  5.656%                   | 
+ | Agility  4.766%                        | 
+ | Nasty Plot  4.295%                     | 
+ | Focus Punch  4.181%                    | 
+ | Thunder Wave  4.081%                   | 
+ | Signal Beam  3.776%                    | 
+ | Toxic  2.883%                          | 
+ | Encore  2.796%                         | 
+ | Surf  2.260%                           | 
+ | Body Slam  2.213%                      | 
+ | Substitute  2.181%                     | 
+ | Hidden Power Grass  1.861%             | 
+ | Protect  1.801%                        | 
+ | Magnet Rise  1.710%                    | 
+ | Feint  1.433%                          | 
+ | Other 19.137%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Dedenne +5.483%                        | 
+ | Emolga +4.863%                         | 
+ | Pachirisu +4.272%                      | 
+ | Plusle +3.578%                         | 
+ | Minun +2.985%                          | 
+ | Electrode +2.826%                      | 
+ | Thundurus-Therian +1.592%              | 
+ | Electabuzz +1.422%                     | 
+ | Eelektrik +1.176%                      | 
+ | Rotom +0.738%                          | 
+ | Ampharos +0.700%                       | 
+ | Magneton +0.664%                       | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Dedenne                                | 
+ +----------------------------------------+ 
+ | Raw count: 2113                        | 
+ | Avg. weight: 0.211522461113            | 
+ | Viability Ceiling: 70                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Cheek Pouch 97.690%                    | 
+ | Pickup  1.444%                         | 
+ | Plus  0.866%                           | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Sitrus Berry 54.518%                   | 
+ | Petaya Berry 12.116%                   | 
+ | Kee Berry  8.052%                      | 
+ | Liechi Berry  7.614%                   | 
+ | Starf Berry  2.749%                    | 
+ | Ganlon Berry  2.137%                   | 
+ | Leftovers  2.021%                      | 
+ | Shuca Berry  1.855%                    | 
+ | Nothing  1.321%                        | 
+ | Focus Sash  1.240%                     | 
+ | Salac Berry  1.146%                    | 
+ | Choice Scarf  0.887%                   | 
+ | Other  4.346%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Jolly:252/0/4/0/0/252 13.142%          | 
+ | Timid:4/0/0/252/0/252  7.718%          | 
+ | Hasty:0/4/0/252/0/252  6.923%          | 
+ | Jolly:0/252/0/0/4/252  5.609%          | 
+ | Hardy:0/0/0/0/0/0  3.731%              | 
+ | Hasty:252/4/0/0/0/252  2.665%          | 
+ | Other 60.211%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Nuzzle 54.535%                         | 
+ | Recycle 53.488%                        | 
+ | Play Rough 42.797%                     | 
+ | Charm 33.408%                          | 
+ | Thunderbolt 24.393%                    | 
+ | Super Fang 19.960%                     | 
+ | Parabolic Charge 17.412%               | 
+ | Substitute 17.400%                     | 
+ | Grass Knot 17.354%                     | 
+ | Eerie Impulse 15.277%                  | 
+ | Toxic 14.842%                          | 
+ | Volt Switch 12.500%                    | 
+ | Charge 11.744%                         | 
+ | Discharge  8.727%                      | 
+ | Signal Beam  7.663%                    | 
+ | U-turn  7.354%                         | 
+ | Protect  5.914%                        | 
+ | Charge Beam  5.421%                    | 
+ | Hidden Power Ice  4.144%               | 
+ | Thunder  3.424%                        | 
+ | Thunder Punch  2.866%                  | 
+ | Other 19.377%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Lanturn +9.258%                        | 
+ | Rotom-Frost +8.548%                    | 
+ | Emolga +7.644%                         | 
+ | Pachirisu +6.604%                      | 
+ | Pikachu +6.474%                        | 
+ | Thundurus-Therian +5.711%              | 
+ | Plusle +4.364%                         | 
+ | Ampharos +3.717%                       | 
+ | Electrode +3.597%                      | 
+ | Minun +2.702%                          | 
+ | Pichu +1.399%                          | 
+ | Zebstrika +1.045%                      | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Electrode                              | 
+ +----------------------------------------+ 
+ | Raw count: 1776                        | 
+ | Avg. weight: 0.213383417808            | 
+ | Viability Ceiling: 67                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Aftermath 54.800%                      | 
+ | Soundproof 30.468%                     | 
+ | Static 14.732%                         | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Focus Sash 24.702%                     | 
+ | Life Orb 12.914%                       | 
+ | Rocky Helmet 12.645%                   | 
+ | Air Balloon  9.596%                    | 
+ | Choice Specs  8.595%                   | 
+ | Leftovers  5.397%                      | 
+ | Normal Gem  5.303%                     | 
+ | Magnet  3.389%                         | 
+ | Choice Band  3.183%                    | 
+ | Sitrus Berry  3.089%                   | 
+ | Choice Scarf  2.336%                   | 
+ | Nothing  2.135%                        | 
+ | Assault Vest  2.073%                   | 
+ | Other  4.643%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Timid:0/0/0/252/4/252 20.510%          | 
+ | Modest:4/0/0/252/0/252 10.016%         | 
+ | Hasty:0/4/0/252/0/252  8.915%          | 
+ | Timid:0/0/0/252/0/252  6.754%          | 
+ | Jolly:252/4/0/0/0/252  6.727%          | 
+ | Jolly:0/252/0/0/4/252  4.560%          | 
+ | Other 42.519%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Volt Switch 52.988%                    | 
+ | Taunt 49.514%                          | 
+ | Explosion 34.700%                      | 
+ | Thunderbolt 34.440%                    | 
+ | Signal Beam 26.557%                    | 
+ | Thunder Wave 26.395%                   | 
+ | Hidden Power Ice 22.426%               | 
+ | Toxic 16.207%                          | 
+ | Thunder 15.727%                        | 
+ | Discharge 13.115%                      | 
+ | Foul Play 12.398%                      | 
+ | Magic Coat 11.478%                     | 
+ | Magnet Rise 10.397%                    | 
+ | Electro Ball  9.755%                   | 
+ | Nothing  9.453%                        | 
+ | Mirror Coat  7.611%                    | 
+ | Rain Dance  7.208%                     | 
+ | Light Screen  4.877%                   | 
+ | Protect  4.701%                        | 
+ | Hidden Power Grass  4.515%             | 
+ | Wild Charge  3.630%                    | 
+ | Charge Beam  2.728%                    | 
+ | Other 19.181%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Raichu +12.680%                        | 
+ | Electivire +7.076%                     | 
+ | Magneton +6.119%                       | 
+ | Rotom-Fan +4.241%                      | 
+ | Dedenne +4.151%                        | 
+ | Jolteon +4.073%                        | 
+ | Pikachu +3.867%                        | 
+ | Lanturn +2.987%                        | 
+ | Thundurus-Therian +2.264%              | 
+ | Emolga +2.040%                         | 
+ | Luxray +1.795%                         | 
+ | Electabuzz +1.688%                     | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Magneton                               | 
+ +----------------------------------------+ 
+ | Raw count: 1345                        | 
+ | Avg. weight: 0.334852578862            | 
+ | Viability Ceiling: 70                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Analytic 42.965%                       | 
+ | Sturdy 42.785%                         | 
+ | Magnet Pull 14.249%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Eviolite 80.063%                       | 
+ | Choice Scarf 11.244%                   | 
+ | Choice Specs  2.261%                   | 
+ | Focus Sash  1.294%                     | 
+ | Custap Berry  1.288%                   | 
+ | Other  3.850%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Modest:248/0/0/252/8/0 23.983%         | 
+ | Timid:0/0/0/252/4/252 11.207%          | 
+ | Lax:248/8/252/0/0/0  6.794%            | 
+ | Bold:248/0/252/8/0/0  4.748%           | 
+ | Modest:4/0/0/252/0/252  3.664%         | 
+ | Calm:252/0/72/0/184/0  3.183%          | 
+ | Other 46.420%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Flash Cannon 88.068%                   | 
+ | Thunderbolt 61.380%                    | 
+ | Volt Switch 36.684%                    | 
+ | Thunder Wave 24.994%                   | 
+ | Toxic 24.319%                          | 
+ | Tri Attack 16.829%                     | 
+ | Hidden Power Ice 15.739%               | 
+ | Hidden Power Fire 15.656%              | 
+ | Protect 12.584%                        | 
+ | Explosion 10.963%                      | 
+ | Discharge 10.538%                      | 
+ | Magnet Rise  9.103%                    | 
+ | Electric Terrain  7.923%               | 
+ | Hidden Power Grass  7.672%             | 
+ | Light Screen  6.150%                   | 
+ | Signal Beam  6.150%                    | 
+ | Reflect  5.676%                        | 
+ | Thunder  4.928%                        | 
+ | Charge Beam  4.421%                    | 
+ | Magic Coat  4.096%                     | 
+ | Rest  4.070%                           | 
+ | Substitute  4.041%                     | 
+ | Other 18.016%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Electrode +6.512%                      | 
+ | Raichu +4.696%                         | 
+ | Electabuzz +3.950%                     | 
+ | Rotom-Heat +3.400%                     | 
+ | Rotom-Fan +2.826%                      | 
+ | Zebstrika +2.458%                      | 
+ | Eelektrik +1.726%                      | 
+ | Ampharos +1.566%                       | 
+ | Pikachu +1.150%                        | 
+ | Pichu +0.910%                          | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Emolga                                 | 
+ +----------------------------------------+ 
+ | Raw count: 1522                        | 
+ | Avg. weight: 0.215303674674            | 
+ | Viability Ceiling: 73                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Motor Drive 55.901%                    | 
+ | Static 44.099%                         | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 24.674%                      | 
+ | Focus Sash 17.838%                     | 
+ | Sitrus Berry 13.471%                   | 
+ | Nothing  9.457%                        | 
+ | Choice Scarf  6.202%                   | 
+ | Life Orb  4.370%                       | 
+ | Assault Vest  3.141%                   | 
+ | Choice Specs  2.894%                   | 
+ | Wise Glasses  2.784%                   | 
+ | King's Rock  2.038%                    | 
+ | Lum Berry  1.899%                      | 
+ | Charti Berry  1.825%                   | 
+ | Rocky Helmet  1.458%                   | 
+ | Light Clay  1.252%                     | 
+ | Choice Band  1.039%                    | 
+ | Magnet  0.873%                         | 
+ | Other  4.785%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Timid:252/0/0/4/0/252 15.836%          | 
+ | Modest:0/0/0/252/4/252  8.926%         | 
+ | Timid:0/0/0/252/4/252  7.313%          | 
+ | Modest:4/0/0/252/0/252  4.929%         | 
+ | Hasty:0/4/0/252/0/252  4.620%          | 
+ | Jolly:0/252/0/0/4/252  4.590%          | 
+ | Other 53.786%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Air Slash 49.215%                      | 
+ | Encore 32.698%                         | 
+ | Volt Switch 31.987%                    | 
+ | Nuzzle 30.664%                         | 
+ | Taunt 24.953%                          | 
+ | U-turn 19.698%                         | 
+ | Knock Off 19.083%                      | 
+ | Discharge 18.556%                      | 
+ | Roost 17.909%                          | 
+ | Acrobatics 16.615%                     | 
+ | Thunderbolt 16.422%                    | 
+ | Substitute 14.380%                     | 
+ | Thunder Wave 13.331%                   | 
+ | Baton Pass 10.535%                     | 
+ | Signal Beam  9.804%                    | 
+ | Electro Ball  9.489%                   | 
+ | Agility  6.997%                        | 
+ | Hidden Power Ice  5.453%               | 
+ | Charge Beam  5.429%                    | 
+ | Tailwind  5.352%                       | 
+ | Iron Tail  4.863%                      | 
+ | Thunder  4.575%                        | 
+ | Toxic  4.185%                          | 
+ | Aerial Ace  3.977%                     | 
+ | Attract  3.295%                        | 
+ | Hidden Power Grass  3.002%             | 
+ | Other 17.534%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Lanturn +17.054%                       | 
+ | Dedenne +9.576%                        | 
+ | Pachirisu +8.329%                      | 
+ | Pikachu +7.205%                        | 
+ | Minun +4.973%                          | 
+ | Plusle +4.870%                         | 
+ | Rotom-Mow +3.867%                      | 
+ | Rotom-Heat +2.757%                     | 
+ | Electrode +2.171%                      | 
+ | Ampharos +1.182%                       | 
+ | Raichu +0.886%                         | 
+ | Rotom +0.883%                          | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Zebstrika                              | 
+ +----------------------------------------+ 
+ | Raw count: 1124                        | 
+ | Avg. weight: 0.360685232852            | 
+ | Viability Ceiling: 76                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Sap Sipper 77.654%                     | 
+ | Lightning Rod 13.773%                  | 
+ | Motor Drive  8.573%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Choice Band 34.899%                    | 
+ | Life Orb 26.239%                       | 
+ | Leftovers 13.292%                      | 
+ | Sitrus Berry  2.717%                   | 
+ | Expert Belt  2.626%                    | 
+ | Assault Vest  2.469%                   | 
+ | Zap Plate  2.234%                      | 
+ | Air Balloon  2.176%                    | 
+ | Choice Scarf  1.922%                   | 
+ | Focus Sash  1.892%                     | 
+ | Rocky Helmet  1.560%                   | 
+ | Choice Specs  1.549%                   | 
+ | King's Rock  1.236%                    | 
+ | Toxic Orb  1.086%                      | 
+ | Other  4.103%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Jolly:0/252/0/0/4/252 20.588%          | 
+ | Hasty:4/252/0/0/0/252 10.711%          | 
+ | Timid:0/0/0/252/4/252 10.486%          | 
+ | Adamant:4/252/0/0/0/252 10.285%        | 
+ | Jolly:4/252/0/0/0/252  9.328%          | 
+ | Adamant:0/252/0/0/4/252  4.510%        | 
+ | Other 34.092%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Wild Charge 74.925%                    | 
+ | Flame Charge 67.404%                   | 
+ | Volt Switch 18.958%                    | 
+ | Bounce 18.512%                         | 
+ | Pursuit 18.509%                        | 
+ | Thrash 16.952%                         | 
+ | Thunderbolt 16.784%                    | 
+ | Overheat 16.620%                       | 
+ | Double-Edge 16.189%                    | 
+ | Double Kick 12.630%                    | 
+ | Hidden Power Grass 12.366%             | 
+ | Return 11.820%                         | 
+ | Me First 11.769%                       | 
+ | Facade 11.079%                         | 
+ | Hidden Power Ice  9.780%               | 
+ | Quick Attack  9.680%                   | 
+ | Thunder Wave  8.495%                   | 
+ | Giga Impact  7.496%                    | 
+ | Discharge  6.434%                      | 
+ | Agility  4.734%                        | 
+ | Signal Beam  3.377%                    | 
+ | Protect  3.206%                        | 
+ | Ion Deluge  2.887%                     | 
+ | Other 19.393%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Pachirisu +3.787%                      | 
+ | Raichu +3.109%                         | 
+ | Magneton +2.838%                       | 
+ | Rotom-Fan +1.772%                      | 
+ | Dedenne +1.565%                        | 
+ | Heliolisk +1.477%                      | 
+ | Ampharos +1.451%                       | 
+ | Pichu +0.974%                          | 
+ | Lanturn +0.651%                        | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Rotom-Frost                            | 
+ +----------------------------------------+ 
+ | Raw count: 828                         | 
+ | Avg. weight: 0.461341000494            | 
+ | Viability Ceiling: 73                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Levitate 100.000%                      | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 44.365%                      | 
+ | Choice Scarf 16.265%                   | 
+ | Choice Specs 12.581%                   | 
+ | Focus Sash  5.458%                     | 
+ | Assault Vest  4.549%                   | 
+ | Wide Lens  4.237%                      | 
+ | Expert Belt  2.154%                    | 
+ | Life Orb  1.997%                       | 
+ | Zoom Lens  1.793%                      | 
+ | Eviolite  1.398%                       | 
+ | Rocky Helmet  1.250%                   | 
+ | Other  3.954%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Modest:252/0/4/252/0/0 17.965%         | 
+ | Timid:0/0/0/252/4/252 14.202%          | 
+ | Modest:248/0/0/252/8/0 12.713%         | 
+ | Timid:4/0/0/252/0/252  6.808%          | 
+ | Modest:252/0/0/252/4/0  3.859%         | 
+ | Modest:0/0/100/252/100/56  3.745%      | 
+ | Other 40.707%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Blizzard 95.158%                       | 
+ | Volt Switch 59.162%                    | 
+ | Will-O-Wisp 48.847%                    | 
+ | Thunderbolt 29.963%                    | 
+ | Discharge 29.625%                      | 
+ | Pain Split 20.550%                     | 
+ | Shadow Ball 19.655%                    | 
+ | Trick 18.807%                          | 
+ | Hidden Power Grass 10.096%             | 
+ | Thunder Wave  9.512%                   | 
+ | Dark Pulse  9.382%                     | 
+ | Hidden Power Fire  5.928%              | 
+ | Hidden Power Ground  5.595%            | 
+ | Sucker Punch  5.330%                   | 
+ | Thunder  4.950%                        | 
+ | Foul Play  4.687%                      | 
+ | Hex  4.557%                            | 
+ | Other 18.195%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Lanturn +20.830%                       | 
+ | Dedenne +14.377%                       | 
+ | Thundurus-Therian +12.489%             | 
+ | Eelektross +6.649%                     | 
+ | Stunfisk +4.149%                       | 
+ | Ampharos-Mega +2.517%                  | 
+ | Electrode +1.308%                      | 
+ | Raichu +0.780%                         | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Rotom                                  | 
+ +----------------------------------------+ 
+ | Raw count: 1338                        | 
+ | Avg. weight: 0.130170118518            | 
+ | Viability Ceiling: 85                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Levitate 100.000%                      | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Choice Scarf 53.295%                   | 
+ | Leftovers 30.869%                      | 
+ | Choice Specs  6.143%                   | 
+ | Sitrus Berry  3.882%                   | 
+ | Choice Band  0.946%                    | 
+ | Other  4.864%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Timid:0/0/0/252/4/252 56.658%          | 
+ | Modest:252/0/0/252/4/0 18.139%         | 
+ | Timid:4/0/0/252/0/252  5.350%          | 
+ | Timid:252/0/4/0/0/252  3.137%          | 
+ | Timid:248/0/0/8/0/252  2.211%          | 
+ | Calm:252/0/0/4/252/0  2.118%           | 
+ | Other 12.386%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Shadow Ball 69.737%                    | 
+ | Volt Switch 65.318%                    | 
+ | Trick 60.550%                          | 
+ | Sucker Punch 35.182%                   | 
+ | Will-O-Wisp 33.748%                    | 
+ | Thunderbolt 30.721%                    | 
+ | Hex 26.475%                            | 
+ | Pain Split 25.776%                     | 
+ | Signal Beam 18.330%                    | 
+ | Dark Pulse  9.997%                     | 
+ | Discharge  5.518%                      | 
+ | Other 18.647%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Lanturn +34.101%                       | 
+ | Heliolisk +28.455%                     | 
+ | Electivire +24.265%                    | 
+ | Ampharos-Mega +14.887%                 | 
+ | Electrode +1.521%                      | 
+ | Pikachu +1.401%                        | 
+ | Emolga +1.168%                         | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Ampharos                               | 
+ +----------------------------------------+ 
+ | Raw count: 619                         | 
+ | Avg. weight: 0.263945650123            | 
+ | Viability Ceiling: 67                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Static 87.877%                         | 
+ | Plus 12.123%                           | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 41.821%                      | 
+ | Assault Vest 13.143%                   | 
+ | Sitrus Berry  9.217%                   | 
+ | Air Balloon  8.943%                    | 
+ | Light Clay  6.058%                     | 
+ | Rocky Helmet  4.778%                   | 
+ | Chesto Berry  3.130%                   | 
+ | Cell Battery  2.645%                   | 
+ | SilverPowder  1.617%                   | 
+ | Choice Specs  1.505%                   | 
+ | Magnet  1.422%                         | 
+ | Quick Claw  1.245%                     | 
+ | Other  4.478%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Modest:248/0/0/252/8/0 15.419%         | 
+ | Modest:252/0/0/4/252/0  9.663%         | 
+ | Modest:4/0/0/252/252/0  5.425%         | 
+ | Bold:0/0/252/0/252/0  5.205%           | 
+ | Modest:248/0/252/0/8/0  4.922%         | 
+ | Bold:252/0/252/0/4/0  4.020%           | 
+ | Other 55.346%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Cotton Guard 44.663%                   | 
+ | Thunderbolt 37.649%                    | 
+ | Dragon Pulse 32.992%                   | 
+ | Power Gem 27.081%                      | 
+ | Volt Switch 23.615%                    | 
+ | Charge Beam 20.963%                    | 
+ | Focus Blast 20.877%                    | 
+ | Toxic 18.615%                          | 
+ | Heal Bell 17.900%                      | 
+ | Signal Beam 14.371%                    | 
+ | Discharge 12.937%                      | 
+ | Substitute 10.788%                     | 
+ | Reflect 10.696%                        | 
+ | Hidden Power Ice  9.311%               | 
+ | Confuse Ray  8.911%                    | 
+ | Hidden Power Grass  8.806%             | 
+ | Rest  8.405%                           | 
+ | Light Screen  8.164%                   | 
+ | Thunder  8.101%                        | 
+ | Protect  7.565%                        | 
+ | Thunder Wave  6.347%                   | 
+ | Charge  5.258%                         | 
+ | Magnetic Flux  5.142%                  | 
+ | Thunder Punch  4.270%                  | 
+ | Agility  2.930%                        | 
+ | Zap Cannon  2.879%                     | 
+ | Hidden Power Water  2.439%             | 
+ | Other 18.325%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Dedenne +11.353%                       | 
+ | Jolteon +7.965%                        | 
+ | Raichu +6.160%                         | 
+ | Magneton +3.877%                       | 
+ | Zebstrika +3.070%                      | 
+ | Emolga +2.864%                         | 
+ | Luxray +2.845%                         | 
+ | Electrode +2.592%                      | 
+ | Pikachu +2.466%                        | 
+ | Pachirisu +1.913%                      | 
+ | Eelektross +1.905%                     | 
+ | Lanturn +1.227%                        | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Pachirisu                              | 
+ +----------------------------------------+ 
+ | Raw count: 562                         | 
+ | Avg. weight: 0.200719834414            | 
+ | Viability Ceiling: 66                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Volt Absorb 79.617%                    | 
+ | Pickup 14.309%                         | 
+ | Run Away  6.074%                       | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 32.547%                      | 
+ | Sitrus Berry 13.793%                   | 
+ | Focus Sash 10.968%                     | 
+ | Assault Vest 10.768%                   | 
+ | Air Balloon  9.286%                    | 
+ | Lum Berry  7.467%                      | 
+ | Rocky Helmet  4.921%                   | 
+ | Choice Specs  1.890%                   | 
+ | Light Clay  1.825%                     | 
+ | Life Orb  1.791%                       | 
+ | Other  4.742%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Adamant:0/176/164/0/168/0  7.467%      | 
+ | Impish:252/0/252/0/4/0  6.897%         | 
+ | Jolly:0/252/0/0/4/252  6.826%          | 
+ | Hardy:0/0/0/0/0/0  6.538%              | 
+ | Impish:252/0/252/0/0/4  4.873%         | 
+ | Careful:252/0/252/0/0/0  4.592%        | 
+ | Other 62.808%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Nuzzle 76.574%                         | 
+ | Super Fang 69.104%                     | 
+ | U-turn 37.310%                         | 
+ | Toxic 31.763%                          | 
+ | Volt Switch 17.054%                    | 
+ | Seed Bomb 13.925%                      | 
+ | Electro Ball 13.741%                   | 
+ | Protect 13.720%                        | 
+ | Gunk Shot 13.051%                      | 
+ | Light Screen 12.761%                   | 
+ | Thunderbolt 11.644%                    | 
+ | Thunder 10.410%                        | 
+ | Discharge 10.361%                      | 
+ | Iron Tail  9.568%                      | 
+ | Grass Knot  9.201%                     | 
+ | Substitute  8.425%                     | 
+ | Quick Attack  5.722%                   | 
+ | Thunder Punch  5.199%                  | 
+ | Attract  3.791%                        | 
+ | Charm  2.743%                          | 
+ | Return  2.741%                         | 
+ | Thunder Wave  2.455%                   | 
+ | Other 18.737%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Emolga +23.408%                        | 
+ | Dedenne +23.156%                       | 
+ | Pikachu +17.635%                       | 
+ | Plusle +14.239%                        | 
+ | Minun +11.039%                         | 
+ | Zebstrika +9.246%                      | 
+ | Raichu +7.429%                         | 
+ | Jolteon +4.521%                        | 
+ | Pichu +2.377%                          | 
+ | Rotom-Heat +2.292%                     | 
+ | Elekid +2.121%                         | 
+ | Ampharos +2.115%                       | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Manectric                              | 
+ +----------------------------------------+ 
+ | Raw count: 515                         | 
+ | Avg. weight: 0.208915501781            | 
+ | Viability Ceiling: 68                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Static 65.716%                         | 
+ | Lightning Rod 33.582%                  | 
+ | Minus  0.703%                          | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Shuca Berry 26.227%                    | 
+ | Life Orb 12.289%                       | 
+ | Choice Specs  9.442%                   | 
+ | Expert Belt  7.427%                    | 
+ | Focus Sash  6.419%                     | 
+ | Choice Scarf  5.143%                   | 
+ | Choice Band  4.854%                    | 
+ | Air Balloon  4.476%                    | 
+ | Black Glasses  3.818%                  | 
+ | Leftovers  3.479%                      | 
+ | Sitrus Berry  2.915%                   | 
+ | Zap Plate  2.594%                      | 
+ | Enigma Berry  1.656%                   | 
+ | Focus Band  1.616%                     | 
+ | White Herb  1.404%                     | 
+ | Lum Berry  1.317%                      | 
+ | Other  4.924%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Timid:0/0/0/252/4/252 26.115%          | 
+ | Modest:0/0/28/200/26/252 19.058%       | 
+ | Timid:4/0/0/252/0/252  6.799%          | 
+ | Hasty:0/4/0/252/0/252  6.105%          | 
+ | Timid:0/0/60/200/28/220  4.894%        | 
+ | Hardy:0/200/96/0/132/80  4.623%        | 
+ | Other 32.406%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Flamethrower 73.351%                   | 
+ | Discharge 55.936%                      | 
+ | Hidden Power Ice 41.468%               | 
+ | Thunderbolt 37.111%                    | 
+ | Volt Switch 35.866%                    | 
+ | Hyper Beam 22.231%                     | 
+ | Crunch 14.548%                         | 
+ | Signal Beam 13.924%                    | 
+ | Thunder Wave 13.517%                   | 
+ | Overheat 11.832%                       | 
+ | Ice Fang  7.988%                       | 
+ | Fire Fang  7.436%                      | 
+ | Hidden Power Grass  7.310%             | 
+ | Electric Terrain  5.077%               | 
+ | Protect  5.036%                        | 
+ | Wild Charge  4.973%                    | 
+ | Toxic  4.916%                          | 
+ | Magnet Rise  4.809%                    | 
+ | Thunder  4.774%                        | 
+ | Hidden Power Ghost  3.739%             | 
+ | Light Screen  2.769%                   | 
+ | Rest  2.351%                           | 
+ | Other 19.037%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Ampharos-Mega +26.616%                 | 
+ | Lanturn +20.386%                       | 
+ | Rotom-Heat +18.581%                    | 
+ | Electivire +9.018%                     | 
+ | Raichu +7.825%                         | 
+ | Jolteon +4.835%                        | 
+ | Rotom-Fan +3.801%                      | 
+ | Dedenne +2.350%                        | 
+ | Electrode +2.245%                      | 
+ | Heliolisk +1.315%                      | 
+ | Pachirisu +1.268%                      | 
+ | Flaaffy +1.197%                        | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Rotom-Fan                              | 
+ +----------------------------------------+ 
+ | Raw count: 453                         | 
+ | Avg. weight: 0.238789154689            | 
+ | Viability Ceiling: 67                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Levitate 100.000%                      | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 34.816%                      | 
+ | Life Orb 11.222%                       | 
+ | Choice Specs 10.972%                   | 
+ | Expert Belt  8.830%                    | 
+ | King's Rock  8.113%                    | 
+ | Sky Plate  5.076%                      | 
+ | Razor Claw  4.664%                     | 
+ | Rocky Helmet  3.017%                   | 
+ | Focus Sash  2.922%                     | 
+ | Flame Orb  2.403%                      | 
+ | Choice Scarf  2.028%                   | 
+ | Choice Band  1.741%                    | 
+ | Other  4.195%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Modest:248/0/0/252/8/0 23.389%         | 
+ | Calm:252/0/0/4/252/0 12.106%           | 
+ | Calm:248/0/0/8/252/0 10.936%           | 
+ | Timid:0/0/0/252/4/252  6.316%          | 
+ | Timid:0/0/0/252/8/248  4.788%          | 
+ | Modest:252/0/0/252/4/0  4.216%         | 
+ | Other 38.249%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Air Slash 98.249%                      | 
+ | Will-O-Wisp 51.004%                    | 
+ | Volt Switch 38.124%                    | 
+ | Discharge 32.580%                      | 
+ | Pain Split 27.114%                     | 
+ | Thunderbolt 24.527%                    | 
+ | Dark Pulse 21.904%                     | 
+ | Shadow Ball 17.484%                    | 
+ | Substitute 13.974%                     | 
+ | Thunder Wave 12.101%                   | 
+ | Hidden Power Grass 10.479%             | 
+ | Trick  7.426%                          | 
+ | Confuse Ray  7.114%                    | 
+ | Hex  5.871%                            | 
+ | Hidden Power Ice  4.242%               | 
+ | Hidden Power Psychic  3.811%           | 
+ | Toxic  3.541%                          | 
+ | Thunder  3.058%                        | 
+ | Other 17.399%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Raichu +23.390%                        | 
+ | Luxray +18.097%                        | 
+ | Electrode +15.235%                     | 
+ | Electivire +11.908%                    | 
+ | Jolteon +9.892%                        | 
+ | Magneton +9.535%                       | 
+ | Lanturn +5.172%                        | 
+ | Zebstrika +4.997%                      | 
+ | Manectric +3.874%                      | 
+ | Electabuzz +0.655%                     | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Plusle                                 | 
+ +----------------------------------------+ 
+ | Raw count: 293                         | 
+ | Avg. weight: 0.320368042937            | 
+ | Viability Ceiling: 67                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Lightning Rod 81.627%                  | 
+ | Plus 18.373%                           | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Focus Sash 35.214%                     | 
+ | Petaya Berry 29.183%                   | 
+ | Lum Berry 12.275%                      | 
+ | Leftovers  8.112%                      | 
+ | Air Balloon  4.908%                    | 
+ | Choice Scarf  3.622%                   | 
+ | Zap Plate  2.293%                      | 
+ | Other  4.393%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Timid:252/0/0/4/0/252 30.570%          | 
+ | Timid:0/0/0/252/4/252 16.038%          | 
+ | Hardy:0/176/252/0/68/12 11.722%        | 
+ | Hasty:0/4/0/252/0/252  8.749%          | 
+ | Modest:0/0/0/252/4/252  8.304%         | 
+ | Timid:0/0/4/252/0/252  3.782%          | 
+ | Other 20.835%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Nasty Plot 59.496%                     | 
+ | Thunderbolt 53.128%                    | 
+ | Baton Pass 49.913%                     | 
+ | Substitute 35.061%                     | 
+ | Nuzzle 30.943%                         | 
+ | Grass Knot 21.316%                     | 
+ | Electro Ball 15.504%                   | 
+ | Thunder 15.428%                        | 
+ | Hidden Power Ice 13.735%               | 
+ | Volt Switch 12.944%                    | 
+ | Iron Tail 12.594%                      | 
+ | Discharge  9.840%                      | 
+ | Protect  8.965%                        | 
+ | Encore  7.636%                         | 
+ | Electroweb  4.908%                     | 
+ | Agility  4.887%                        | 
+ | Magnet Rise  4.295%                    | 
+ | Signal Beam  4.151%                    | 
+ | Charge Beam  3.723%                    | 
+ | Wish  3.690%                           | 
+ | Light Screen  2.967%                   | 
+ | Toxic  2.608%                          | 
+ | Facade  2.516%                         | 
+ | Other 19.749%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Minun +24.094%                         | 
+ | Dedenne +24.037%                       | 
+ | Pikachu +23.343%                       | 
+ | Pachirisu +22.354%                     | 
+ | Emolga +21.465%                        | 
+ | Luxray +10.573%                        | 
+ | Raichu +2.152%                         | 
+ | Flaaffy +1.467%                        | 
+ | Pichu +1.207%                          | 
+ | Mareep +0.669%                         | 
+ | Ampharos +0.532%                       | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Minun                                  | 
+ +----------------------------------------+ 
+ | Raw count: 273                         | 
+ | Avg. weight: 0.287705567938            | 
+ | Viability Ceiling: 75                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Volt Absorb 62.690%                    | 
+ | Minus 37.310%                          | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 46.316%                      | 
+ | Focus Sash 22.521%                     | 
+ | Lum Berry 13.684%                      | 
+ | Air Balloon  4.724%                    | 
+ | Choice Scarf  2.348%                   | 
+ | Zap Plate  2.185%                      | 
+ | Assault Vest  2.125%                   | 
+ | Sitrus Berry  2.073%                   | 
+ | Other  4.023%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Timid:248/0/8/0/0/252 30.685%          | 
+ | Hardy:0/200/252/40/16/0 13.027%        | 
+ | Timid:0/0/0/252/4/252 12.324%          | 
+ | Gentle:252/4/0/0/252/0  8.502%         | 
+ | Timid:252/0/0/0/4/252  6.094%          | 
+ | Timid:0/0/0/252/0/252  4.697%          | 
+ | Other 24.672%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Thunderbolt 50.632%                    | 
+ | Substitute 50.223%                     | 
+ | Nasty Plot 47.282%                     | 
+ | Baton Pass 43.811%                     | 
+ | Nuzzle 35.961%                         | 
+ | Wish 17.272%                           | 
+ | Grass Knot 16.554%                     | 
+ | Thunder 15.947%                        | 
+ | Encore 14.761%                         | 
+ | Iron Tail 13.755%                      | 
+ | Electro Ball 13.461%                   | 
+ | Protect 12.470%                        | 
+ | Discharge 11.651%                      | 
+ | Hidden Power Ice 10.613%               | 
+ | Volt Switch  6.965%                    | 
+ | Toxic  4.874%                          | 
+ | Thunder Wave  3.525%                   | 
+ | Agility  3.411%                        | 
+ | Hidden Power Grass  3.076%             | 
+ | Signal Beam  3.058%                    | 
+ | Uproar  3.047%                         | 
+ | Other 17.652%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Plusle +26.833%                        | 
+ | Emolga +24.654%                        | 
+ | Pikachu +21.989%                       | 
+ | Pachirisu +19.350%                     | 
+ | Dedenne +16.748%                       | 
+ | Eelektross +9.530%                     | 
+ | Galvantula +1.578%                     | 
+ | Pichu +1.352%                          | 
+ | Flaaffy +0.910%                        | 
+ | Mareep +0.745%                         | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Electabuzz                             | 
+ +----------------------------------------+ 
+ | Raw count: 272                         | 
+ | Avg. weight: 0.243091944554            | 
+ | Viability Ceiling: 61                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Static 73.386%                         | 
+ | Vital Spirit 26.614%                   | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Eviolite 47.977%                       | 
+ | Muscle Band 16.879%                    | 
+ | Air Balloon  9.061%                    | 
+ | Choice Scarf  7.684%                   | 
+ | Petaya Berry  4.372%                   | 
+ | Leftovers  4.182%                      | 
+ | Nothing  2.515%                        | 
+ | Assault Vest  2.504%                   | 
+ | Other  4.824%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Hardy:200/100/60/50/49/49 20.306%      | 
+ | Timid:0/0/0/252/4/252 14.363%          | 
+ | Jolly:0/252/0/0/4/252  9.787%          | 
+ | Modest:0/0/0/252/4/252  6.987%         | 
+ | Hasty:0/4/0/252/0/252  4.812%          | 
+ | Modest:0/0/0/252/64/192  4.372%        | 
+ | Other 39.374%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Focus Blast 45.973%                    | 
+ | Volt Switch 37.494%                    | 
+ | Thunderbolt 32.980%                    | 
+ | Ice Punch 26.012%                      | 
+ | Thunder Punch 23.412%                  | 
+ | Fire Punch 21.051%                     | 
+ | Iron Tail 20.306%                      | 
+ | Thunder 20.303%                        | 
+ | Dynamic Punch 17.570%                  | 
+ | Psychic 16.610%                        | 
+ | Hidden Power Grass 16.011%             | 
+ | Cross Chop 15.356%                     | 
+ | Power-Up Punch 14.966%                 | 
+ | Hidden Power Ice  9.647%               | 
+ | Wild Charge  9.271%                    | 
+ | Toxic  8.637%                          | 
+ | Thunder Wave  8.306%                   | 
+ | Substitute  5.881%                     | 
+ | Discharge  5.191%                      | 
+ | Quick Attack  4.693%                   | 
+ | Dual Chop  4.691%                      | 
+ | Hammer Arm  4.660%                     | 
+ | Light Screen  4.147%                   | 
+ | Charge Beam  3.745%                    | 
+ | Rest  3.436%                           | 
+ | Other 19.652%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Raichu +36.318%                        | 
+ | Magneton +23.487%                      | 
+ | Pikachu +11.891%                       | 
+ | Electrode +10.558%                     | 
+ | Luxray +9.247%                         | 
+ | Magnemite +3.107%                      | 
+ | Jolteon +1.238%                        | 
+ | Ampharos +1.205%                       | 
+ | Rotom-Fan +1.161%                      | 
+ | Eelektrik +1.158%                      | 
+ | Flaaffy +1.032%                        | 
+ | Rotom +0.696%                          | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Eelektrik                              | 
+ +----------------------------------------+ 
+ | Raw count: 126                         | 
+ | Avg. weight: 0.357766310638            | 
+ | Viability Ceiling: 68                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Levitate 100.000%                      | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Eviolite 90.591%                       | 
+ | Zap Plate  5.907%                      | 
+ | Other  3.501%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Adamant:0/252/128/0/128/0 16.706%      | 
+ | Quiet:252/0/100/56/100/0 14.497%       | 
+ | Impish:92/0/164/0/252/0 13.284%        | 
+ | Careful:196/8/96/0/208/0 12.576%       | 
+ | Adamant:252/252/0/0/0/4  5.907%        | 
+ | Adamant:0/252/0/0/4/252  5.199%        | 
+ | Other 31.831%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Aqua Tail 54.296%                      | 
+ | Coil 50.895%                           | 
+ | Knock Off 44.235%                      | 
+ | Spark 35.517%                          | 
+ | Super Fang 33.943%                     | 
+ | Rest 29.597%                           | 
+ | Acid Spray 22.003%                     | 
+ | U-turn 17.078%                         | 
+ | Wild Charge 15.501%                    | 
+ | Sleep Talk 14.888%                     | 
+ | Bind 13.284%                           | 
+ | Discharge 11.295%                      | 
+ | Giga Drain  9.299%                     | 
+ | Crunch  9.100%                         | 
+ | Toxic  7.615%                          | 
+ | Thunderbolt  5.431%                    | 
+ | Zap Cannon  4.631%                     | 
+ | Volt Switch  3.933%                    | 
+ | Other 17.460%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Raichu +26.371%                        | 
+ | Magneton +18.183%                      | 
+ | Rotom-Heat +17.637%                    | 
+ | Pikachu +17.361%                       | 
+ | Magnemite +13.646%                     | 
+ | Stunfisk +13.239%                      | 
+ | Manectric-Mega +10.149%                | 
+ | Jolteon +5.610%                        | 
+ | Ampharos +3.104%                       | 
+ | Pachirisu +2.343%                      | 
+ | Electabuzz +2.046%                     | 
+ | Flaaffy +1.899%                        | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Magnemite                              | 
+ +----------------------------------------+ 
+ | Raw count: 56                          | 
+ | Avg. weight: 0.410571245189            | 
+ | Viability Ceiling: 52                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Sturdy 96.814%                         | 
+ | Magnet Pull  3.186%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Berry Juice 90.621%                    | 
+ | Oran Berry  3.655%                     | 
+ | Zap Plate  2.538%                      | 
+ | Other  3.186%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Timid:0/0/0/252/0/252 63.150%          | 
+ | Hardy:0/0/0/0/0/0 30.312%              | 
+ | Brave:0/252/0/0/0/0  1.942%            | 
+ | Other  4.596%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Recycle 95.842%                        | 
+ | Toxic 94.276%                          | 
+ | Protect 92.866%                        | 
+ | Magic Coat 74.366%                     | 
+ | Thunder Wave 17.585%                   | 
+ | Gyro Ball  4.480%                      | 
+ | Nothing  3.716%                        | 
+ | Other 16.869%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Rotom-Heat +51.421%                    | 
+ | Stunfisk +46.988%                      | 
+ | Luxray +33.916%                        | 
+ | Eelektrik +30.243%                     | 
+ | Manectric-Mega +16.362%                | 
+ | Electabuzz +12.302%                    | 
+ | Magneton +7.966%                       | 
+ | Electrode +7.837%                      | 
+ | Raichu +4.658%                         | 
+ | Voltorb +2.512%                        | 
+ | Flaaffy +1.552%                        | 
+ | Plusle +0.888%                         | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Pichu                                  | 
+ +----------------------------------------+ 
+ | Raw count: 56                          | 
+ | Avg. weight: 0.0990148585731           | 
+ | Viability Ceiling: 54                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Static 90.753%                         | 
+ | Lightning Rod  9.247%                  | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Focus Sash 56.349%                     | 
+ | Occa Berry 10.162%                     | 
+ | Eviolite  7.282%                       | 
+ | Zap Plate  6.969%                      | 
+ | Leftovers  5.368%                      | 
+ | Sitrus Berry  4.623%                   | 
+ | Assault Vest  2.312%                   | 
+ | Life Orb  2.312%                       | 
+ | Other  4.623%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Adamant:4/252/0/0/0/252 41.096%        | 
+ | Hardy:0/0/0/0/0/0 17.458%              | 
+ | Jolly:252/0/0/0/0/252 13.151%          | 
+ | Lonely:252/252/0/4/0/0  9.267%         | 
+ | Gentle:252/4/0/0/252/0  6.360%         | 
+ | Adamant:252/252/0/0/4/0  4.623%        | 
+ | Other  8.045%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Protect 56.209%                        | 
+ | Fake Out 52.305%                       | 
+ | Flail 41.096%                          | 
+ | Light Screen 41.096%                   | 
+ | Thunderbolt 26.149%                    | 
+ | Thunder Punch 25.799%                  | 
+ | Thunder 19.423%                        | 
+ | Volt Tackle 18.833%                    | 
+ | Toxic 17.775%                          | 
+ | Seismic Toss 13.291%                   | 
+ | Counter 13.291%                        | 
+ | Charge Beam  6.955%                    | 
+ | Body Slam  6.955%                      | 
+ | Wish  6.360%                           | 
+ | Hidden Power Fire  4.623%              | 
+ | Iron Tail  4.623%                      | 
+ | Rain Dance  4.623%                     | 
+ | Headbutt  4.623%                       | 
+ | Return  4.273%                         | 
+ | Grass Knot  3.632%                     | 
+ | Frustration  3.632%                    | 
+ | Nothing  2.659%                        | 
+ | Thunder Wave  2.465%                   | 
+ | Other 19.309%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Dedenne +54.926%                       | 
+ | Magneton +30.258%                      | 
+ | Zebstrika +26.998%                     | 
+ | Pachirisu +26.373%                     | 
+ | Emolga +23.937%                        | 
+ | Pikachu +18.870%                       | 
+ | Raichu +14.587%                        | 
+ | Elekid +10.524%                        | 
+ | Minun +8.550%                          | 
+ | Plusle +8.528%                         | 
+ | Ampharos-Mega +4.337%                  | 
+ | Blitzle +2.275%                        | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Flaaffy                                | 
+ +----------------------------------------+ 
+ | Raw count: 22                          | 
+ | Avg. weight: 0.272909401016            | 
+ | Viability Ceiling: 48                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Static 88.776%                         | 
+ | Plus 11.224%                           | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Eviolite 80.428%                       | 
+ | Choice Scarf 11.224%                   | 
+ | Assault Vest  4.174%                   | 
+ | Other  4.174%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Calm:252/0/4/0/252/0 26.966%           | 
+ | Calm:248/0/0/8/252/0 25.044%           | 
+ | Modest:252/0/0/252/4/0 15.398%         | 
+ | Calm:248/0/8/0/252/0  8.846%           | 
+ | Lonely:248/252/0/8/0/0  8.348%         | 
+ | Hasty:0/4/0/252/0/252  7.050%          | 
+ | Other  8.348%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Cotton Guard 80.428%                   | 
+ | Thunderbolt 41.066%                    | 
+ | Heal Bell 33.890%                      | 
+ | Discharge 32.094%                      | 
+ | Power Gem 23.746%                      | 
+ | Electroweb 20.870%                     | 
+ | Cotton Spore 20.870%                   | 
+ | Reflect 18.618%                        | 
+ | Light Screen 18.618%                   | 
+ | Toxic 17.194%                          | 
+ | Seismic Toss 13.020%                   | 
+ | Thunder Wave 12.522%                   | 
+ | Thunder  7.050%                        | 
+ | Volt Switch  7.050%                    | 
+ | Thunder Punch  7.050%                  | 
+ | Power-Up Punch  4.174%                 | 
+ | Charge Beam  4.174%                    | 
+ | Fire Punch  4.174%                     | 
+ | Hidden Power Fighting  4.174%          | 
+ | Facade  4.174%                         | 
+ | Return  4.174%                         | 
+ | Safeguard  4.174%                      | 
+ | Other 16.696%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Jolteon +37.241%                       | 
+ | Joltik +22.775%                        | 
+ | Manectric +21.669%                     | 
+ | Plusle +18.840%                        | 
+ | Chinchou +18.593%                      | 
+ | Pachirisu +17.469%                     | 
+ | Eelektross +13.377%                    | 
+ | Eelektrik +10.873%                     | 
+ | Electabuzz +10.573%                    | 
+ | Minun +10.513%                         | 
+ | Zebstrika +7.999%                      | 
+ | Pikachu +5.861%                        | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Elekid                                 | 
+ +----------------------------------------+ 
+ | Raw count: 16                          | 
+ | Avg. weight: 0.106645627177            | 
+ | Viability Ceiling: 38                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Static 96.704%                         | 
+ | Vital Spirit  3.296%                   | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Assault Vest 73.622%                   | 
+ | Expert Belt 11.541%                    | 
+ | Power Herb  5.770%                     | 
+ | Eviolite  5.770%                       | 
+ | Other  3.296%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Hasty:0/252/0/4/0/252 76.918%          | 
+ | Timid:4/0/0/252/0/252 11.541%          | 
+ | Adamant:248/252/0/0/8/0  5.770%        | 
+ | Hardy:0/0/0/0/0/0  5.770%              | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Psychic 79.393%                        | 
+ | Fire Punch 76.918%                     | 
+ | Power-Up Punch 73.622%                 | 
+ | Brick Break 73.622%                    | 
+ | Cross Chop 17.311%                     | 
+ | Thunderbolt 11.541%                    | 
+ | Volt Switch 11.541%                    | 
+ | Discharge  9.067%                      | 
+ | Protect  5.770%                        | 
+ | Thunder  5.770%                        | 
+ | Ice Punch  5.770%                      | 
+ | Electroweb  5.770%                     | 
+ | Thunder Wave  5.770%                   | 
+ | Other 18.133%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Emolga +62.099%                        | 
+ | Pachirisu +58.750%                     | 
+ | Blitzle +54.093%                       | 
+ | Dedenne +49.676%                       | 
+ | Shinx +48.328%                         | 
+ | Pichu +26.273%                         | 
+ | Raichu +13.287%                        | 
+ | Pikachu +9.474%                        | 
+ | Chinchou +5.745%                       | 
+ | Flaaffy +5.703%                        | 
+ | Electabuzz +2.645%                     | 
+ | Electrode +1.628%                      | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Blitzle                                | 
+ +----------------------------------------+ 
+ | Raw count: 17                          | 
+ | Avg. weight: 0.0996051300042           | 
+ | Viability Ceiling: 45                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Sap Sipper 83.046%                     | 
+ | Lightning Rod 13.018%                  | 
+ | Motor Drive  3.936%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Flame Orb 76.537%                      | 
+ | Eviolite 10.445%                       | 
+ | Nothing  6.509%                        | 
+ | Choice Band  6.509%                    | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Jolly:0/252/0/0/4/252 76.537%          | 
+ | Hardy:0/252/0/0/0/0  6.509%            | 
+ | Hardy:0/0/0/0/0/0  6.509%              | 
+ | Hasty:252/4/0/0/0/252  6.509%          | 
+ | Other  3.936%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Flame Charge 86.982%                   | 
+ | Facade 83.046%                         | 
+ | Wild Charge 80.473%                    | 
+ | Toxic 76.537%                          | 
+ | Frustration  6.509%                    | 
+ | Hidden Power Fire  6.509%              | 
+ | Double-Edge  6.509%                    | 
+ | Protect  6.509%                        | 
+ | Thunderbolt  6.509%                    | 
+ | Thunder  6.509%                        | 
+ | Signal Beam  6.509%                    | 
+ | Shock Wave  6.509%                     | 
+ | Charge  6.509%                         | 
+ | Other 14.381%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Dedenne +63.113%                       | 
+ | Elekid +61.015%                        | 
+ | Emolga +60.407%                        | 
+ | Shinx +54.518%                         | 
+ | Pachirisu +53.399%                     | 
+ | Pikachu +7.655%                        | 
+ | Pichu +6.405%                          | 
+ | Electabuzz +5.858%                     | 
+ | Zebstrika +3.284%                      | 
+ | Magneton +2.496%                       | 
+ | Rotom-Heat +0.819%                     | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Shinx                                  | 
+ +----------------------------------------+ 
+ | Raw count: 12                          | 
+ | Avg. weight: 0.000872340676736         | 
+ | Viability Ceiling: 25                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Intimidate 100.000%                    | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Leftovers 77.683%                      | 
+ | Eviolite 22.317%                       | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Adamant:252/252/0/0/4/0 77.683%        | 
+ | Adamant:252/252/4/0/0/0 22.317%        | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Ice Fang 100.000%                      | 
+ | Crunch 100.000%                        | 
+ | Wild Charge 100.000%                   | 
+ | Fire Fang 100.000%                     | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Blitzle +55.329%                       | 
+ | Elekid +55.322%                        | 
+ | Pachirisu +54.216%                     | 
+ | Emolga +51.795%                        | 
+ | Dedenne +50.912%                       | 
+ | Voltorb +11.133%                       | 
+ | Eelektrik +10.808%                     | 
+ | Rotom-Mow +4.069%                      | 
+ | Raichu +3.838%                         | 
+ | Stunfisk +1.036%                       | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Voltorb                                | 
+ +----------------------------------------+ 
+ | Raw count: 13                          | 
+ | Avg. weight: 0.244754472055            | 
+ | Viability Ceiling: 45                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Aftermath 50.156%                      | 
+ | Soundproof 34.520%                     | 
+ | Static 15.324%                         | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Focus Sash 30.823%                     | 
+ | Electirizer 21.574%                    | 
+ | Expert Belt 19.333%                    | 
+ | Zap Plate 14.295%                      | 
+ | Nothing 12.946%                        | 
+ | Other  1.029%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Hardy:0/0/0/0/0/0 35.869%              | 
+ | Naive:252/0/4/0/0/252 30.823%          | 
+ | Timid:4/0/0/252/0/252 19.333%          | 
+ | Hasty:0/4/0/252/0/252 12.946%          | 
+ | Other  1.029%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Foul Play 84.676%                      | 
+ | Thunderbolt 72.760%                    | 
+ | Hidden Power Ice 50.156%               | 
+ | Discharge 49.844%                      | 
+ | Thunder 36.898%                        | 
+ | Volt Switch 33.628%                    | 
+ | Taunt 30.823%                          | 
+ | Explosion 14.295%                      | 
+ | Hidden Power Fighting 12.946%          | 
+ | Other 13.975%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Pikachu +37.073%                       | 
+ | Raichu +26.340%                        | 
+ | Shinx +15.380%                         | 
+ | Eelektrik +15.061%                     | 
+ | Magnemite +14.132%                     | 
+ | Manectric +11.823%                     | 
+ | Rotom-Mow +8.322%                      | 
+ | Rotom-Heat +7.256%                     | 
+ | Stunfisk +5.289%                       | 
+ | Heliolisk +2.350%                      | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Chinchou                               | 
+ +----------------------------------------+ 
+ | Raw count: 8                           | 
+ | Avg. weight: 0.015388724204            | 
+ | Viability Ceiling: 35                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Volt Absorb 67.005%                    | 
+ | Water Absorb 32.995%                   | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Focus Sash 54.731%                     | 
+ | Eviolite 45.269%                       | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Modest:252/0/4/252/0/0 54.731%         | 
+ | Hardy:4/0/252/0/252/0 32.995%          | 
+ | Calm:248/0/8/0/252/0 12.270%           | 
+ | Other  0.005%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Thunder Wave 87.730%                   | 
+ | Surf 54.731%                           | 
+ | Ice Beam 54.731%                       | 
+ | Hidden Power Grass 54.731%             | 
+ | Toxic 45.265%                          | 
+ | Volt Switch 32.995%                    | 
+ | Waterfall 32.995%                      | 
+ | Ion Deluge 12.270%                     | 
+ | Aqua Ring 12.270%                      | 
+ | Other 12.284%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Joltik +54.714%                        | 
+ | Flaaffy +54.663%                       | 
+ | Manectric +53.612%                     | 
+ | Pachirisu +53.581%                     | 
+ | Electivire +42.266%                    | 
+ | Elekid +12.227%                        | 
+ | Luxray +9.800%                         | 
+ | Electrode +8.128%                      | 
+ | Pikachu +6.907%                        | 
+ | Raichu +4.950%                         | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Luxio                                  | 
+ +----------------------------------------+ 
+ | Raw count: 13                          | 
+ | Avg. weight: 0.0463159037029           | 
+ | Viability Ceiling: 38                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Intimidate 87.030%                     | 
+ | Rivalry 12.970%                        | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Eviolite 87.030%                       | 
+ | Choice Scarf 10.958%                   | 
+ | Other  2.012%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Impish:252/4/252/0/0/0 80.853%         | 
+ | Hardy:0/0/0/0/0/0 12.970%              | 
+ | Lonely:252/252/0/4/0/0  6.177%         | 
+ | Other  0.000%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Thunder Fang 91.811%                   | 
+ | Thunder Wave 91.811%                   | 
+ | Crunch 87.030%                         | 
+ | Quick Attack 80.853%                   | 
+ | Thunderbolt 12.970%                    | 
+ | Thunder 12.970%                        | 
+ | Discharge  8.189%                      | 
+ | Other 14.366%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Raichu +75.544%                        | 
+ | Jolteon +53.673%                       | 
+ | Luxray +46.699%                        | 
+ | Ampharos-Mega +35.687%                 | 
+ | Eelektross +32.686%                    | 
+ | Pikachu +7.607%                        | 
+ | Electrode +6.816%                      | 
+ | Dedenne +6.505%                        | 
+ | Electrike +2.011%                      | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Joltik                                 | 
+ +----------------------------------------+ 
+ | Raw count: 6                           | 
+ | Avg. weight: 0.0306375758689           | 
+ | Viability Ceiling: 35                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Compound Eyes 100.000%                 | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Eviolite 100.000%                      | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Modest:252/0/4/252/0/0 100.000%        | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Volt Switch 100.000%                   | 
+ | Hidden Power Ice 100.000%              | 
+ | Giga Drain 100.000%                    | 
+ | Bug Buzz 69.043%                       | 
+ | Thunderbolt 30.957%                    | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Flaaffy +84.454%                       | 
+ | Chinchou +69.018%                      | 
+ | Manectric +67.920%                     | 
+ | Pachirisu +67.893%                     | 
+ | Electivire +39.062%                    | 
+ | Dedenne +11.025%                       | 
+ | Raichu +8.158%                         | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Helioptile                             | 
+ +----------------------------------------+ 
+ | Raw count: 5                           | 
+ | Avg. weight: ---                       | 
+ | Viability Ceiling: 0                   | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Dry Skin 100.000%                      | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Choice Band 80.000%                    | 
+ | Eviolite 20.000%                       | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Hardy:0/0/0/0/0/0 100.000%             | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Dragon Tail 60.000%                    | 
+ | Dark Pulse 60.000%                     | 
+ | Frustration 60.000%                    | 
+ | Facade 60.000%                         | 
+ | Surf 20.000%                           | 
+ | Thunderbolt 20.000%                    | 
+ | Electrify 20.000%                      | 
+ | Volt Switch 20.000%                    | 
+ | Toxic 20.000%                          | 
+ | Charge 20.000%                         | 
+ | Charge Beam 20.000%                    | 
+ | Other 20.000%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Dedenne +75.547%                       | 
+ | Pachirisu +58.850%                     | 
+ | Pikachu +54.637%                       | 
+ | Ampharos-Mega +45.793%                 | 
+ | Jolteon +3.779%                        | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 
+ +----------------------------------------+ 
+ | Mareep                                 | 
+ +----------------------------------------+ 
+ | Raw count: 7                           | 
+ | Avg. weight: 0.1674617399              | 
+ | Viability Ceiling: 42                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Static 100.000%                        | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | Eviolite 100.000%                      | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Bold:252/0/252/0/4/0 68.647%           | 
+ | Calm:252/0/0/4/252/0 31.353%           | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Discharge 98.546%                      | 
+ | Cotton Guard 68.647%                   | 
+ | Confuse Ray 68.647%                    | 
+ | Thunder Wave 67.192%                   | 
+ | Toxic 32.808%                          | 
+ | Reflect 31.353%                        | 
+ | Light Screen 31.353%                   | 
+ | Other  1.454%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ | Eelektrik +37.531%                     | 
+ | Minun +37.171%                         | 
+ | Plusle +37.150%                        | 
+ | Pachirisu +36.733%                     | 
+ | Pikachu +32.519%                       | 
+ | Rotom-Heat +25.663%                    | 
+ | Jolteon +15.132%                       | 
+ | Luxray +8.159%                         | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 

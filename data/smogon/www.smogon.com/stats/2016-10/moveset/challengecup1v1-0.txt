@@ -1,0 +1,350 @@
+ +----------------------------------------+ 
+ | Abomasnow                              | 
+ +----------------------------------------+ 
+ | Raw count: 3373                        | 
+ | Avg. weight: 1.0                       | 
+ | Viability Ceiling: 74                  | 
+ +----------------------------------------+ 
+ | Abilities                              | 
+ | Soundproof 50.578%                     | 
+ | Snow Warning 49.422%                   | 
+ +----------------------------------------+ 
+ | Items                                  | 
+ | DeepSeaTooth  0.712%                   | 
+ | Flame Plate  0.682%                    | 
+ | Watmel Berry  0.652%                   | 
+ | Tyranitarite  0.623%                   | 
+ | Grass Gem  0.623%                      | 
+ | Mawilite  0.593%                       | 
+ | Level Ball  0.593%                     | 
+ | Aerodactylite  0.563%                  | 
+ | Rowap Berry  0.563%                    | 
+ | Maranga Berry  0.563%                  | 
+ | Ring Target  0.563%                    | 
+ | Payapa Berry  0.563%                   | 
+ | Steel Gem  0.563%                      | 
+ | Flame Orb  0.534%                      | 
+ | Dark Gem  0.534%                       | 
+ | Galladite  0.534%                      | 
+ | Grepa Berry  0.534%                    | 
+ | Light Ball  0.534%                     | 
+ | Never-Melt Ice  0.534%                 | 
+ | Zap Plate  0.504%                      | 
+ | Mail  0.504%                           | 
+ | Latiasite  0.504%                      | 
+ | Plume Fossil  0.504%                   | 
+ | Choice Scarf  0.504%                   | 
+ | Scizorite  0.504%                      | 
+ | Kangaskhanite  0.504%                  | 
+ | Leppa Berry  0.504%                    | 
+ | Jaboca Berry  0.504%                   | 
+ | Alakazite  0.504%                      | 
+ | Garchompite  0.504%                    | 
+ | Spell Tag  0.504%                      | 
+ | Ghost Gem  0.504%                      | 
+ | Moon Ball  0.504%                      | 
+ | Mental Herb  0.474%                    | 
+ | Durin Berry  0.474%                    | 
+ | Sablenite  0.474%                      | 
+ | Blastoisinite  0.474%                  | 
+ | Helix Fossil  0.474%                   | 
+ | Shell Bell  0.474%                     | 
+ | Glalitite  0.474%                      | 
+ | Quick Claw  0.474%                     | 
+ | Absolite  0.445%                       | 
+ | Armor Fossil  0.445%                   | 
+ | Poke Ball  0.445%                      | 
+ | Kelpsy Berry  0.445%                   | 
+ | Wepear Berry  0.445%                   | 
+ | Ultra Ball  0.445%                     | 
+ | Houndoominite  0.445%                  | 
+ | Pidgeotite  0.445%                     | 
+ | Icy Rock  0.445%                       | 
+ | Venusaurite  0.445%                    | 
+ | Safety Goggles  0.445%                 | 
+ | Wave Incense  0.445%                   | 
+ | Premier Ball  0.445%                   | 
+ | Charcoal  0.445%                       | 
+ | Toxic Orb  0.445%                      | 
+ | Ground Gem  0.445%                     | 
+ | Dragon Gem  0.445%                     | 
+ | Heat Rock  0.445%                      | 
+ | EnergyPowder  0.445%                   | 
+ | Gardevoirite  0.445%                   | 
+ | Dive Ball  0.445%                      | 
+ | Sticky Barb  0.445%                    | 
+ | Hard Stone  0.445%                     | 
+ | Cameruptite  0.445%                    | 
+ | Red Card  0.445%                       | 
+ | Pecha Berry  0.445%                    | 
+ | Occa Berry  0.445%                     | 
+ | Odd Incense  0.445%                    | 
+ | Salac Berry  0.445%                    | 
+ | Heracronite  0.445%                    | 
+ | Black Belt  0.415%                     | 
+ | Sharp Beak  0.415%                     | 
+ | Berry Juice  0.415%                    | 
+ | Safari Ball  0.415%                    | 
+ | Audinite  0.415%                       | 
+ | BrightPowder  0.415%                   | 
+ | Pinap Berry  0.415%                    | 
+ | Pixie Plate  0.415%                    | 
+ | Qualot Berry  0.415%                   | 
+ | Chesto Berry  0.415%                   | 
+ | Damp Rock  0.415%                      | 
+ | Latiosite  0.415%                      | 
+ | Slowbronite  0.415%                    | 
+ | Dread Plate  0.415%                    | 
+ | Lustrous Orb  0.415%                   | 
+ | Normal Gem  0.415%                     | 
+ | Heavy Ball  0.415%                     | 
+ | Soft Sand  0.415%                      | 
+ | Razz Berry  0.415%                     | 
+ | Wacan Berry  0.415%                    | 
+ | Charizardite Y  0.415%                 | 
+ | Cell Battery  0.415%                   | 
+ | Liechi Berry  0.415%                   | 
+ | Gengarite  0.415%                      | 
+ | Thick Club  0.385%                     | 
+ | Insect Plate  0.385%                   | 
+ | Micle Berry  0.385%                    | 
+ | Soul Dew  0.385%                       | 
+ | SilverPowder  0.385%                   | 
+ | Beedrillite  0.385%                    | 
+ | Mewtwonite X  0.385%                   | 
+ | Magnet  0.385%                         | 
+ | Repeat Ball  0.385%                    | 
+ | Metagrossite  0.385%                   | 
+ | Spelon Berry  0.385%                   | 
+ | Destiny Knot  0.385%                   | 
+ | Shuca Berry  0.385%                    | 
+ | Rocky Helmet  0.385%                   | 
+ | Blue Orb  0.385%                       | 
+ | Stick  0.385%                          | 
+ | Chilan Berry  0.385%                   | 
+ | King's Rock  0.385%                    | 
+ | Blazikenite  0.385%                    | 
+ | Ganlon Berry  0.385%                   | 
+ | Yache Berry  0.385%                    | 
+ | TwistedSpoon  0.385%                   | 
+ | Fairy Gem  0.385%                      | 
+ | Figy Berry  0.356%                     | 
+ | Shed Shell  0.356%                     | 
+ | Iron Ball  0.356%                      | 
+ | Choice Specs  0.356%                   | 
+ | Weakness Policy  0.356%                | 
+ | Snowball  0.356%                       | 
+ | Douse Drive  0.356%                    | 
+ | Earth Plate  0.356%                    | 
+ | Silk Scarf  0.356%                     | 
+ | Sceptilite  0.356%                     | 
+ | Custap Berry  0.356%                   | 
+ | Dome Fossil  0.356%                    | 
+ | Mind Plate  0.356%                     | 
+ | Altarianite  0.356%                    | 
+ | Ampharosite  0.356%                    | 
+ | Binding Band  0.356%                   | 
+ | Banettite  0.356%                      | 
+ | Fast Ball  0.356%                      | 
+ | Metronome  0.356%                      | 
+ | Stone Plate  0.356%                    | 
+ | Chople Berry  0.356%                   | 
+ | Wiki Berry  0.356%                     | 
+ | Charizardite X  0.356%                 | 
+ | Timer Ball  0.356%                     | 
+ | Skull Fossil  0.356%                   | 
+ | Electric Gem  0.356%                   | 
+ | Spooky Plate  0.356%                   | 
+ | Nanab Berry  0.326%                    | 
+ | Lagging Tail  0.326%                   | 
+ | Black Glasses  0.326%                  | 
+ | Toxic Plate  0.326%                    | 
+ | Tanga Berry  0.326%                    | 
+ | Kee Berry  0.326%                      | 
+ | Float Stone  0.326%                    | 
+ | Love Ball  0.326%                      | 
+ | Heal Ball  0.326%                      | 
+ | Cornn Berry  0.326%                    | 
+ | Iron Plate  0.326%                     | 
+ | Focus Band  0.326%                     | 
+ | DeepSeaScale  0.326%                   | 
+ | Muscle Band  0.326%                    | 
+ | Focus Sash  0.326%                     | 
+ | Adamant Orb  0.326%                    | 
+ | Fighting Gem  0.326%                   | 
+ | Iapapa Berry  0.326%                   | 
+ | Persim Berry  0.326%                   | 
+ | Nomel Berry  0.326%                    | 
+ | Magost Berry  0.326%                   | 
+ | Salamencite  0.326%                    | 
+ | Splash Plate  0.326%                   | 
+ | Sky Plate  0.326%                      | 
+ | Macho Brace  0.326%                    | 
+ | Medichamite  0.326%                    | 
+ | Oran Berry  0.326%                     | 
+ | Wide Lens  0.326%                      | 
+ | Wise Glasses  0.326%                   | 
+ | Sitrus Berry  0.326%                   | 
+ | Rock Gem  0.326%                       | 
+ | Rawst Berry  0.326%                    | 
+ | Metal Coat  0.296%                     | 
+ | Zoom Lens  0.296%                      | 
+ | Razor Claw  0.296%                     | 
+ | Bug Gem  0.296%                        | 
+ | Lucarionite  0.296%                    | 
+ | Net Ball  0.296%                       | 
+ | White Herb  0.296%                     | 
+ | Fist Plate  0.296%                     | 
+ | Metal Powder  0.296%                   | 
+ | Park Ball  0.296%                      | 
+ | Choice Band  0.296%                    | 
+ | Poison Gem  0.296%                     | 
+ | Quick Powder  0.296%                   | 
+ | Great Ball  0.296%                     | 
+ | Expert Belt  0.296%                    | 
+ | Rock Incense  0.296%                   | 
+ | Lum Berry  0.296%                      | 
+ | Assault Vest  0.296%                   | 
+ | Luminous Moss  0.296%                  | 
+ | Kasib Berry  0.296%                    | 
+ | Water Gem  0.296%                      | 
+ | Light Clay  0.296%                     | 
+ | Steelixite  0.296%                     | 
+ | Cover Fossil  0.296%                   | 
+ | Ice Gem  0.296%                        | 
+ | Eject Button  0.296%                   | 
+ | Smooth Rock  0.296%                    | 
+ | Pamtre Berry  0.296%                   | 
+ | Miracle Seed  0.296%                   | 
+ | Full Incense  0.296%                   | 
+ | Chill Drive  0.296%                    | 
+ | Flying Gem  0.296%                     | 
+ | Gyaradosite  0.296%                    | 
+ | Claw Fossil  0.296%                    | 
+ | Passho Berry  0.296%                   | 
+ | Fire Gem  0.296%                       | 
+ | Scope Lens  0.267%                     | 
+ | Black Sludge  0.267%                   | 
+ | Tamato Berry  0.267%                   | 
+ | Poison Barb  0.267%                    | 
+ | Sea Incense  0.267%                    | 
+ | Pomeg Berry  0.267%                    | 
+ | Rindo Berry  0.267%                    | 
+ | Leftovers  0.267%                      | 
+ | Enigma Berry  0.267%                   | 
+ | Nest Ball  0.267%                      | 
+ | Petaya Berry  0.267%                   | 
+ | Apicot Berry  0.267%                   | 
+ | Shock Drive  0.267%                    | 
+ | Rabuta Berry  0.267%                   | 
+ | Grip Claw  0.267%                      | 
+ | Mago Berry  0.267%                     | 
+ | Babiri Berry  0.267%                   | 
+ | Swampertite  0.267%                    | 
+ | Friend Ball  0.267%                    | 
+ | Aguav Berry  0.267%                    | 
+ | Cheri Berry  0.267%                    | 
+ | Aggronite  0.267%                      | 
+ | Coba Berry  0.267%                     | 
+ | Rare Bone  0.267%                      | 
+ | Belue Berry  0.237%                    | 
+ | Lure Ball  0.237%                      | 
+ | Dream Ball  0.237%                     | 
+ | Life Orb  0.237%                       | 
+ | Bluk Berry  0.237%                     | 
+ | Roseli Berry  0.237%                   | 
+ | Razor Fang  0.237%                     | 
+ | Sharpedonite  0.237%                   | 
+ | Quick Ball  0.237%                     | 
+ | Colbur Berry  0.237%                   | 
+ | Lansat Berry  0.237%                   | 
+ | Hondew Berry  0.208%                   | 
+ | Mewtwonite Y  0.208%                   | 
+ | Lucky Punch  0.208%                    | 
+ | Dusk Ball  0.208%                      | 
+ | Griseous Orb  0.208%                   | 
+ | Absorb Bulb  0.208%                    | 
+ | Other  4.951%                          | 
+ +----------------------------------------+ 
+ | Spreads                                | 
+ | Hasty:223/68/156/0/0/59  0.030%        | 
+ | Careful:252/58/108/0/40/52  0.030%     | 
+ | Adamant:115/217/0/0/49/129  0.030%     | 
+ | Bashful:206/107/0/0/197/0  0.030%      | 
+ | Docile:0/0/164/0/124/222  0.030%       | 
+ | Docile:182/235/0/0/0/92  0.030%        | 
+ | Other 99.822%                          | 
+ +----------------------------------------+ 
+ | Moves                                  | 
+ | Rock Tomb  7.234%                      | 
+ | Seed Bomb  6.671%                      | 
+ | Snore  6.641%                          | 
+ | Strength  6.433%                       | 
+ | Ingrain  6.404%                        | 
+ | Attract  6.374%                        | 
+ | Swords Dance  6.345%                   | 
+ | Role Play  6.226%                      | 
+ | Energy Ball  6.196%                    | 
+ | Rain Dance  6.196%                     | 
+ | Brick Break  6.196%                    | 
+ | Water Pulse  6.167%                    | 
+ | Frustration  6.167%                    | 
+ | Return  6.137%                         | 
+ | Light Screen  6.137%                   | 
+ | Endure  6.137%                         | 
+ | Rock Climb  6.107%                     | 
+ | Swagger  6.078%                        | 
+ | Solar Beam  6.048%                     | 
+ | Natural Gift  6.018%                   | 
+ | Substitute  5.989%                     | 
+ | Facade  5.959%                         | 
+ | Powder Snow  5.929%                    | 
+ | Hail  5.929%                           | 
+ | Mist  5.929%                           | 
+ | Fling  5.840%                          | 
+ | Shadow Ball  5.840%                    | 
+ | Toxic  5.840%                          | 
+ | Earthquake  5.840%                     | 
+ | Ice Shard  5.811%                      | 
+ | Sleep Talk  5.811%                     | 
+ | Headbutt  5.811%                       | 
+ | Giga Impact  5.781%                    | 
+ | Ice Beam  5.781%                       | 
+ | Flash  5.781%                          | 
+ | Safeguard  5.781%                      | 
+ | Outrage  5.752%                        | 
+ | Rock Slide  5.722%                     | 
+ | Icy Wind  5.722%                       | 
+ | Synthesis  5.692%                      | 
+ | Round  5.692%                          | 
+ | Secret Power  5.633%                   | 
+ | Confide  5.633%                        | 
+ | Rock Smash  5.633%                     | 
+ | Iron Tail  5.633%                      | 
+ | Grass Knot  5.603%                     | 
+ | Captivate  5.603%                      | 
+ | Grass Whistle  5.603%                  | 
+ | Leer  5.574%                           | 
+ | Rest  5.544%                           | 
+ | Razor Leaf  5.544%                     | 
+ | Avalanche  5.485%                      | 
+ | Blizzard  5.485%                       | 
+ | Giga Drain  5.485%                     | 
+ | Protect  5.485%                        | 
+ | Block  5.485%                          | 
+ | Focus Blast  5.425%                    | 
+ | Double Team  5.396%                    | 
+ | Mud-Slap  5.336%                       | 
+ | Frost Breath  5.336%                   | 
+ | Hyper Beam  5.307%                     | 
+ | Wood Hammer  5.277%                    | 
+ | Bullet Seed  5.277%                    | 
+ | Focus Punch  5.248%                    | 
+ | Worry Seed  5.218%                     | 
+ | Bulldoze  5.129%                       | 
+ | Other 15.476%                          | 
+ +----------------------------------------+ 
+ | Teammates                              | 
+ +----------------------------------------+ 
+ | Checks and Counters                    | 
+ +----------------------------------------+ 

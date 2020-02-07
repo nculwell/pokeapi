@@ -1,0 +1,285 @@
+{
+  "source": "www.smogon.com/stats/2016-10/leads/gen4uu-0.txt",
+  "stats": [
+    {
+      "rank": "1",
+      "pokemon": "Ambipom",
+      "usage_pct": "20.45455",
+      "raw_count": "27",
+      "raw_pct": "20.455"
+    },
+    {
+      "rank": "2",
+      "pokemon": "Uxie",
+      "usage_pct": "8.33333",
+      "raw_count": "11",
+      "raw_pct": "8.333"
+    },
+    {
+      "rank": "3",
+      "pokemon": "Nidoqueen",
+      "usage_pct": "6.81818",
+      "raw_count": "9",
+      "raw_pct": "6.818"
+    },
+    {
+      "rank": "4",
+      "pokemon": "Mesprit",
+      "usage_pct": "6.06061",
+      "raw_count": "8",
+      "raw_pct": "6.061"
+    },
+    {
+      "rank": "5",
+      "pokemon": "Registeel",
+      "usage_pct": "5.30303",
+      "raw_count": "7",
+      "raw_pct": "5.303"
+    },
+    {
+      "rank": "6",
+      "pokemon": "Venusaur",
+      "usage_pct": "4.54545",
+      "raw_count": "6",
+      "raw_pct": "4.545"
+    },
+    {
+      "rank": "7",
+      "pokemon": "Miltank",
+      "usage_pct": "3.03030",
+      "raw_count": "4",
+      "raw_pct": "3.030"
+    },
+    {
+      "rank": "8",
+      "pokemon": "Torterra",
+      "usage_pct": "3.03030",
+      "raw_count": "4",
+      "raw_pct": "3.030"
+    },
+    {
+      "rank": "9",
+      "pokemon": "Venomoth",
+      "usage_pct": "3.03030",
+      "raw_count": "4",
+      "raw_pct": "3.030"
+    },
+    {
+      "rank": "10",
+      "pokemon": "Golbat",
+      "usage_pct": "3.03030",
+      "raw_count": "4",
+      "raw_pct": "3.030"
+    },
+    {
+      "rank": "11",
+      "pokemon": "Mismagius",
+      "usage_pct": "3.03030",
+      "raw_count": "4",
+      "raw_pct": "3.030"
+    },
+    {
+      "rank": "12",
+      "pokemon": "Electrode",
+      "usage_pct": "3.03030",
+      "raw_count": "4",
+      "raw_pct": "3.030"
+    },
+    {
+      "rank": "13",
+      "pokemon": "Rhyperior",
+      "usage_pct": "2.27273",
+      "raw_count": "3",
+      "raw_pct": "2.273"
+    },
+    {
+      "rank": "14",
+      "pokemon": "Gligar",
+      "usage_pct": "1.51515",
+      "raw_count": "2",
+      "raw_pct": "1.515"
+    },
+    {
+      "rank": "15",
+      "pokemon": "Absol",
+      "usage_pct": "1.51515",
+      "raw_count": "2",
+      "raw_pct": "1.515"
+    },
+    {
+      "rank": "16",
+      "pokemon": "Drapion",
+      "usage_pct": "1.51515",
+      "raw_count": "2",
+      "raw_pct": "1.515"
+    },
+    {
+      "rank": "17",
+      "pokemon": "Nidoking",
+      "usage_pct": "1.51515",
+      "raw_count": "2",
+      "raw_pct": "1.515"
+    },
+    {
+      "rank": "18",
+      "pokemon": "Clefable",
+      "usage_pct": "1.51515",
+      "raw_count": "2",
+      "raw_pct": "1.515"
+    },
+    {
+      "rank": "19",
+      "pokemon": "Dugtrio",
+      "usage_pct": "1.51515",
+      "raw_count": "2",
+      "raw_pct": "1.515"
+    },
+    {
+      "rank": "20",
+      "pokemon": "Blaziken",
+      "usage_pct": "1.51515",
+      "raw_count": "2",
+      "raw_pct": "1.515"
+    },
+    {
+      "rank": "21",
+      "pokemon": "Omastar",
+      "usage_pct": "1.51515",
+      "raw_count": "2",
+      "raw_pct": "1.515"
+    },
+    {
+      "rank": "22",
+      "pokemon": "Feraligatr",
+      "usage_pct": "1.51515",
+      "raw_count": "2",
+      "raw_pct": "1.515"
+    },
+    {
+      "rank": "23",
+      "pokemon": "Blastoise",
+      "usage_pct": "1.51515",
+      "raw_count": "2",
+      "raw_pct": "1.515"
+    },
+    {
+      "rank": "24",
+      "pokemon": "Cloyster",
+      "usage_pct": "0.75758",
+      "raw_count": "1",
+      "raw_pct": "0.758"
+    },
+    {
+      "rank": "25",
+      "pokemon": "Pachirisu",
+      "usage_pct": "0.75758",
+      "raw_count": "1",
+      "raw_pct": "0.758"
+    },
+    {
+      "rank": "26",
+      "pokemon": "Spiritomb",
+      "usage_pct": "0.75758",
+      "raw_count": "1",
+      "raw_pct": "0.758"
+    },
+    {
+      "rank": "27",
+      "pokemon": "Swellow",
+      "usage_pct": "0.75758",
+      "raw_count": "1",
+      "raw_pct": "0.758"
+    },
+    {
+      "rank": "28",
+      "pokemon": "Gardevoir",
+      "usage_pct": "0.75758",
+      "raw_count": "1",
+      "raw_pct": "0.758"
+    },
+    {
+      "rank": "29",
+      "pokemon": "Dragonair",
+      "usage_pct": "0.75758",
+      "raw_count": "1",
+      "raw_pct": "0.758"
+    },
+    {
+      "rank": "30",
+      "pokemon": "Lopunny",
+      "usage_pct": "0.75758",
+      "raw_count": "1",
+      "raw_pct": "0.758"
+    },
+    {
+      "rank": "31",
+      "pokemon": "Bastiodon",
+      "usage_pct": "0.75758",
+      "raw_count": "1",
+      "raw_pct": "0.758"
+    },
+    {
+      "rank": "32",
+      "pokemon": "Qwilfish",
+      "usage_pct": "0.75758",
+      "raw_count": "1",
+      "raw_pct": "0.758"
+    },
+    {
+      "rank": "33",
+      "pokemon": "Claydol",
+      "usage_pct": "0.75758",
+      "raw_count": "1",
+      "raw_pct": "0.758"
+    },
+    {
+      "rank": "34",
+      "pokemon": "Milotic",
+      "usage_pct": "0.75758",
+      "raw_count": "1",
+      "raw_pct": "0.758"
+    },
+    {
+      "rank": "35",
+      "pokemon": "Sceptile",
+      "usage_pct": "0.75758",
+      "raw_count": "1",
+      "raw_pct": "0.758"
+    },
+    {
+      "rank": "36",
+      "pokemon": "Sableye",
+      "usage_pct": "0.75758",
+      "raw_count": "1",
+      "raw_pct": "0.758"
+    },
+    {
+      "rank": "37",
+      "pokemon": "Typhlosion",
+      "usage_pct": "0.75758",
+      "raw_count": "1",
+      "raw_pct": "0.758"
+    },
+    {
+      "rank": "38",
+      "pokemon": "Aggron",
+      "usage_pct": "0.75758",
+      "raw_count": "1",
+      "raw_pct": "0.758"
+    },
+    {
+      "rank": "39",
+      "pokemon": "Arcanine",
+      "usage_pct": "0.75758",
+      "raw_count": "1",
+      "raw_pct": "0.758"
+    },
+    {
+      "rank": "40",
+      "pokemon": "Alakazam",
+      "usage_pct": "0.75758",
+      "raw_count": "1",
+      "raw_pct": "0.758"
+    }
+  ]
+}
