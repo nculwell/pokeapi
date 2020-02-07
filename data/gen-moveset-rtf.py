@@ -14,28 +14,58 @@ DIVIDER_EMDASH_COUNT = 10
 
 def fail(msg, detail = None):
     if detail:
-        print("Error, " + msg + ":" + str(detail), file=sys.stderr)
+        print("Error, " + msg + ": " + str(detail), file=sys.stderr)
     else:
         print("Error,", msg, file=sys.stderr)
     sys.exit(1)
 
+def print_usage():
+    print("Usage: %s YYYY-MM generation_number format_name weight_cutoff dst_dir"
+            % os.path.basename(sys.argv[0]), file=sys.stderr)
+
 def main():
     try:
-        src_filename = sys.argv[1]
-        dst_filename = sys.argv[2]
-    except IndexError:
+        year_month, generation_number, format_name, weight_cutoff, dst_dir = sys.argv[1:]
+        generation_number = int(generation_number)
+        weight_cutoff = int(weight_cutoff)
+    except:
+        print_usage()
         fail("invalid arguments", sys.argv[1:] or "(none)")
+    filename_params = (year_month, generation_number, format_name, weight_cutoff)
+    src_filename = ("smogon/www.smogon.com/stats/%s/moveset/gen%s%s-%s.json" % filename_params)
+    src_filename_leads = src_filename.replace("/moveset/", "/leads/")
     if not os.path.exists(src_filename):
-        fail("file not found", dst_filename)
+        print_usage()
+        fail("file not found", src_filename)
+    if dst_dir != "-" and not os.path.exists(dst_dir):
+        fail("destination dir does not exist", dst_dir)
+    if dst_dir == "-":
+        dst_filename = "-"
+    else:
+        dst_filename = os.path.join(dst_dir, "Smogon-%s-gen%d%s-%d.rtf" % filename_params)
     if dst_filename != "-" and os.path.exists(dst_filename):
         fail("file exists, will not overwrite", dst_filename)
-    with open(src_filename, encoding='utf8') as src:
-        moveset = json.load(src)
+    moveset = read_moveset_file(src_filename)
+    leads = read_leads_file(src_filename_leads)
     db = sqlite3.connect("pokeapi.db")
     db.text_factory = lambda x: str(x, DB_ENCODING)
     with open_dst(dst_filename) as dst:
-        write_moveset(dst, db, moveset)
+        write_moveset(dst, db, moveset, leads)
     db.close()
+
+def read_moveset_file(src_filename):
+    if not os.path.exists(src_filename):
+        cmd = "( cd smogon && ./parse-moveset.py %s )" % re.sub(r"^smogon/", "", src_filename)
+        subprocess.run(cmd, shell=True, check=True)
+    with open(src_filename, encoding='utf8') as src:
+        return json.load(src)
+
+def read_leads_file(src_filename_leads):
+    if not os.path.exists(src_filename):
+        cmd = "( cd smogon && ./parse-leads.py %s )" % re.sub(r"^smogon/", "", src_filename_leads)
+        subprocess.run(cmd, shell=True, check=True)
+    with open(src_filename_leads, encoding='utf8') as src:
+        return json.load(src)
 
 def open_dst(dst_filename):
     if dst_filename == "-":
@@ -65,7 +95,7 @@ FOOTER = r'''
 
 NEWLINE = "\r\n"
 
-def write_moveset(dst, db, moveset):
+def write_moveset(dst, db, moveset, leads):
     move_cache = {}
     natures = load_natures(db)
     original_source = moveset["source"]
@@ -73,10 +103,13 @@ def write_moveset(dst, db, moveset):
     src_generation, src_tier = src_match.group(1, 2)
     src_format = "Gen %s %s" % (src_generation, src_tier.upper())
     moveset_stats = moveset["stats"]
+    leads_index = build_leads_index(leads)
     dst.write(HEADER)
     dst.write((r"{\footer \par {\qc\f2\fs%d {\b %s.} Based on Smogon.com usage statistics with additional data from PokeAPI. Source: %s \par\qr Page \chpgn}}" + NEWLINE)
             % (int(FONT_SIZE_NORMAL * 2), src_format, original_source))
     dst.write(BEGIN_COLUMNS + NEWLINE)
+    with open("moveset-stats-intro.rtf") as f:
+        dst.write(f.read().strip() + NEWLINE)
     for s in moveset_stats:
         #print(s, file=sys.stderr)
         name = s["name"]
@@ -99,9 +132,13 @@ def write_moveset(dst, db, moveset):
         pairs_para(dst, "Teammates", s["teammates"])
         if s["counters"]:
             counters_para(dst, s["counters"])
-        dst.write(r"\par {\b Raw count} %s, {\b Average weight} %s, {\b Viability ceiling} %s" % (
-            s["raw_count"], cond_fmt(s["avg_weight"], (lambda aw: "%0.3f" % float(aw))), s["via_ceil"],
-            ))
+        avg_weight = cond_fmt(s["avg_weight"], (lambda aw: "%0.3f" % float(aw)))
+        lead_rank = leads_index.get(identifier, "\emdash ")
+        dst.write(r"\par")
+        dst.write(r" {\b Lead rank} %s" % lead_rank)
+        dst.write(r", {\b Via ceil} %s" % s["via_ceil"])
+        dst.write(r", {\b Raw count} %s" % s["raw_count"])
+        dst.write(r", {\b Avg wt} %s" % avg_weight)
         dst.write(NEWLINE)
     #print(move_cache, file=sys.stderr)
     dst.write(r"\par" + (r"\emdash" * DIVIDER_EMDASH_COUNT) + NEWLINE)
@@ -116,6 +153,13 @@ def write_moveset(dst, db, moveset):
     dst.write(NEWLINE)
     dst.write(FOOTER)
     dst.write(NEWLINE)
+
+def build_leads_index(leads):
+    ix = {}
+    for x in leads["stats"]:
+        identifier = pokemon_identifier_from_name(x["pokemon"])
+        ix[identifier] = x["rank"]
+    return ix
 
 def cond_fmt(value, fmt_func):
     try:
