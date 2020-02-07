@@ -7,3 +7,5 @@ db.*
 venv*
 node_modules
 .vscode
+.*.swp
+*.bak
