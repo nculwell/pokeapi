@@ -99,8 +99,8 @@ def write_moveset(dst, db, moveset):
         pairs_para(dst, "Teammates", s["teammates"])
         if s["counters"]:
             counters_para(dst, s["counters"])
-        dst.write(r"\par {\b Raw count} %s, {\b Average weight} %0.3f, {\b Viability ceiling} %s" % (
-            s["raw_count"], float(s["avg_weight"]), s["via_ceil"],
+        dst.write(r"\par {\b Raw count} %s, {\b Average weight} %s, {\b Viability ceiling} %s" % (
+            s["raw_count"], cond_fmt(s["avg_weight"], (lambda aw: "%0.3f" % float(aw))), s["via_ceil"],
             ))
         dst.write(NEWLINE)
     #print(move_cache, file=sys.stderr)
@@ -116,6 +116,12 @@ def write_moveset(dst, db, moveset):
     dst.write(NEWLINE)
     dst.write(FOOTER)
     dst.write(NEWLINE)
+
+def cond_fmt(value, fmt_func):
+    try:
+        return fmt_func(value)
+    except:
+        return value
 
 def render_types(types):
     if types == [ "fairy" ]:
