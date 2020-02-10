@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-import sys, os, os.path, json, re
+import sys, os, os.path, json, re, subprocess
 import sqlite3
 
 FONT_SIZE_NORMAL = 5
@@ -11,6 +11,10 @@ POKEMON_ENTRY_PRE_SPACE = 0
 MOVE_REFERENCE_PRE_SPACE = 200
 DAMAGE_CLASS_LENGTH_CHARS = 4
 DIVIDER_EMDASH_COUNT = 10
+
+CHAR_E_ACCENT = r"\'e9"
+CHAR_ONE_HALF = r"\'bd"
+CHAR_ONE_FOURTH = r"\'bc"
 
 def fail(msg, detail = None):
     if detail:
@@ -34,9 +38,6 @@ def main():
     filename_params = (year_month, generation_number, format_name, weight_cutoff)
     src_filename = ("smogon/www.smogon.com/stats/%s/moveset/gen%s%s-%s.json" % filename_params)
     src_filename_leads = src_filename.replace("/moveset/", "/leads/")
-    if not os.path.exists(src_filename):
-        print_usage()
-        fail("file not found", src_filename)
     if dst_dir != "-" and not os.path.exists(dst_dir):
         fail("destination dir does not exist", dst_dir)
     if dst_dir == "-":
@@ -53,19 +54,26 @@ def main():
         write_moveset(dst, db, moveset, leads)
     db.close()
 
-def read_moveset_file(src_filename):
-    if not os.path.exists(src_filename):
-        cmd = "( cd smogon && ./parse-moveset.py %s )" % re.sub(r"^smogon/", "", src_filename)
-        subprocess.run(cmd, shell=True, check=True)
-    with open(src_filename, encoding='utf8') as src:
-        return json.load(src)
+def read_moveset_file(src_filename_moveset):
+    return load_smogon_data(src_filename_moveset, "moveset")
 
 def read_leads_file(src_filename_leads):
-    if not os.path.exists(src_filename):
-        cmd = "( cd smogon && ./parse-leads.py %s )" % re.sub(r"^smogon/", "", src_filename_leads)
-        subprocess.run(cmd, shell=True, check=True)
-    with open(src_filename_leads, encoding='utf8') as src:
+    return load_smogon_data(src_filename_leads, "leads")
+
+def load_smogon_data(smogon_src_filename, data_type):
+    if not os.path.exists(smogon_src_filename):
+        parse_smogon_data(smogon_src_filename, data_type)
+    with open(smogon_src_filename, encoding='utf8') as src:
         return json.load(src)
+
+def parse_smogon_data(smogon_src_filename, data_type):
+        file_to_parse = re.sub(r"^smogon/", "", smogon_src_filename)
+        file_to_parse = os.path.splitext(file_to_parse)[0] + ".txt"
+        cwd = os.getcwd()
+        os.chdir("smogon")
+        cmd = ["./parse-" + data_type + ".py", file_to_parse]
+        subprocess.run(cmd, check=True)
+        os.chdir(cwd)
 
 def open_dst(dst_filename):
     if dst_filename == "-":
@@ -102,6 +110,7 @@ def write_moveset(dst, db, moveset, leads):
     src_match = re.match(r"gen(\d+)([a-z]+)", os.path.basename(original_source))
     src_generation, src_tier = src_match.group(1, 2)
     src_format = "Gen %s %s" % (src_generation, src_tier.upper())
+    type_eff = load_type_efficacy(db, src_generation)
     moveset_stats = moveset["stats"]
     leads_index = build_leads_index(leads)
     dst.write(HEADER)
@@ -110,6 +119,7 @@ def write_moveset(dst, db, moveset, leads):
     dst.write(BEGIN_COLUMNS + NEWLINE)
     with open("moveset-stats-intro.rtf") as f:
         dst.write(f.read().strip() + NEWLINE)
+    write_divider(dst)
     for s in moveset_stats:
         #print(s, file=sys.stderr)
         name = s["name"]
@@ -124,6 +134,7 @@ def write_moveset(dst, db, moveset, leads):
         #dst.write(NEWLINE)
         #write_types(dst, pokemon_info["types"])
         write_stats(dst, natures, pokemon_info["stats"])
+        write_type_eff(dst, type_eff, pokemon_info["types"])
         pairs_para(dst, "Abilities", s["abilities"])
         pairs_para(dst, "Items", s["items"])
         #pairs_para(dst, "EVs", s["spreads"])
@@ -138,11 +149,16 @@ def write_moveset(dst, db, moveset, leads):
         dst.write(r" {\b Lead rank} %s" % lead_rank)
         dst.write(r", {\b Via ceil} %s" % s["via_ceil"])
         dst.write(r", {\b Raw count} %s" % s["raw_count"])
-        dst.write(r", {\b Avg wt} %s" % avg_weight)
+        dst.write(r", {\b Avg wt} %s" % avg_weight.replace("---", "\emdash "))
         dst.write(NEWLINE)
     #print(move_cache, file=sys.stderr)
-    dst.write(r"\par" + (r"\emdash" * DIVIDER_EMDASH_COUNT) + NEWLINE)
+    write_divider(dst)
     dst.write(END_COLUMNS + NEWLINE)
+    write_move_reference(dst, move_cache)
+    dst.write(FOOTER)
+    dst.write(NEWLINE)
+
+def write_move_reference(dst, move_cache):
     dst.write(r"\par\sb%d {\s0 {\f0\fs%d\b MOVE REFERENCE}}" % (
         MOVE_REFERENCE_PRE_SPACE, FONT_SIZE_HEADING * 2))
     dst.write(NEWLINE)
@@ -151,8 +167,41 @@ def write_moveset(dst, db, moveset, leads):
         dst.write(NEWLINE)
     dst.write(r"}")
     dst.write(NEWLINE)
-    dst.write(FOOTER)
-    dst.write(NEWLINE)
+
+def write_type_eff(dst, type_eff, types):
+    weak_to = []
+    resists = []
+    for damage_type in type_eff["TYPES"]:
+        eff = 1.0
+        for target_type in types:
+            eff = eff * type_eff[damage_type][target_type]
+        if eff < 1.0:
+            resists.append([damage_type, eff])
+        elif eff > 1.0:
+            weak_to.append([damage_type, eff])
+    def write_eff_section(title, type_eff_list):
+        dst.write(r"{{\b %s:}\scaps " % title)
+        if len(type_eff_list) == 0:
+            dst.write("(none) ")
+        else:
+            dst.write(",".join(
+                [ " %s %s" % (t.title(), render_factor(e))
+                    for (t, e) in type_eff_list ]))
+        dst.write("}" + NEWLINE)
+    dst.write(r"{\line" + NEWLINE)
+    write_eff_section("Resists", resists)
+    write_eff_section("  Weak to", weak_to)
+    dst.write(r"}" + NEWLINE)
+
+def render_factor(fact):
+    if fact >= 1 or fact == 0:
+        return str(int(fact))
+    else:
+        mapping = { 0.25: CHAR_ONE_FOURTH, 0.50: CHAR_ONE_HALF, }
+        return mapping[fact]
+
+def write_divider(dst):
+    dst.write(r"\par" + (r"\emdash" * DIVIDER_EMDASH_COUNT) + NEWLINE)
 
 def build_leads_index(leads):
     ix = {}
@@ -168,8 +217,8 @@ def cond_fmt(value, fmt_func):
         return value
 
 def render_types(types):
-    if types == [ "fairy" ]:
-        types = [ "normal" ];
+    #if types == [ "fairy" ]:
+    #    types = [ "normal" ];
     return " ".join(( t.title() for t in types ))
 
 def write_types(dst, types):
@@ -181,11 +230,11 @@ def write_types(dst, types):
     dst.write(NEWLINE)
 
 def write_stats(dst, natures, stats):
-    #print("Stats:", stats, file=sys.stderr)
+    #print("Stats: ", stats, file=sys.stderr)
     eff = { s: calc_effective_stat(natures, s, stats[s], 100, "hardy", 0, 0)
             for s in STAT_ORDER }
-    #dst.write(r"\par {\s0 {\b %s:} " % "Stats")
     dst.write(r"{\line\s0")
+    #dst.write(r"{\b Stats:} ")
     for s in STAT_ORDER:
         if not s in stats:
             raise Exception("Stat not found: " + s)
@@ -203,7 +252,13 @@ STAT_ABBRS = {
 }
 
 def pokemon_identifier_from_name(name):
-    identifier = name.lower().replace('.', '').replace(' ', '-')
+    identifier = (
+            name
+            .lower()
+            .replace(".", "")
+            .replace(" ", "-")
+            .replace("'", "")
+            )
     if identifier in POKEMON_IDENTIFIER_ALTERNATES:
         return POKEMON_IDENTIFIER_ALTERNATES[identifier]
     return identifier
@@ -420,6 +475,48 @@ def load_natures(db):
     for row in cur.execute(natures_sql):
         natures[row[0]] = (row[1], row[2])
     return natures
+
+def load_type_efficacy(db, generation):
+    generation = int(generation)
+    cur = db.cursor()
+    type_eff_sql = """
+    select
+      te.damage_type_id, td.identifier damage_type_identifier
+    , te.target_type_id, tt.identifier target_type_identifier
+    , te.damage_factor 
+    from type_efficacy te
+    join types td on td.id = te.damage_type_id
+    join types tt on tt.id = te.target_type_id
+    """
+    types = []
+    type_eff = {}
+    type_eff["TYPES"] = types
+    type_generation = [ [ 2, "dark" ], [ 2, "steel" ], [ 6, "fairy" ] ]
+    for row in cur.execute(type_eff_sql):
+        dt_nm = row[1]
+        tt_nm = row[3]
+        skip_iteration = False
+        for (g, t) in type_generation:
+            if generation < g and (t == dt_nm or t == tt_nm):
+                skip_iteration = True
+                break
+        if skip_iteration:
+            continue
+        try:
+            dt_id = int(row[0])
+            damage_factor_pct = float(row[4])
+            assert(dt_id > 0)
+            while len(types) < dt_id:
+                types.append(None)
+            types[dt_id-1] = dt_nm
+            te = type_eff.get(dt_nm)
+            if not te:
+                te = {}
+                type_eff[dt_nm] = te
+            te[tt_nm] = damage_factor_pct / 100.0
+        except Exception as e:
+            raise Exception("Error, dam=%s, tgt=%s: %s" % (dt_nm, tt_nm, str(e)))
+    return type_eff
 
 if __name__ == "__main__":
     main()

@@ -15,7 +15,7 @@ def main():
     except IndexError:
         fail("invalid arguments", sys.argv[1:] or "(none)")
     if not os.path.exists(src_filename):
-        fail("file not found", dst_filename)
+        fail("file not found", src_filename)
     noext, ext = os.path.splitext(src_filename)
     dst_filename = noext + ".json"
     if dst_filename != "-" and os.path.exists(dst_filename):
