@@ -27,9 +27,19 @@ def print_usage():
     print("Usage: %s YYYY-MM generation_number format_name weight_cutoff dst_dir"
             % os.path.basename(sys.argv[0]), file=sys.stderr)
 
+def get_args():
+    opts = {}
+    args = [opts]
+    for a in sys.argv[1:]:
+        if a == "-d" or a == "--delete" or a == "--overwrite":
+            opts["delete"] = True
+        else:
+            args.append(a)
+    return args
+
 def main():
     try:
-        year_month, generation_number, format_name, weight_cutoff, dst_dir = sys.argv[1:]
+        opts, year_month, generation_number, format_name, weight_cutoff, dst_dir = get_args()
         generation_number = int(generation_number)
         weight_cutoff = int(weight_cutoff)
     except:
@@ -45,7 +55,8 @@ def main():
     else:
         dst_filename = os.path.join(dst_dir, "Smogon-%s-gen%d%s-%d.rtf" % filename_params)
     if dst_filename != "-" and os.path.exists(dst_filename):
-        fail("file exists, will not overwrite", dst_filename)
+        if not opts.get("delete", False):
+            fail("file exists, will not overwrite", dst_filename)
     moveset = read_moveset_file(src_filename)
     leads = read_leads_file(src_filename_leads)
     db = sqlite3.connect("pokeapi.db")
@@ -154,7 +165,7 @@ def write_moveset(dst, db, moveset, leads):
     #print(move_cache, file=sys.stderr)
     write_divider(dst)
     dst.write(END_COLUMNS + NEWLINE)
-    write_move_reference(dst, move_cache)
+    #write_move_reference(dst, move_cache)
     dst.write(FOOTER)
     dst.write(NEWLINE)
 

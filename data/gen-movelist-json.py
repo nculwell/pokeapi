@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-import sys, os, os.path, json, re, subprocess
+import sys, os, os.path, json, re, subprocess, glob
 import sqlite3
 
 FONT_SIZE_NORMAL = 5
@@ -20,40 +20,41 @@ def fail(msg, detail = None):
     sys.exit(1)
 
 def print_usage():
-    print("Usage: %s YYYY-MM generation_number format_name weight_cutoff dst_dir"
+    print("Usage: %s generation_number weight_cutoff dst_dir"
             % os.path.basename(sys.argv[0]), file=sys.stderr)
 
 def main():
-    MOVESET_FILE_LIST_FILENAME = "moveset-files.txt"
     try:
-        year_month, generation_number, format_name, weight_cutoff, dst_dir = sys.argv[1:]
+        generation_number, weight_cutoff, dst_dir = sys.argv[1:]
         generation_number = int(generation_number)
         weight_cutoff = int(weight_cutoff)
     except:
         print_usage()
         fail("invalid arguments", sys.argv[1:] or "(none)")
-    os.remove(MOVESET_FILE_LIST_FILENAME)
-    cmd = "find www.smogon.com/stats/*/moveset/ -name 'gen%d*.json' > '%s'" % (
-            generation_number, MOVESET_FILE_LIST_FILENAME)
-    subprocess.run(cmd, shell=True, check=True)
-    with open(MOVESET_FILE_LIST_FILENAME) as f:
-        moveset_file_paths = f.readlines()
-    os.remove(MOVESET_FILE_LIST_FILENAME)
+    moveset_file_paths = list(get_files_list(generation_number, weight_cutoff))
     db = sqlite3.connect("pokeapi.db")
     db.text_factory = lambda x: str(x, DB_ENCODING)
-    move_cache = collect_moves(moveset_file_paths)
-    with open_dst(dst_filename) as dst:
-        write_moves(dst, db, move_cache)
+    move_cache = collect_moves(db, moveset_file_paths, generation_number)
+    dst_filename = "Smogon-gen%d-%d-move-reference.rtf" % (generation_number, weight_cutoff)
+    dst_path = os.path.join(dst_dir, dst_filename)
+    with open_dst(dst_path) as dst:
+        write_moves(dst, db, move_cache, generation_number)
     db.close()
+
+def get_files_list(generation_number, weight_cutoff):
+    for d in glob.glob("smogon/www.smogon.com/stats/*/moveset/"):
+        for f in os.listdir(d):
+            if re.match(r"^gen%d[^0-9]*-%d\.json$" % (generation_number, weight_cutoff), f):
+                yield os.path.join(d, f)
 
 def collect_moves(db, moveset_file_paths, generation):
     move_cache = {}
     for path in moveset_file_paths:
+        #print(path)
         with open(path) as f:
-            data = json.load(f)
+            moveset = json.load(f)
             moveset_stats = moveset["stats"]
         for s in moveset_stats:
-            VESET_FILE_LIST_FILENAME
             add_pokemon_moves(db, move_cache, generation, s["moves"])
     return move_cache
 
@@ -82,7 +83,7 @@ HEADER = r'''
 \margl%d\margr%d\margt%d\margb%d
 '''.lstrip().replace('\n', '\r\n') % ( FONT_SIZE_NORMAL * 2, FONT_SIZE_HEADING * 2, MARGIN_WIDTH, MARGIN_WIDTH, MARGIN_WIDTH, MARGIN_WIDTH )
 
-BEGIN_COLUMNS = r"\cols3\colsx350"
+BEGIN_COLUMNS = r"\cols2\colsx350"
 END_COLUMNS = r""
 
 FOOTER = r'''
@@ -91,12 +92,13 @@ FOOTER = r'''
 
 NEWLINE = "\r\n"
 
-def write_moves(dst, db, moves):
-    original_source = moveset["source"]
-    src_match = re.match(r"gen(\d+)([a-z]+)", os.path.basename(original_source))
-    src_generation, src_tier = src_match.group(1, 2)
+def write_moves(dst, db, move_cache, src_generation):
+    #original_source = moveset["source"]
+    #src_match = re.match(r"gen(\d+)([a-z]+)", os.path.basename(original_source))
+    #src_generation, src_tier = src_match.group(1, 2)
     src_label = "Gen %s" % (src_generation)
     dst.write(HEADER)
+    dst.write(BEGIN_COLUMNS)
     dst.write((r"{\footer \par {\qc\f2\fs%d {\b %s.} Based on Smogon.com usage statistics with additional data from PokeAPI.}}" + NEWLINE)
             % (int(FONT_SIZE_NORMAL * 2), src_label))
     dst.write(r"\par\sb%d {\s0 {\f0\fs%d\b MOVE REFERENCE}}" % (
