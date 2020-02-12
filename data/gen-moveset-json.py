@@ -49,10 +49,9 @@ def main():
     moveset = read_moveset_file(src_filename)
     leads = read_leads_file(src_filename_leads)
     db = sqlite3.connect("pokeapi.db")
-    db.text_factory = lambda x: str(x, DB_ENCODING)
-    moveset_data = get_moveset_data(dst, db, moveset, leads)
+    moveset_data = get_moveset_data(db, moveset, leads)
     with open_dst(dst_filename) as dst:
-        json.dump(moveset_data, dst)
+        json.dump(moveset_data, dst, indent=1)
     db.close()
 
 def read_moveset_file(src_filename_moveset):
@@ -82,11 +81,12 @@ def open_dst(dst_filename):
     else:
         return open(dst_filename, mode='w')
 
-def get_moveset_data(dst, db, moveset, leads):
+def get_moveset_data(db, moveset, leads):
     move_cache = {}
-    moveset_source_filename = os.path.basename(moveset["source"])
-    src_match = re.match(r"gen(\d+)([a-z]+)", moveset_source_filename)
-    src_generation, src_tier = src_match.group(1, 2)
+    original_source_url = moveset["source"]
+    moveset_source_filename = os.path.basename(original_source_url)
+    src_match = re.match(r"gen(\d+)([a-z]+)-([0-9]+)", moveset_source_filename)
+    src_generation, src_tier, src_weight_cutoff = src_match.group(1, 2, 3)
     src_format = "Gen %s %s" % (src_generation, src_tier.upper())
     type_eff_table = load_type_efficacy(db, src_generation)
     leads_index = build_leads_index(leads)
@@ -96,55 +96,86 @@ def get_moveset_data(dst, db, moveset, leads):
         identifier = pokemon_identifier_from_name(name)
         pokemon_info = lookup_pokemon_details(db, src_generation, identifier)
         type_efficacy = get_type_efficacy(type_eff_table, pokemon_info["types"])
-        upscaled_hp = int(1.25 * (int(2 * pokemon_info["stats"]["hp"] / 100) + 100 + 10))
+        upscaled_hp = int(1.25 * (int(2 * int(pokemon_info["stats"]["hp"]) / 100) + 100 + 10))
         moves = get_moves(db, move_cache, src_generation, s["moves"])
         counters = get_counters(s["counters"])
         lead_rank = leads_index.get(identifier)
         compiled_pokemon_data.append({
             "identifier": identifier,
             "name": name,
-            "national_pokdex_number": pokemon_info["national_pokdex_number"],
-            "pokemon_db_details": pokemon_info,
+            "national_pokedex_number": int(pokemon_info["national_pokdex_number"]),
+            #"pokemon_db_details": pokemon_info,
             "types": pokemon_info["types"],
-            "base_stats": pokemon_info["stats"],
+            "base_stats":
+                { nm: int(v) for (nm, v) in pokemon_info["stats"].items() }
+                ,
             "upscaled_hp": upscaled_hp,
             "type_efficacy": type_efficacy,
-            "lead_rank": lead_rank,
-            "viability_ceiling": s["via_ceil"],
-            "raw_count": s["raw_count"],
-            "average_weight": s["avg_weight"] if avg_weight != "---" else None,
-            "abilities": s["abilities"],
-            "items": s["items"],
-            "spreads": s["spreads"],
+            "lead_rank": parse_int(lead_rank),
+            "viability_ceiling": int(s["via_ceil"]),
+            "raw_count": int(s["raw_count"]),
+            "average_weight":
+                float(s["avg_weight"]) if s["avg_weight"] != "---" else None
+                ,
+            "abilities": parse_pairlist(s["abilities"]),
+            "items": parse_pairlist(s["items"]),
+            "spreads": parse_pairlist(s["spreads"]),
             "moves": moves,
-            "teammates": s["teammates"],
+            "teammates": parse_pairlist(s["teammates"]),
             "counters": counters,
             })
+    moves_used = move_cache.keys()
     compiled_moveset_data = {
-        "source_filename": source_filename,
-        "generation": src_generation,
+        "source": original_source_url,
+        "source_filename": moveset_source_filename,
+        "generation": int(src_generation),
         "tier": src_tier,
-        "leads": leads,
+        "weight_cutoff": src_weight_cutoff,
+        "leads": process_leads(leads),
         "pokemon": compiled_pokemon_data,
-        "moves_used": sorted([ [ m["identifier"], m["id"] ] for m in move_cache ]),
+        "moves_used": sorted(moves_used),
         }
     return compiled_moveset_data
 
+def process_leads(leads):
+    pl = leads.copy()
+    pl["stats"] = [
+        {
+            "pokemon": x["pokemon"],
+            "rank": int(x["rank"]),
+            "usage_pct": float(x["usage_pct"]),
+            "raw_count": int(x["raw_count"]),
+            "raw_pct": float(x["raw_pct"]),
+        }
+        for x in leads["stats"]
+    ]
+    return pl
+
+def parse_pairlist(pairlist):
+    return [ [ nm, parse_pct(pct) ] for (nm, pct) in pairlist ]
+
 def get_counters(moveset_counters):
-        if not s["counters"]:
+        if not moveset_counters:
             counters = []
         else:
-            c = moveset_counters
             counters = [
                     {
                         "name": c["name"],
-                        "pct_usage": float(c["usePct1"]),
-                        "pct_ko": float(c["pctKO"]),
-                        "pct_switch": float(c["pctSwitch"]),
+                        "pct_usage": parse_pct(c["usePct1"]),
+                        "pct_ko": parse_pct(c["pctKO"]),
+                        "pct_switch": parse_pct(c["pctSwitch"]),
                     }
-                    for c in s["counters"]
+                    for c in moveset_counters
                 ]
         return counters
+
+def parse_pct(p):
+    return float(p.strip(" %"))
+
+def parse_int(i):
+    if i is None:
+        return None
+    return int(i)
 
 def get_type_efficacy(type_eff_table, types):
     weak_to = []
@@ -282,21 +313,25 @@ def lookup_move_details(db, move_cache, generation, move_name):
     where m.identifier = ?
     """
     for row in cur.execute(move_sql, (generation, effective_identifier,)):
+        try:
+            power = int(row[4]) if not hidden_power_type else 70
+        except:
+            power = None
         move_data = {
-            "id": row[0],
+            "id": int(row[0]),
             "name": move_name,
             "identifier": row[1],
             "damage_class": row[2],
-            "damage_class_abbr": row[2][0:DAMAGE_CLASS_LENGTH_CHARS]
+            "damage_class_abbr": row[2][0:DAMAGE_CLASS_LENGTH_CHARS],
             "type": hidden_power_type or row[3],
-            "power": int(row[4]) if not hidden_power_type else 70,
+            "power": power,
             "pp": int(row[5]),
             "pp_max": int(float(row[5]) * 1.6),
-            "accuracy": int(row[6]),
+            "accuracy": int(row[6]) if row[6] and row[6] != "---" else None,
             "priority": int(row[7]),
             "effect_chance": row[8],
             "short_effect_template": row[9],
-            "short_effect": format_effect(row[9], row[8])
+            "short_effect": format_effect(row[9], row[8]),
         }
         break
     else:
