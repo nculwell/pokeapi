@@ -104,7 +104,6 @@ def get_moveset_data(db, moveset, leads):
             "identifier": identifier,
             "name": name,
             "national_pokedex_number": int(pokemon_info["national_pokdex_number"]),
-            #"pokemon_db_details": pokemon_info,
             "types": pokemon_info["types"],
             "base_stats":
                 { nm: int(v) for (nm, v) in pokemon_info["stats"].items() }
