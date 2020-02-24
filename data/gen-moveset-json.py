@@ -90,10 +90,12 @@ def get_moveset_data(db, moveset, leads):
     src_format = "Gen %s %s" % (src_generation, src_tier.upper())
     type_eff_table = load_type_efficacy(db, src_generation)
     leads_index = build_leads_index(leads)
+    smogon_dex = load_smogon_pokedex(int(src_generation))
     compiled_pokemon_data = []
     for s in moveset["stats"]:
         name = s["name"]
         identifier = pokemon_identifier_from_name(name)
+        smogon_dex_entry = smogon_dex[identifier]
         pokemon_info = lookup_pokemon_details(db, src_generation, identifier)
         type_efficacy = get_type_efficacy(type_eff_table, pokemon_info["types"])
         upscaled_hp = int(1.25 * (int(2 * int(pokemon_info["stats"]["hp"]) / 100) + 100 + 10))
@@ -104,6 +106,7 @@ def get_moveset_data(db, moveset, leads):
             "identifier": identifier,
             "name": name,
             "national_pokedex_number": int(pokemon_info["national_pokdex_number"]),
+            "tiers": smogon_dex_entry["formats"],
             "types": pokemon_info["types"],
             "base_stats":
                 { nm: int(v) for (nm, v) in pokemon_info["stats"].items() }
@@ -390,6 +393,21 @@ def load_type_efficacy(db, generation):
         except Exception as e:
             raise Exception("Error, dam=%s, tgt=%s: %s" % (dt_nm, tt_nm, str(e)))
     return type_eff_table
+
+SMOGON_GENERATION_ABBREVIATIONS = [
+    "rb", "gs", "rs", "dp", "bw", "xy", "sm"
+]
+
+def load_smogon_pokedex(generation_number):
+    gen_abbr = SMOGON_GENERATION_ABBREVIATIONS[generation_number - 1]
+    with open("smogon/pokedex-%s.json" % gen_abbr) as dex:
+        raw = json.load(dex)
+    pokemon_list = raw["injectRpcs"][1][1]["pokemon"]
+    pokemon_dict = {}
+    for pok in pokemon_list:
+        pok["identifier"] = pokemon_identifier_from_name(pok["name"])
+        pokemon_dict[pok["identifier"]] = pok
+    return pokemon_dict
 
 if __name__ == "__main__":
     main()
