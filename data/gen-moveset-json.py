@@ -409,6 +409,12 @@ def load_smogon_pokedex(generation_number):
         pokemon_dict[pok["identifier"]] = pok
     return pokemon_dict
 
+def compute_hp_stat(base_hp, iv, ev, level):
+    return int((2 * base_hp + iv + int(ev / 4)) * level / 100) + level + 10
+
+def compute_stat(base_stat: Int, iv: Int, ev: Int, level: int, nature_modifier: float):
+    return int((int((2 * base_stat + iv + int(ev / 4)) * level / 100) + 5) * nature_modifier)
+
 if __name__ == "__main__":
     main()
 
